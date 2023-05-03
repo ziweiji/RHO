@@ -1,0 +1,1359 @@
+1358
+later known a	0
+hub	1
+spin offs	2
+origin	3
+ha possessed (fictional object)	4
+sport used for	5
+~featured artist	6
+is-a	7
+accepted gender	8
+key	9
+~ensemble conducted	10
+~location served	11
+~branched from	12
+theme area	13
+ranked by	14
+place lived	15
+~position	16
+included in group(s)	17
+expansion for	18
+spouse (or domestic partner)	19
+~mode of transit	20
+organization type	21
+medium	22
+subdiscipline of	23
+~guitar played	24
+~supporting tour	25
+~place lived	26
+~people with this family name	27
+~region where grown	28
+color	29
+next in series	30
+partially contained by	31
+~partially contained by	32
+featured in religion	33
+~power or ability	34
+~inflow source(s)	35
+speech or presentation	36
+railway	37
+kingdom(s) ruled	38
+game	39
+~type of organization	40
+~theme area	41
+region where grown	42
+martial art instructor(s)	43
+specialization of	44
+affiliated disease	45
+chef-lieu	46
+tv series	47
+~medical condition	48
+~has_genre	49
+chefs	50
+~president	51
+software	52
+~measurement	53
+~lighthouse having color ranges	54
+ideology	55
+~collection category	56
+martial art(s)	57
+children	58
+~home venue for	59
+transmission route	60
+~bridge type	61
+capital	62
+art subject	63
+position(s)	64
+product endorsed	65
+~recording performance	66
+used to treat	67
+~iucn category	68
+~particle	69
+~sport team	70
+manufacturer	71
+~part of	72
+government	73
+~building function	74
+translation of	75
+operated by	76
+~programming language used	77
+~protocol used	78
+primary universe	79
+organization founded	80
+body this is a component of	81
+~medium genre equivalent	82
+instance of recurring event	83
+~chemical series	84
+supporting tour	85
+~governing body	86
+~governmental body (if any)	87
+featured artist	88
+adjoins	89
+~host city	90
+court or title	91
+~network	92
+blender	93
+tv program	94
+featured in film	95
+~comparable aircraft	96
+~film	97
+~location	98
+~music/release_track/number_on_disc	99
+primary language	100
+~architecture firm	101
+~film dubbing performance	102
+historically used by religion	103
+~asset owned	104
+focus city for	105
+producer(s)	106
+part of game series	107
+~hub	108
+disease or condition caused	109
+~technique	110
+~people with this hobby	111
+notable guest	112
+~calendar system	113
+school	114
+type of disaster	115
+~used by armed force	116
+appears in ranked list	117
+~organism	118
+~government	119
+first ascent	120
+particle	121
+~belongs to organization	122
+computer	123
+power or ability	124
+film crewed	125
+~basin country	126
+~administrative capital	127
+~institution	128
+film series	129
+visiting scholars, fellows, etc.	130
+~geographic distribution	131
+~set decoration by	132
+~layout engine	133
+~place	134
+weave	135
+~condition this may prevent	136
+~is part of	137
+~military combatant	138
+has_person	139
+~brewery / brand	140
+geographic distribution	141
+~more general ingredient	142
+~featured in religion	143
+~route of administration	144
+~higher classification	145
+~athletics brand	146
+~court or title	147
+~mascot	148
+focus	149
+~universe	150
+airport type	151
+~landscape architect	152
+~part of fictional universe	153
+structure owned	154
+~legal structure	155
+day of year	156
+film dubbing performance	157
+specie	158
+route of administration	159
+~website owned new	160
+blog	161
+~county seat	162
+~film festival	163
+~operates government service	164
+~ranked by	165
+~religious practice of	166
+competition	167
+sponsorship	168
+ensemble conducted	169
+~sport team location	170
+~time/participant/event	171
+people with this interest	172
+participated in conflict	173
+~bordering constellation	174
+~school or movement	175
+parent	176
+costume design by	177
+commanded by rank	178
+space mission	179
+~parent organization	180
+geographic scope	181
+character created by	182
+religion(s) that worship this deity	183
+exterior color	184
+~film executive produced	185
+~ideology	186
+release of	187
+event competed in	188
+official charity	189
+rated	190
+~art direction by	191
+~film appeared in	192
+district seat	193
+~group	194
+~primary universe	195
+~periodical edited	196
+disease(s)	197
+adherent	198
+~away team	199
+parent disease	200
+people with this family name	201
+~cover appearance	202
+discoverer	203
+~kp_lw/philosopher/main_interests	204
+make	205
+~survived disaster	206
+distillery	207
+~rank	208
+theme	209
+affiliation	210
+primary release	211
+~ink	212
+~support	213
+~sponsor	214
+~island group	215
+~adherent	216
+~lake type	217
+~research area	218
+~make	219
+part of	220
+~stance	221
+~region	222
+appears in these fictional universe	223
+appears in book	224
+medical school affiliation	225
+~time/event/participant	226
+~featured location	227
+place of first performance	228
+project	229
+judges/jury	230
+~spin offs	231
+~color	232
+typical ingredient	233
+composer	234
+sacred site	235
+aircraft fleet composition	236
+~tour operators	237
+~medical school affiliation	238
+~weave	239
+translator	240
+locale	241
+jurisdiction of agency's government	242
+lighthouse having color ranges	243
+romantically involved with	244
+~sponsorship	245
+region of origin	246
+~place of first performance	247
+category of	248
+~destination	249
+~place built	250
+~included in group(s)	251
+royal line	252
+~religious leadership	253
+~casting director	254
+~theme	255
+~orchestrator	256
+made by company	257
+producer	258
+current team coached	259
+place built	260
+~damaged by disaster	261
+~currently in production	262
+~sequel	263
+legislative capital	264
+~affiliated disease	265
+~episode segment	266
+~parent writing system	267
+near travel destination	268
+animal owned	269
+directed_by	270
+play produced	271
+~travel destination served	272
+bridge type	273
+building function	274
+~operated by	275
+space agency	276
+~third level division of	277
+fermentation base	278
+~system	279
+official language	280
+~fictional organization founder	281
+completed unfinished work	282
+system	283
+~belongs to order	284
+~organization membership	285
+~origin	286
+second level division of	287
+~first level division of	288
+related model	289
+celebrity rival	290
+~included in event	291
+pharmacological class	292
+matches lost	293
+posting	294
+is part of	295
+~kp_lw/philosopher/influenced_by	296
+parent genre	297
+successor agency	298
+website category	299
+kp_lw/philosopher/school	300
+~higher rank	301
+period or movement	302
+major city	303
+~active moiety	304
+~associated with	305
+military conflict	306
+~computer	307
+brewery / brand	308
+collection category	309
+party to case	310
+~notable guest	311
+~featured in fictional universe	312
+~noble rank	313
+~founding school	314
+~script	315
+~creator of strip	316
+ink	317
+website owner	318
+beer style	319
+computer line	320
+~us game engine	321
+fictional object destroyed	322
+~speech or presentation	323
+~partner	324
+~country formerly used	325
+country of nationality	326
+~member of	327
+~later known a	328
+~climate	329
+~accommodation	330
+administrative headquarters	331
+format	332
+month name	333
+programming language used	334
+version of	335
+~state/province/region	336
+~from organism	337
+universe	338
+artwork	339
+~periodic table block	340
+~subject	341
+~sport played	342
+nearby airport	343
+comparable aircraft	344
+~artwork	345
+organization advised	346
+~expansion for	347
+category	348
+asset owned	349
+material	350
+~engine type	351
+railway terminating here	352
+release	353
+~ship builder	354
+~team	355
+~composer	356
+~sport coached	357
+~instrument played	358
+~type	359
+listing	360
+fuel used	361
+parent classification	362
+people who have had this role	363
+~adjoins	364
+~filming location	365
+~people with this interest	366
+mode of writing	367
+music/release_track/number_on_disc	368
+~company	369
+~program creator	370
+sequel	371
+part of fictional universe	372
+cinematography	373
+~place founded	374
+~si base unit	375
+~discovering country	376
+~employer	377
+~designer	378
+~album contribution	379
+produced by	380
+highest grade taught	381
+~key	382
+technique	383
+~produced by	384
+~artist	385
+~occupation	386
+~time zone(s)	387
+~setting	388
+~in_language	389
+~voice type	390
+~fraternity and sorority	391
+instrument played	392
+academic advisor	393
+~specialization of	394
+~topic_server/webref_cluster_members_type	395
+~orbit	396
+~place of origin	397
+~publisher	398
+branched from	399
+park	400
+location(s)	401
+discipline or subject	402
+sector	403
+~organization acquired	404
+building occupied	405
+type	406
+~type of disaster	407
+~sport	408
+internet tld	409
+~art subject	410
+~party to case	411
+~film series	412
+place musical career began	413
+~aircraft type	414
+~registry	415
+peripheral class supported	416
+organization acquired	417
+mountain type	418
+~region of origin	419
+~listing	420
+~kp_lw/philosophy_influencer/influencee	421
+first level division of	422
+film format	423
+~housed in	424
+~librettist	425
+location served	426
+landscape architect	427
+school type	428
+music video performance	429
+~leader of	430
+higher classification	431
+~disease or condition caused	432
+set decoration by	433
+partner in firm	434
+ship builder	435
+parent model	436
+~musical composition about this topic	437
+captain	438
+voice type	439
+~area affected	440
+local transportation	441
+~military conflict	442
+building complex	443
+accommodation	444
+~typical ingredient	445
+~target language	446
+~setting type	447
+~manufacturer	448
+tv program (recurring writer)	449
+~registered with	450
+~jurisdiction	451
+~project	452
+~locale	453
+~place of burial	454
+married to	455
+parent language	456
+away team	457
+~production company	458
+registry	459
+~incompatible with dietary restriction	460
+~operator	461
+employment history	462
+~currently used by religion(s)	463
+sponsor	464
+casting director	465
+religious practice of	466
+~parent aircraft model	467
+~martial art instructor(s)	468
+protocol used	469
+~appears in story	470
+label	471
+~team coached	472
+~focus city for	473
+~coaching history	474
+music/release_track/disc_number	475
+~software	476
+time/event/participant	477
+~division	478
+star system	479
+educational institution	480
+olympics participated in	481
+~destroyed by	482
+~player	483
+~patent	484
+rank	485
+premiere production	486
+based on	487
+production design by	488
+recording performance	489
+place of death	490
+~closest city	491
+form of government	492
+work reviewed	493
+influenced by	494
+related event	495
+~symptom of	496
+~form of government	497
+written_by	498
+developer	499
+~automotive class	500
+~party	501
+~performed by	502
+vocal range	503
+~day of year	504
+home team	505
+type of organization	506
+coat of arm used	507
+key designer	508
+~parent category	509
+~country	510
+~content	511
+president	512
+~story specific appearance	513
+~blog	514
+filming location	515
+size	516
+~religious text of	517
+~key designer	518
+~founder	519
+~kingdom	520
+purchased player	521
+~force deployment	522
+sport	523
+facility	524
+award won	525
+~place of birth	526
+~gender	527
+~website owner	528
+~language spoken	529
+~academic advisor	530
+platform supported	531
+featured in fictional universe	532
+belief of	533
+parent cause of death	534
+fictional organization founder	535
+~medium	536
+~origin(s)	537
+~language paradigm	538
+inflow source(s)	539
+incompatible with dietary restriction	540
+~feature	541
+conference	542
+setting	543
+~electoral college	544
+destination	545
+architect	546
+~imprint of	547
+in_language	548
+~software genre	549
+~first ascent	550
+included in event	551
+rank or role	552
+~district seat	553
+damaged by disaster	554
+~edited by	555
+~religion(s) that worship this deity	556
+~medical specialty	557
+~circulation area	558
+~romantic relationship (with celebrities)	559
+armed force	560
+~cause of death	561
+postal code	562
+hockey position(s)	563
+edited by	564
+electoral college	565
+~part of game series	566
+parent product line	567
+~topic_server/schemastaging_corresponding_entities_type	568
+~parent model	569
+periodic table block	570
+~album content type	571
+~premiere production	572
+~sibling	573
+~club with this interest	574
+place	575
+parent writing system	576
+~conference	577
+position	578
+kp_lw/philosophy_influencer/influencee	579
+librettist	580
+~play appears in	581
+~starring tv role	582
+time/participant/event	583
+musical genre	584
+breed of	585
+concert	586
+artist	587
+~transit service type	588
+cause of death	589
+~competition	590
+patent office	591
+~release	592
+measurement	593
+~supplier	594
+~type of dish	595
+destroyed by	596
+letter	597
+~visiting scholars, fellows, etc.	598
+state/province/region	599
+~coterminous with	600
+island group	601
+organisation	602
+~participation in relay	603
+team owned	604
+serialized work	605
+~spouse (or domestic partner)	606
+~contained by (fictional places)	607
+distributor	608
+disease with this risk factor	609
+~place exported to	610
+~version of	611
+~related model	612
+~armed force	613
+associated period or movement	614
+premier	615
+~character	616
+~highest grade taught	617
+currency used	618
+stance	619
+~title	620
+~parent disease	621
+~participated in conflict	622
+engine type	623
+member	624
+~follows diet	625
+~place of cremation	626
+food	627
+guitar played	628
+~blender	629
+film festival	630
+group	631
+medical condition	632
+~computer line	633
+artist supported	634
+~terminus for line	635
+medical specialty	636
+~olympics bid on	637
+~champion	638
+~olympic game contested	639
+~producer	640
+~named after	641
+sport played	642
+~airport served	643
+~member of (old)	644
+appears in universe	645
+people involved	646
+~license	647
+language spoken	648
+institution	649
+~neighborhood of	650
+support	651
+~primarily contained by	652
+fighter	653
+~product endorsed	654
+~celebrities	655
+~writing system	656
+county	657
+~position(s)	658
+~created by	659
+tincture	660
+~near travel destination	661
+~associated medical specialty	662
+~supported architecture	663
+player statistics	664
+~designed by	665
+~parent	666
+canonical version	667
+~concert	668
+hybrid	669
+olympic game used in	670
+source of milk	671
+more general ingredient	672
+~legislative capital	673
+~tv program	674
+~hall of fame induction	675
+imprint of	676
+~runner-up	677
+~waypoint type	678
+~parent brand	679
+~kp_lw/philosopher/era	680
+~game contested a demonstration	681
+~partner in firm	682
+type of writing	683
+runner-up	684
+military combatant	685
+~place of death	686
+part of professional field	687
+religion founded	688
+~processor	689
+~original language	690
+~mode of writing	691
+topic_server/webref_cluster_members_type	692
+processor	693
+~written_by	694
+used in product	695
+~distillery	696
+~used in product	697
+~engine family	698
+~airport type	699
+part of cancer center	700
+holiday category	701
+occupation	702
+recorded by	703
+~jurisdiction of agency's government	704
+provides service	705
+belongs to organization	706
+~school	707
+parent industry	708
+~primary region	709
+organism type	710
+album content type	711
+~major rank	712
+~parent o	713
+origin(s)	714
+art direction by	715
+stage of	716
+~martial art(s)	717
+website owned new	718
+~discovered	719
+~fictional object destroyed	720
+~education	721
+~interior illustration by	722
+jurisdiction	723
+~art form	724
+major rank	725
+~breed	726
+~lyricist	727
+~ha possessed (fictional object)	728
+~type of museum	729
+member of	730
+play appears in	731
+~player statistics	732
+multi-event tournament participated in	733
+parent brand	734
+supported architecture	735
+venture investment	736
+~athlete	737
+contained by	738
+parent organization in fiction	739
+film	740
+artwork owned	741
+place exported to	742
+administrative capital	743
+~celebrity rival	744
+topic_server/population_number	745
+closest city	746
+~made by company	747
+~dedication	748
+governing body	749
+kp_lw/philosopher/region	750
+player	751
+~profession represented	752
+third level division of	753
+~loan	754
+~educational institution	755
+subject	756
+athlete	757
+tv episode performance	758
+force deployment	759
+parent website	760
+celebrity friend	761
+member of (old)	762
+mouth	763
+~organization type	764
+domain type	765
+arena/stadium	766
+~release type	767
+~disease(s)	768
+~olympics participated in	769
+~music_by	770
+~involved in merger	771
+~purchased player	772
+episode segment	773
+~parent cause of death	774
+~side effect of	775
+~member of language family	776
+chivalric rank	777
+~league	778
+~developer	779
+higher rank	780
+~premier	781
+~governance of	782
+body of water	783
+~format creator	784
+engine family	785
+country formerly used	786
+~verse form	787
+~platform supported	788
+~type of place of worship	789
+~fuel used	790
+~tv segment performances	791
+~costume design by	792
+~featured in film	793
+~cinematography	794
+~geographic scope	795
+~family	796
+~superior court	797
+leader of	798
+basin country	799
+~holiday category	800
+~alliance	801
+~chefs	802
+mountain range	803
+~railway terminating here	804
+opera appears in	805
+partner	806
+higher order	807
+religious order	808
+involved in merger	809
+~spun-off from	810
+neighborhood of	811
+~festivals sponsored	812
+aircraft type	813
+syndicate	814
+belongs to combatant group	815
+~current team coached	816
+~parent institution	817
+operates government service	818
+school or movement	819
+associated medical specialty	820
+~local transportation	821
+~accepted gender	822
+~contained by	823
+~solubility	824
+~used to treat	825
+~judicial capital	826
+used by armed force	827
+~rise to prominence	828
+~country of origin	829
+performed by	830
+~belief of	831
+currently in production	832
+~completed unfinished work	833
+~tv program (recurring writer)	834
+~related event	835
+regular featured appearance	836
+~peer	837
+dedication	838
+~ethnicity	839
+sport team location	840
+~gameplay mode	841
+~film crewed	842
+airport served	843
+~payment system	844
+~service	845
+~directed_by	846
+~place musical career began	847
+iucn category	848
+~super-forms	849
+~cuisine	850
+patent	851
+athletics brand	852
+~engineering firm	853
+~religion	854
+~sector	855
+~subdiscipline of	856
+~ski area owned	857
+~discoverer	858
+~presented by	859
+~space program	860
+hall of fame induction	861
+~discipline	862
+theater role	863
+noble rank	864
+department	865
+kind of composition	866
+~weight division	867
+~primary publisher	868
+area served	869
+~preceded by	870
+~member	871
+~mountain range	872
+~period or movement	873
+~home team	874
+area affected	875
+~railway	876
+~primary release	877
+mode of transit	878
+~specie	879
+company	880
+verse form	881
+~organization advised	882
+opposite-gender equivalent	883
+~starred_actors	884
+city	885
+~body of water	886
+light shedder	887
+~commanded by rank	888
+~engineer	889
+accommodation type	890
+organization membership	891
+~art genre	892
+~school type	893
+film executive produced	894
+condition	895
+~parent product line	896
+~affiliation	897
+~syndicate	898
+~recorded by	899
+registered with	900
+parent category	901
+~kingdom(s) ruled	902
+~release_year	903
+~sacred site	904
+~organism type	905
+cuisine	906
+governmental body (if any)	907
+~month name	908
+~language family	909
+education	910
+starring tv role	911
+killed in disaster	912
+original language	913
+location	914
+type of place of worship	915
+~part of series	916
+owner	917
+~body of water spanned	918
+~park	919
+~invention	920
+body of water spanned	921
+series	922
+~appears in universe	923
+presented by	924
+project focus	925
+employer	926
+primary publisher	927
+solubility	928
+brand	929
+~official charity	930
+pencil	931
+type of dish	932
+~patent office	933
+tour operators	934
+designer	935
+~kp_lw/philosopher/region	936
+follows diet	937
+~regular featured appearance	938
+~spoken in country	939
+~fighter	940
+~tv program produced	941
+ski area owned	942
+title	943
+discovering country	944
+~peripheral class supported	945
+automotive class	946
+~character created by	947
+type of museum	948
+discovered	949
+discipline	950
+~internet tld	951
+league	952
+associated with	953
+~transmission route	954
+~genome	955
+character	956
+kingdom	957
+~people involved	958
+release_year	959
+~architectural style	960
+~artist supported	961
+appears in story	962
+format creator	963
+country of origin	964
+~rank or role	965
+superior court	966
+from region	967
+~tv series	968
+~romantically involved with	969
+~matches lost	970
+~associated period or movement	971
+~label	972
+~historically used by religion	973
+~processor family	974
+language paradigm	975
+terminus for line	976
+~employment history	977
+~award won	978
+parent material class	979
+~killed in disaster	980
+active moiety	981
+published in	982
+software genre	983
+country	984
+publisher	985
+capital city	986
+~sex	987
+profession represented	988
+member of language family	989
+~instrument	990
+tv segment performances	991
+parent institution	992
+~animal owned	993
+engineer	994
+side effect of	995
+legal entanglement	996
+~space agency	997
+~part of holiday period	998
+~organization founded	999
+belongs to order	1000
+architectural style	1001
+contained by (fictional places)	1002
+~legal status	1003
+~parent language	1004
+~from region	1005
+music_by	1006
+~breed of	1007
+~committee of	1008
+~notable figure	1009
+coaching history	1010
+~area served	1011
+setting type	1012
+gameplay mode	1013
+~translation of	1014
+drafted	1015
+~country of nationality	1016
+~rated	1017
+club with this interest	1018
+time zone(s)	1019
+supplier	1020
+division	1021
+~capital city	1022
+protocol	1023
+~judges/jury	1024
+~based on	1025
+sport team	1026
+part of series	1027
+~building complex	1028
+sex	1029
+~building occupied	1030
+~location(s)	1031
+housed in	1032
+engineering firm	1033
+orbit	1034
+is member of	1035
+editor	1036
+theme song for	1037
+~legal entanglement	1038
+~discipline or subject	1039
+court	1040
+~part of cancer center	1041
+family	1042
+~opera appears in	1043
+~currency used	1044
+currently used by religion(s)	1045
+transit system	1046
+breed	1047
+climate	1048
+~chef-lieu	1049
+~successor agency	1050
+certification	1051
+service	1052
+~kp_lw/philosopher/school	1053
+rise to prominence	1054
+~material	1055
+interior illustration by	1056
+~nearby airport	1057
+primarily contained by	1058
+~abused by	1059
+album contribution	1060
+si base unit	1061
+~pencil	1062
+~theme song for	1063
+groups	1064
+parent o	1065
+~type of writing	1066
+from organism	1067
+participation in relay	1068
+~non-profit organization	1069
+~appears in ranked list	1070
+~parent website	1071
+~serialized work	1072
+champion	1073
+~major city	1074
+~part of line	1075
+lake type	1076
+~type of infectious agent	1077
+kp_lw/philosopher/era	1078
+~government for	1079
+~organisation	1080
+lyricist	1081
+~published in	1082
+place founded	1083
+~opposite-gender equivalent	1084
+~topic_server/population_number	1085
+waypoint type	1086
+~parent classification	1087
+bordering constellation	1088
+writing system	1089
+~protocol	1090
+created by	1091
+feature	1092
+team coached	1093
+~presenting organization	1094
+~appears in book	1095
+target language	1096
+~winner	1097
+county seat	1098
+~adapted from	1099
+program	1100
+~order of chivalry	1101
+~play produced	1102
+~olympic game used in	1103
+~serf area	1104
+creator of strip	1105
+~format	1106
+~county	1107
+featured location	1108
+~stage of	1109
+~exterior color	1110
+~light shedder	1111
+~second level division of	1112
+~category	1113
+~body this is a component of	1114
+notable filming location	1115
+condition this may prevent	1116
+~administrative headquarters	1117
+~meter	1118
+~venture investment	1119
+adapted from	1120
+~child classification	1121
+languages designed	1122
+calendar system	1123
+processor family	1124
+primary region	1125
+~event competed in	1126
+olympic game contested	1127
+~tincture	1128
+legal structure	1129
+~religion founded	1130
+~influenced by	1131
+order of chivalry	1132
+~part of professional field	1133
+~next in series	1134
+~city	1135
+governance of	1136
+spoken in country	1137
+presenting organization	1138
+game contested a demonstration	1139
+us game engine	1140
+~arena/stadium	1141
+starred_actors	1142
+~parent material class	1143
+festivals sponsored	1144
+story specific appearance	1145
+~disease with this risk factor	1146
+~space mission	1147
+~parent organization in fiction	1148
+~owner	1149
+~parent industry	1150
+found in fictional universe	1151
+cover appearance	1152
+founding school	1153
+~sport used for	1154
+~chivalric rank	1155
+host city	1156
+alliance	1157
+spun-off from	1158
+people with this hobby	1159
+~editor	1160
+architecture firm	1161
+platform	1162
+~current team head coached	1163
+~primary language	1164
+~release of	1165
+survived disaster	1166
+transit service type	1167
+~official language	1168
+~industry	1169
+championship	1170
+~transit agency	1171
+serf area	1172
+ethnicity	1173
+~aircraft fleet composition	1174
+~musical genre	1175
+record label	1176
+~groups	1177
+~theater role	1178
+~kind of composition	1179
+~condition	1180
+musical composition about this topic	1181
+~is member of	1182
+~source of milk	1183
+~food	1184
+~category of	1185
+license	1186
+compatible with dietary restriction	1187
+~tv regular appearance	1188
+~appears in these fictional universe	1189
+metropolitan area	1190
+coterminous with	1191
+organism	1192
+film appeared in	1193
+~multi-event tournament participated in	1194
+notable figure	1195
+abused by	1196
+phase, at stp	1197
+religious leadership	1198
+place of cremation	1199
+~website category	1200
+circulation area	1201
+symptom of	1202
+language family	1203
+celebrities	1204
+child classification	1205
+gender	1206
+production company	1207
+~outflow location	1208
+~record label	1209
+~domain type	1210
+art genre	1211
+sport coached	1212
+main country	1213
+~mouth	1214
+~transit system	1215
+~languages designed	1216
+invention	1217
+part of line	1218
+government position held	1219
+part of holiday period	1220
+designed by	1221
+film collection	1222
+~pharmacological class	1223
+part of brand	1224
+outflow location	1225
+~film format	1226
+kp_lw/philosopher/main_interests	1227
+religion	1228
+~architect	1229
+~work reviewed	1230
+~production design by	1231
+~government position held	1232
+~has_person	1233
+current team head coached	1234
+~notable filming location	1235
+religious text of	1236
+olympics bid on	1237
+~capital	1238
+reason for ceasing operation	1239
+tv program produced	1240
+type of infectious agent	1241
+fictional universe	1242
+~canonical version	1243
+tv regular appearance	1244
+~fictional universe	1245
+~certification	1246
+~metropolitan area	1247
+place of birth	1248
+place of burial	1249
+~celebrity friend	1250
+~film collection	1251
+~provides service	1252
+~letter	1253
+~music/release_track/disc_number	1254
+~vocal range	1255
+meter	1256
+art form	1257
+~championship	1258
+~drafted	1259
+~royal line	1260
+network	1261
+payment system	1262
+fraternity and sorority	1263
+kp_lw/philosopher/influenced_by	1264
+~series	1265
+~program	1266
+super-forms	1267
+~translator	1268
+~posting	1269
+~producer(s)	1270
+~fermentation base	1271
+~postal code	1272
+legal status	1273
+content	1274
+team	1275
+~children	1276
+~recording of composition	1277
+~part of brand	1278
+~brand	1279
+non-profit organization	1280
+has_genre	1281
+home venue for	1282
+romantic relationship (with celebrities)	1283
+recording of composition	1284
+~phase, at stp	1285
+research area	1286
+~hockey position(s)	1287
+~people who have had this role	1288
+~instance of recurring event	1289
+travel destination served	1290
+~platform	1291
+loan	1292
+peer	1293
+~reason for ceasing operation	1294
+~higher order	1295
+genome	1296
+~found in fictional universe	1297
+transit agency	1298
+founder	1299
+operator	1300
+place of origin	1301
+party	1302
+~religious order	1303
+medium genre equivalent	1304
+weight division	1305
+~mountain type	1306
+space program	1307
+chemical series	1308
+mascot	1309
+~distributor	1310
+planet	1311
+~court	1312
+~tv episode performance	1313
+parent organization	1314
+topic_server/schemastaging_corresponding_entities_type	1315
+~game	1316
+match	1317
+~captain	1318
+release type	1319
+program creator	1320
+~main country	1321
+orchestrator	1322
+~music video performance	1323
+sibling	1324
+~hybrid	1325
+~is-a	1326
+script	1327
+~size	1328
+~parent genre	1329
+periodical edited	1330
+winner	1331
+~project focus	1332
+~planet	1333
+instrument	1334
+~beer style	1335
+~focus	1336
+~match	1337
+~team owned	1338
+layout engine	1339
+~coat of arm used	1340
+~married to	1341
+judicial capital	1342
+~belongs to combatant group	1343
+~structure owned	1344
+~department	1345
+~facility	1346
+~accommodation type	1347
+region	1348
+industry	1349
+~artwork owned	1350
+committee of	1351
+parent aircraft model	1352
+government for	1353
+named after	1354
+~star system	1355
+~compatible with dietary restriction	1356
+preceded by	1357

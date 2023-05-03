@@ -1,0 +1,12 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.10.1+cu111
+torchvision==0.11.2+cu111
+pytorch-lightning==1.1.4
+tensorboard==2.2.0
+spacy==2.3.7
+transformers==4.7.0
+datasets==1.8.0
+sentence-transformers==2.0.0
+flair==0.11.3
+rouge-score==0.0.4
+protobuf==3.19.1

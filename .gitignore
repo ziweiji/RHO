@@ -1,0 +1,20 @@
+# 忽略所有文件
+*
+# 不忽略目录
+!*/
+
+×*/
+.ipynb_checkpoints
+
+!*.py
+!*.ipynb
+!*.txt
+!*.md
+!*.csv
+!*.xlsx
+!*.json
+!*.jsonl
+!*.yml
+!*.sh
+!.gitignore
+!*.xml

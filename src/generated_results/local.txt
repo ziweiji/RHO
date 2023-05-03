@@ -1,0 +1,2903 @@
+<user> Who else starred in Windtalkers?
+<user> I love Tik Tok. Do you know any of her other songs?
+<user> When was Whiplash released?
+<assistant> I love his song We Rode in Trucks.
+<assistant> Freakonomics: A Rogue Economist Explores the Hidden Side of Everything is written by Steven D. Levitt. Do you like his work?
+<assistant> Without Remorse is a thriller.
+<assistant> Steven Soderbergh directed Ocean's Twelve. He also directed Erin Brockovich.
+<user> Is Urban Legend a thriller?
+<assistant> Pierre Coffin starred in Despicable Me 2.
+<user> Yes George Clooney is one of the main male actors in that movie.
+<assistant> He also starred in The Fan, which was written by Peter Abrahams.
+<user> Woody Allen is in that movie right?
+<user> I do like comic books. I like We Bought a Zoo.
+<assistant> Yes, she did. Frankenstein was released in 1891.
+<assistant> Women in Love is a historical period drama.
+<assistant> I love Call Me Maybe. Do you like that song?
+<assistant> I'm not a huge football fan, but I do know that John Fox is their coach.
+<assistant> Yes, it is. Captain Corelli's Mandolin is also a romance novel.
+<assistant> Frank Miller wrote this movie.
+<assistant> Winston-Salem is in North Carolina.
+<assistant> Real Steel also starred Evangeline Lilly. Do you like her?
+<user> Did James Sallis star in that movie?
+<user> I think Robert Jackson also wrote the orignal Romeo and Juliet.
+<assistant> Leonardo DiCaprio starred in The Aviator (Biographical Film) #6.
+<assistant> Rick Yancey wrote The Monstrumologist.
+<assistant> City of Ashes is a young adult fiction book written by Cassandra Clare.
+<assistant> Newt Scamander wrote Fantastic Beasts and Where to Find Them.
+<user> She's on the India national cricket team right?
+<user> No, I am not. Who else is in it?
+<assistant> Josh Boone directed The Fault in Our Stars. Have you seen it?
+<user> I love crime movies. When was Z Storm released?
+<user> We Rode in Trucks is one of my favorites. Did you know he also composed I Don't Want This Night to End?
+<assistant> Man of Steel is written by Jerry Siegel and stars Tom Hanks.
+<user> Who else starred in The Aviator (Biographical Film) #6?
+<user> I've heard of A Lick of Frost, can you tell me more about it?
+<assistant> Yes, it was written by Victoria Aveyard.
+<assistant> Steven Spielberg also wrote Close Encounters of the Third Kind.
+<user> Who else starred in Mean Streets?
+<assistant> He wrote Arthur and the Invisibles
+<assistant> You might also enjoy Youth in Revolt.
+<user> Who else starred in Fantastic Mr. Fox?
+<user> Who wrote The Perfect Game?
+<assistant> George R.R. Martin also wrote The Da Vinci Code.
+<user> When was Words of Radiance released?
+<user> Who wrote Red Dragon?
+<user> Who else starred in Wilde Salome?
+<assistant> Tim Miller directed Deadpool. Have you seen it?
+<assistant> S.E. Hinton wrote The Outsiders, which is a children's literature.
+<user> What record label is he signed to?
+<user> Who directed Time Bandits?
+<assistant> It's a Wonderful Life has genre Romance. Do you like Romance movies?
+<user> Is that the one written by Willa Muir?
+<user> No, I haven't. Who else is in it?
+<assistant> Up in the Air is written by Walter Kirn and stars Tom Hanks.
+<assistant> She directed Young Adult, which was directed by Jason Reitman
+<assistant> Rick Riordan wrote The Lightning Thief: The Graphic Novel.
+<assistant> I think he is a great singer. He was on the talent show The Voice.
+<assistant> Going Bovine is a fiction novel.
+<user> Who else was in The Sitter?
+<assistant> Brendon Urie is a songwriter.
+<assistant> Zombies was written by Seth Grahame-Smith.
+<user> Ravichandran Ashwin is one of my favorite players.
+<assistant> Nicolas Winding Refn directed The Neon Demon. Have you seen it?
+<assistant> I haven't, but I know Doc Rivers is their coach. Do you like him?
+<assistant> I don't think so. I think Jim Caldwell is doing a good job coaching them.
+<assistant> Stones into Schools was written by Khaled Hosseini, who also wrote The Kite Runner.
+<user> Cool, can you tell me more about The Scorch Trials?
+<user> Who wrote The Witch of Blackbird Pond?
+<user> No, I haven't. Can you tell me more about Z for Zachariah?
+<user> I like the Miami Dolphins, but I'm more of a Dallas Cowboys fan.
+<assistant> Snoop Dogg was also in Turbo.
+<assistant> The Devil's Advocate is starring Keanu Reeves.
+<assistant> Yes, it was directed by Peter Webber.
+<assistant> The Shining was written by Stephen King and released in 1984.
+<user> Yes, it was released in English
+<assistant> I love A Rush of Blood to the Head. Have you heard it?
+<assistant> I'm not a huge basketball fan, but I do like watching the finals.
+<user> Eve's Bayou was written by Kasi Lemmons right?
+<user> Yes it did. Vanessa Hudgens also starred in High School Musical.
+<assistant> Sure, she wrote A Little Princess, which is a children's literature.
+<assistant> Dawn of the Planet of the Apes is a Sci-Fi movie like Journey 2: The Mysterious Island.
+<assistant> I know he is a point guard for the Portland Trailblazers.
+<user> Baby Mama is starring Tina Fey, right?
+<assistant> Tyga is friends with Nicki Minaj
+<assistant> It was released in 1929
+<assistant> Rob Riggle starred in it.
+<assistant> Yes, he did.
+<assistant> I don't know much about her, but I know she's friends with Taylor Swift. Do you like her?
+<assistant> Yes, it was written by John Grisham and stars Samuel Jackson.
+<assistant> Yes, like The Outsiders.
+<user> Who else starred in that movie?
+<assistant> He wrote Never Let Me Go. Have you read it?
+<assistant> Yes, there is a sequel called Jaws 2.
+<assistant> Yes it was. The House of the Seven Gables is Gothic fiction
+<assistant> Sure, he starred in Toxic, The Devil's Advocate, and many more. Have you seen any of those?
+<assistant> The Paris Wife was written by Paula McLain and released in 2012.
+<assistant> He also starred in Looking for Richard. Have you seen it?
+<user> Who wrote Whiteout?
+<assistant> Yes, he directed Allegiant.
+<assistant> Yes, it was written by Terry Pratchett.
+<assistant> She's from Nashville, right?
+<assistant> Chris Evans starred in What's Your Number? a romantic comedy Film.
+<user> I haven't seen it, but I know it's about Facebook.
+<assistant> I'm not a huge Dallas Cowboys fan, but I do like their coach, Jason Garrett.
+<assistant> Peyton Reed directed Bring It On. Have you seen it?
+<user> Who else starred in that movie?
+<user> I didn't know that, did you know he is from Wales?
+<assistant> Jennifer Lawrence starred in X-Men: First Class.
+<assistant> Anybody Out There?
+<assistant> Yes, he directed The Sorcerer's Apprentice.
+<assistant> Atlas Shrugged is a Speculative fiction novel. Are you interested in other books in that genre?
+<user> Who else starred in Shooting the Past?
+<assistant> Robert Kill is a Thriller.
+<user> What genre is Touch of Evil?
+<assistant> I'm not a huge baseball fan, but I know they were in the 2012 World Series. Do you like baseball?
+<assistant> Anne-Marie is a great singer. She was born in Paris. She is a member of the Homo sapiens group.
+<user> Who else starred in Things Behind the Sun?
+<user> No, I did not. What genre is it?
+<assistant> I don't know much about him other than he is an author.
+<user> Yes, I do. The Silmarillion is one of my favorites.
+<assistant> Deborah Harkness wrote The Book of Life. Have you read it?
+<assistant> Edgar Wright wrote Scott Pilgrim vs. the World starring Anna Kendrick.
+<user> What else has Ernst Gombrich written?
+<assistant> Yes, it was. Ringworld was also released in the English language.
+<user> What genre is Persuasion?
+<assistant> I'm not sure, but I do know that it was written by Charles Frazier.
+<user> Yes, I like her in Wake of Death. What other movies did she star in?
+<assistant> If you like psychological thrillers, you might enjoy When a Stranger Calls.
+<user> What else has he written?
+<assistant> I haven't, but I know he won the 2012 PGA Championship.
+<user> Do you know of any other books in that genre?
+<assistant> Yes, it is a great movie starring Alfred Hitchcock. Do you like him?
+<assistant> Do you like Western movies?
+<assistant> Deidre Shauna Lynch wrote Persuasion.
+<user> Not really a fan of dance-pop. Do you know any of her songs?
+<assistant> Fall of Giants is written by Ken Follett.
+<assistant> Andy Weir wrote The Martian.
+<assistant> I know he is a basketball player and plays point guard. Do you like basketball?
+<user> Yes, like Sia Furler.
+<assistant> It was directed by Guillermo del Toro.
+<assistant> Sure! Philippa Gregory wrote Wideacre and The Lords of Salem. Have you read those?
+<user> Dr. Seuss also wrote There's a Wocket in My Pocket.
+<assistant> Sure, Spider-Man is starring James Franco. Do you like him?
+<assistant> Yes, she starred in No Strings Attached.
+<assistant> Yes, Logan Lerman starred in What Women Want. Have you seen it?
+<assistant> Zodiac is a Thriller. Do you like Thrillers?
+<user> Did she participate in the 2012 Summer Olympics?
+<user> No, I haven't. Do you know any other players on the team?
+<user> Who wrote Slumdog Millionaire?
+<assistant> I love his song We Rode in Trucks. Have you heard it?
+<assistant> Yes, it was written by Stephen King.
+<assistant> Yes, he did. He also starred in Brokeback Mountain.
+<assistant> Daniel Defoe wrote The Life and Strange Surprising Adventures of Robinson Crusoe of York, Mariner.
+<user> I like adventure films, can you tell me more about it?
+<assistant> I'm not a huge fan of the National Football League, but I do like the Jacksonville Jaguars.
+<user> No I haven't. Can you tell me more about Pan's Labyrinth?
+<user> Wasn't Lolita Davidovich married to Ron Shelton?
+<user> Who wrote Secrets of a Charmed Life?
+<user> Panic was released in 2014, the same year The Silkworm was released.
+<assistant> Hancock is written by Vince Gilligan.
+<user> What year was it released?
+<user> No, I haven't. Who else starred in that movie?
+<assistant> I think they are a good team. They were the runner-up in Super Bowl II.
+<assistant> Keshia Knight Pulliam also starred in The Gospel.
+<user> Who directed Wild Card?
+<assistant> Yes, they are very talented. Their dad also won the NAACP Image Award – President's Award.
+<user> Jason Segel also starred in How I Met Your Mother, have you seen it?
+<user> Is Life of Pi an adventure movie?
+<assistant> I do! He starred in This is 40. Have you seen it?
+<user> I like Leonardo DiCaprio
+<assistant> I think he is a great artist.
+<assistant> Lorraine Toussaint starred in Hudson Hawk.
+<assistant> Michelle Wie is a golfer from Honolulu.
+<user> Was Where There's Smoke also released in 2014?
+<assistant> It's a sports movie. You might also like Resurrecting the Champ.
+<assistant> Yes, Celesta won the Grammy Awards for Song of the Year.
+<assistant> Zach Grenier also starred in Twister. Have you seen it?
+<assistant> The Phantom Tollbooth was written by Norton Juster.
+<assistant> Rainbow Rowell
+<assistant> That was the same year Zulu was released.
+<assistant> Jorja Fox is a model and actress. Do you like her?
+<assistant> Green Eggs and Ham was written by Dr. Seuss and is a children's book. Do you like children's literature?
+<user> I haven't. Who wrote Myra McEntire?
+<user> Is that a mystery?
+<assistant> Yes Whale Rider is a Coming of Age movie.
+<assistant> The Last Samurai is written by John Logan and stars Tom Berenger.
+<assistant> I love Transformers. Zack Ward is one of my favorite actors.
+<assistant> He also wrote Iron Man 2.
+<assistant> It stars Brenda Blethyn and Kevin Spacey.
+<assistant> Deception Point was written by Dan Brown and is a thriller. Do you like thrillers?
+<assistant> Yes, it was written by James Dashner and is a thriller. Do you like thrillers?
+<assistant> Yes, he also wrote The Island of Dr. Moreau.
+<user> I've read Tell No One, but not Outbreak. Can you tell me more about it?
+<assistant> Sure, she also starred in Revolutionary Road and The Devil Wears Prada.
+<assistant> Duncan Jones wrote Moon. Moon is starring Matt Berry.
+<user> I don't know much about soccer, but I know Shakira is from Colombia. Do you know her?
+<user> Is that the one with Álex Angulo?
+<assistant> Yes, it stars Wade Williams.
+<assistant> yes, he also wrote The Dead Zone.
+<user> Yes he was. He was also a point guard for the Miami Heat.
+<user> Who starred in X-men Origins: Wolverine?
+<assistant> Kiss the Girls is written by James Patterson.
+<assistant> Do you like Forrest Gump because it stars Tom Hanks?
+<assistant> Colin Farrell starred in Tigerland. Do you like him?
+<assistant> Bob Gunton starred in A Woman Named Jackie.
+<assistant> I like tennis, but I'm more of a fan of Petra Kvitová.
+<assistant> Do you like fantasy movies?
+<assistant> Pauline Baynes wrote The Chronicles of Narnia.
+<user> Tell-All sounds good. When was it released?
+<assistant> Yes she also wrote Clockwork Angel and Lady Midnight
+<assistant> Leonardo DiCaprio starred in the Great Gatsby
+<user> I do like electronic music but I prefer Dance music.
+<user> No, I haven't. Is he from Sweden?
+<assistant> The White Stripes is a record label.
+<user> No, I did not. I know she is a sibling to Venus Williams.
+<user> Oklahoma City Thunder is a good team. Do you like them?
+<user> Yes Jean Arthur was also in that movie.
+<assistant> Revenge of the Wannabes (The Clique, #3) is similar.
+<assistant> Have you seen Catwoman? It is an action movie.
+<user> Yes, Call Me Maybe is in English Language.
+<assistant> Tim LaHaye also wrote The Sacrilege: The Antichrist Takes the Throne.
+<user> Gathering Blue is Speculative fiction, right?
+<assistant> Rogues was also written by Gillian Flynn
+<user> Who else starred in The 13th Warrior?
+<assistant> No, I didn't know that. The Montreal Expos is in the National League. The Chicago Cubs are in the same league.
+<assistant> Wimbledon is a romantic comedy film starring Eleanor Bron.
+<user> Yes, he died in Tampa.
+<user> Is Moneyball a drama?
+<assistant> A Confederacy of Dunces is a tragicomedy.
+<user> Yes, he was great in Toy Story 3. Have you seen it?
+<assistant> Yes, he directed 300: Rise of an Empire.
+<assistant> Anthony Burgess wrote The Improbable Adventures of Sherlock Holmes.
+<assistant> Hayao Miyazaki directed Ponyo. Ponyo has genre Family.
+<user> Who else stars in Wicked?
+<assistant> The Silence of the Lambs was written by Thomas Harris and released in 2012.
+<user> Who wrote it?
+<assistant> Alfred MacAdam wrote The Time Machine and The Invisible Man.
+<assistant> I haven't, but I love Whatcha Say. Have you heard it?
+<user> Mark Gordon also produced The Messenger.
+<assistant> Yes, he was in it
+<user> What genre is In Her Shoes?
+<assistant> She was also in X-Men 2 and Jack the Giant Slayer.
+<assistant> It's a Heroic Fantasy.
+<assistant> Lemony Snicket wrote The Wide Window.
+<assistant> Woody Harrelson also starred in Zombieland.
+<assistant> Martin Gardner wrote The Portable Atheist: Essential Readings for the Non-believer.
+<assistant> I'm not a huge fan of the Dallas Cowboys, but I do like their coach, Jason Garrett.
+<user> Did Christopher Nolan also direct The Prestige?
+<assistant> I think they won Super Bowl XXXVII. Do you like football?
+<assistant> The Dark Knight is starring Nicky Katt and Kevin Spacey.
+<assistant> What Looks Like Crazy on an Ordinary Day was released in 1997
+<user> Yes, I do. I also like The Good Doctor. Have you seen that one?
+<assistant> Hugo is starring Sacha Baron Cohen. Do you like his work?
+<assistant> Keanu Reeves was also in it.
+<user> I like tobyMac. Do you know any other artists?
+<user> Good Deeds is a great movie. I think Gabrielle Union also starred in Cadillac Records.
+<assistant> Zoolander was written by Ben Stiller, who also directed Tropic Thunder.
+<assistant> Rob Riggle starred in Larry Crowne
+<assistant> Do you like DC Comics?
+<assistant> Paul Haggis wrote The Next Three Days starring Russell Crowe.
+<user> Who else starred in Ocean's Eleven?
+<user> Yes, I do. The Storyteller is one of my favorites.
+<user> I like Pirates of the Caribbean: At World's End.
+<assistant> Yes, she is an author.
+<assistant> I'm not a huge football fan, but I do know that Tom Benson owns the team.
+<assistant> You're Never Weird on the Internet was written by Felicia Day
+<user> What genre is Austin Powers: The Spy Who Shagged Me?
+<assistant> Yes, it was directed by Ang Lee.
+<assistant> Andrew Stanton wrote WALL-E starring Jess Harnell.
+<assistant> I do! He wrote Three Kings, which is a drama. Have you seen it?
+<assistant> Yes, she composed Titanium (Composition) #39.
+<assistant> Yes, he used to coach the Milwaukee Bucks as well as Larry Drew.
+<user> Did Paul F. Tompkins star in Magnolia?
+<assistant> Sure, A Million Little Pieces was written by James Frey and released in 1960. Do you like his work?
+<assistant> Skyfall is starring Rory Kinnear and Liam Neeson.
+<assistant> Tennessee Williams wrote The Glass Menagerie.
+<assistant> they are a good team. Pierson Prioleau is a good player. do you like them?
+<user> I like comedies. Can you tell me more?
+<user> What other Thrillers did Kyla Pratt star in?
+<assistant> He plays for Real Madrid C.F..
+<user> Who else starred in X-Men: First Class?
+<assistant> Chris Hemsworth starred in Thor. Thor is a science fiction film. Do you like science fiction?
+<assistant> Madame Bovary is in French. The Piano Teacher is also in that genre.
+<assistant> He was also in Troy. Have you seen that one?
+<user> They play at the Time Warner Cable Arena.
+<assistant> Do you like Watchmen because it is a fantasy?
+<assistant> It was released in 1981.
+<user> Rihanna is an actor right?
+<assistant> Inside Out stars Mindy Kaling and is a comedy. Do you like comedy?
+<user> I think I've heard of Into the Wild. What else has he written?
+<assistant> I'm more of a fan of the England cricket team. I think Graham Gooch is from Leytonstone.
+<user> Wasn't Hayden Panettiere in that movie?
+<user> The Sandman: King of Dreams sounds interesting. Can you tell me more about it?
+<assistant> Margaret Mauldon wrote Madame Bovary.
+<assistant> He also wrote All About the Benjamins
+<assistant> The Firm is written by John Grisham and is a drama. Do you like drama?
+<user> I've heard of The River. Who wrote it?
+<assistant> Stan Lee wrote and directed Spider-Man 2. Have you seen it?
+<assistant> I don't know much about him. I know he fought Oscar De La Hoya.
+<user> Radamel Falcao is on the Colombia national football team right?
+<assistant> Sure, The Interview is a psychological thriller similar to The Sixth Sense.
+<assistant> I don't know much about her other than she is married to Venus Williams. Do you like tennis?
+<assistant> Zane Grey was influenced by China Miéville
+<assistant> Anonymous wrote the Holy Bible English Standard Version.
+<user> I think he is in a relationship with Caroline Wozniacki.
+<assistant> Graham Greene is a similar author.
+<user> I think I will check out Eternal Sunshine of the Spotless Mind. Thank you!
+<user> I am not familiar with The Silkworm. What other books did she write?
+<user> I don't think so. I think they are in the NFC South division.
+<assistant> I like Eminem. He starred in 8 Mile. Have you seen it?
+<assistant> Wuthering Heights is a good one.
+<assistant> I'm not a huge football fan, but I do like watching the AFC East.
+<user> Falling Up was released in 1996, right?
+<assistant> Andy Murray is a tennis player from London. Do you like tennis?
+<user> I do! I love Harry Potter and the Prisoner of Azkaban. Who wrote it?
+<assistant> Corrie ten Boom wrote The Hiding Place which is an autobiography.
+<assistant> Martin Short starred in Treasure Planet.
+<user> I didn't know that. I love Halle Berry. Can you recommend any other movies she was in?
+<user> I have not. I know that Joey Fatone is on Family Feud. Do you know him?
+<assistant> Sergio Agüero is a forward in the Argentina national football team.
+<assistant> Yes, I love Will Smith in Men in Black 3.
+<assistant> He's a basketball player right?
+<assistant> Sue Monk Kidd wrote The Mermaid Chair.
+<assistant> I don't think so. I think Steve Smith, Sr. is pretty good too.
+<user> Is he a Spanish Language coach?
+<user> I like comedies. Can you tell me more?
+<user> Do you like baseball?
+<user> I like comedies. You, Me and Dupree is a good one.
+<assistant> I haven't seen X-Men 2, but I know Bryan Singer wrote it. He also wrote Superman Returns.
+<assistant> Sylvester Stallone wrote and directed The Expendables.
+<assistant> Do you like Spike Jonze?
+<assistant> The Bad Beginning is part of a series of Unfortunate Events written by Daniel Handler.
+<user> Is Javier Hernández a football player?
+<assistant> It was written by Adam Sandler, right?
+<assistant> Radamel Falcao plays for the Colombia national football team.
+<assistant> Legend was written by Marie Lu. She also wrote The Young Elites.
+<assistant> J. J.M. Barrie wrote Peter Pan.
+<assistant> Terry Collins is the current coach.
+<assistant> I know he plays for the Uruguay national football team.
+<user> Yes it is. He also starred in Wag the Dog.
+<user> No, I haven't. When was it released?
+<assistant> Are you a fan of Thriller movies?
+<assistant> Yes, Rashida Jones starred in The Social Network. Have you seen it?
+<assistant> Harbhajan Singh is a cricket player from Delhi. Do you like cricket?
+<assistant> Yes, he wrote Romeo and Juliet. Have you seen it?
+<user> What genre is it?
+<user> George Steinbrenner died of a heart attack.
+<user> I don't know much about them. Is Sunil Gavaskar from Mumbai?
+<user> No, I did not. What other books did she write?
+<assistant> Nicholas Sparks wrote The Last Song.
+<assistant> Chuck Palahniuk wrote Tell-All.
+<assistant> Harrison Ford starred in Indiana Jones and the Last Crusade. Do you like him?
+<user> No, I haven't. Is H.G. Wells the author?
+<user> Who else starred in The Sorcerer's Apprentice?
+<user> When was it released?
+<assistant> Yes, it was written by Guillermo del Toro.
+<user> I don't know if he's still in a relationship with Jordin Sparks.
+<user> Michael Connelly also wrote Void Moon.
+<assistant> Edith Grossman wrote La fiesta del chivo.
+<assistant> It was released in 2004.
+<assistant> Yes it is. It also stars Amy Ryan.
+<assistant> Pop Music Genre is American Life
+<user> I think they play at Santiago Bernabéu Stadium.
+<assistant> The Wolf of Wall Street stars Matthew McConaughey. Do you like him?
+<user> I don't know much about her other than she is a good tennis player.
+<user> I haven't seen Zulu. Who else is in it?
+<assistant> Casanova was released in 2009. Lauren Cohan also starred in Batman v Superman: Dawn of Justice.
+<user> Wasn't he in a relationship with Lindsey Vonn?
+<assistant> Kung Fu Panda is a comedy. Do you like comedies?
+<assistant> Scarlett Johansson also starred in A Love Song for Bobby Long. Have you seen it?
+<user> I think he is doing a great job. I think they are doing a good job with their new coach Steve Kerr.
+<assistant> He plays for Real Madrid C.F..
+<assistant> Greg Heffley's Journal was written by Jeff Kinney who also wrote The Ugly Truth.
+<assistant> He wrote The Age of Innocence.
+<assistant> He also starred in The Brothers Grimm, which is an action film.
+<assistant> The Undomestic Goddess was written by Sophie Kinsella. She also wrote I've Got Your Number.
+<assistant> The Help was adapted from Water for Elephants.
+<assistant> I'm not familiar with Serena Williams, but I know she starred in Hair Show.
+<assistant> Yes, he wrote Run Lola Run starring Moritz Bleibtreu.
+<assistant> Yes, The Tigger Movie is a musical.
+<user> I like Jack Black. Can you tell me more about King Kong?
+<assistant> Who Moved My Cheese? is written by Spencer Johnson.
+<assistant> yes he was. what else can I answer for you?
+<user> Who wrote The King?
+<assistant> I did not know that. He is also a bassist.
+<assistant> My Sister's Keeper was written by Jodi Picoult. She also wrote Plain Truth.
+<assistant> I don't know much about her other than she's a singer. Do you like her?
+<assistant> Judd Hirsch starred in Tower Heist. Have you seen it?
+<assistant> PS, I Love You was written by Cecelia Ahern and released in 2012.
+<user> I'm not a huge fan of her, but I know she was on American Idol.
+<assistant> Yes, she is similar to Mike Mulligan and His Steam Shovel.
+<assistant> I don't know much about her other than she was in Thank Me Later.
+<assistant> Yes, he was named after Ronaldo.
+<user> I'm not familiar with The Wind That Shakes the Barley. Who else starred in it?
+<assistant> I would love to visit Cairo and see Queen Rania of Jordan.
+<assistant> I like her on Loud Tour. Have you heard that one?
+<user> Who else starred in Unbound Captives?
+<assistant> Yes, he was. He also wrote The Wendell Baker Story.
+<assistant> Yes, Wilford Brimley is also in it. It's a thriller. Do you like thrillers?
+<user> The Green Mile is written by Stephen King right?
+<user> What else has Jean Pierre Jeunet written?
+<user> I didn't know that. Zombieland is a great movie. Have you seen it?
+<assistant> She's a tennis player right?
+<assistant> Wonder was released in 2012 and produced by Ryan Kavanaugh.
+<user> Yes, I love him. He also wrote Good Will Hunting. Have you seen it?
+<assistant> Yes, it stars Rebecca Hall
+<assistant> Sure! Rob Marshall produced Nine, which is a drama. Have you seen it?
+<user> Who else starred in Gangster Squad?
+<assistant> Jack Davenport starred in The Talented Mr. Ripley. Have you seen it?
+<assistant> In the Valley of Elah stars Charlize Theron.
+<assistant> You, Me and Dupree is starring Todd Stashwick.
+<assistant> Yes, he is. He also starred in The Border. Have you seen that one?
+<assistant> Paulette Goddard is married to Erich Maria Remarque.
+<assistant> Do you like Pulp Fiction because it's a drama?
+<assistant> Divergent is a Utopian and dystopian fiction. Do you like that genre?
+<assistant> Yes, it is a great Southern Gothic movie.
+<user> Fifty Shades of Grey sounds interesting. Who wrote it?
+<user> What year was Jumper released?
+<assistant> I don't know much about him other than he plays for the India national cricket team.
+<assistant> Yes, that is correct. Zoe's Tale was also released that year
+<assistant> Yes, it was written by Francis Ford Coppola.
+<user> Who else starred in The Expendables?
+<assistant> The Mark of Athena was written by Rick Riordan.
+<assistant> The Purge is a Sci-Fi movie. Zoom is another Sci-fi movie.
+<assistant> That was written by Robert A. Heinlein, right?
+<user> yes, he is a good coach. do you like him?
+<assistant> Mary Wollstonecraft Shelley wrote Frankenstein; or, The Modern Prometheus.
+<assistant> The Voyage of the Dawn Treader was written by Pauline Baynes and released in 1891.
+<assistant> The Son of Neptune is part of a series. The next book in the series is The Mark of Athena.
+<user> Yes, she is. She also composed You Lost Me.
+<assistant> Isaac Asimov wrote it.
+<assistant> True Believer was released in 2003.
+<user> Is Z-Trip a Musician?
+<assistant> Yes, he starred in Little Fockers.
+<user> Yes, she did. She is also a singer and songwriter. Do you like her?
+<user> Super 8 sounds interesting. What genre is it?
+<user> Who starred in that movie?
+<assistant> In Cold Blood was written by Truman Capote and released in 1954.
+<user> Rick Riordan also wrote The Son of Neptune.
+<user> Louis C.K. also created Louie. Have you seen it?
+<assistant> Robin Wright is one of the main stars in the movie.
+<user> I didn't know that. Wasn't he born in San Diego?
+<user> Yes, I love Children's literature.
+<assistant> Kyla Pratt and Dustin Milligan starred in Shark Night.
+<assistant> Yes, he also starred in the movie. Have you seen it?
+<assistant> Rohit Sharma is an Indian cricketer. He plays for the Mumbai Indians.
+<user> Yes, they are from Hamburg, and Felix Mendelssohn-Bartholdy is from Hamburg.
+<assistant> Stephen Sommers wrote Van Helsing starring Richard Roxburgh.
+<user> I don't know much about them other than they are from Wythenshawe.
+<assistant> Caroline Wozniacki is a tennis player from London. Do you like tennis?
+<user> He was in Woman in Gold, right?
+<assistant> I love his song Night of Your Life
+<assistant> Yes, The Minority Report is a great science fiction book. Other science fiction books include The Last Hero and The Dark Knight Rises.
+<assistant> Mastering the Art of French Cooking is similar to Wolf of Wall Street.
+<assistant> Jean M. Auel wrote The Valley of Horses.
+<assistant> Anthony Daniels starred in The Making of Star Wars.
+<assistant> Ender's Game is part of a series. The next book in the series is Ender's World.
+<assistant> Snatch is starring Jason Statham.
+<user> No, I haven't. What genre is The Secret History?
+<user> Yes, I love thrillers. I also like Keeping the Faith with Ron Rifkin.
+<assistant> Yes, Eva Mendes was in that as well. It was a great comedy.
+<user> I don't know any of his songs but I do know that he played Acoustic guitar.
+<assistant> Jamie McGuire wrote Walking Disaster. Have you read it?
+<user> I like Stieg Larsson. He also wrote Män som hatar kvinnor, Luftslottet som sprängdes.
+<assistant> Lolita was written by Vladimir Vladimirovich Nabokov and released in 1961.
+<assistant> The Hiding Place is written by John Sherrill
+<assistant> No, I haven't. Is it young adult fiction?
+<assistant> I agree. He starred in UFC 94. Have you seen it?
+<assistant> The Eye of the World was written by Robert Jordan and released in 2012.
+<assistant> Platoon is a war movie. Do you like War movies?
+<assistant> The Disreputable History of Frankie Landau-Banks
+<user> Yes, I love romantic comedies. What else has she been in?
+<assistant> Yes it was. Veronica Cartwright was also in it.
+<assistant> The Incredibles is a Superhero movie. Do you like Superhero movies?
+<assistant> Yes, he also wrote The Long Winter and The Long Kiss Goodnight.
+<assistant> It is a drama and biography movie
+<assistant> Sure! Anil Kapoor starred in Welcome (Bollywood Film). Have you seen it?
+<user> What genre is Gangster Squad?
+<assistant> Yes, he did. He also directed The Assassination of Jesse James by the Coward Robert Ford.
+<user> Yes, I do. Can you tell me more about The Runaway Jury?
+<user> I've heard of Vampire movies. Can you tell me more about it?
+<assistant> Yes, I do. She starred in Cadillac Records with Q-Tip. Have you seen it?
+<assistant> Chris Evans starred in What's Your Number?
+<user> What's Eating Gilbert Grape?
+<user> Katt Williams also starred in Friday After Next, right?
+<user> I haven't read Without Fail, who else wrote it?
+<user> I am not familiar with The Stone Angel. Who else starred in it?
+<assistant> She's All That has genre Romance. Do you like Romance movies?
+<assistant> She also recorded HOV Lane. Have you heard that one?
+<assistant> Marcus Denmon is my favorite point guard.
+<assistant> Serenity is starring Sarah Paulson. Do you like her?
+<assistant> Yes they are. Robert Rodriguez also starred in From Dusk till Dawn. Have you seen that one?
+<assistant> I'm not a huge Oakland Raiders fan, but I do like the Green Bay Packers. Do you like them?
+<user> Where the Heart is is a drama, right?
+<assistant> Om Puri starred in Yuva.
+<assistant> To Build a Fire is similar to Inferno.
+<user> What genre is it?
+<assistant> Yes, he wrote Nick & Norah's Infinite Playlist.
+<assistant> Tom Hanks also starred in The Da Vinci Code. Have you seen it?
+<user> Dean Koontz wrote Your Heart Belongs to Me, right?
+<user> Did Karin Slaughter also write Unseen?
+<assistant> Yes, she starred in Vacation. Have you seen it?
+<assistant> It was directed by James Franco. He also directed The Words.
+<assistant> I didn't know that. I think Brian Urlacher is a linebacker too.
+<assistant> Yes, I love Caddyshack. Chevy Chase is hilarious in that movie. Have you seen it?
+<user> Who else starred in Yelling to the Sky?
+<assistant> I don't know much about him other than he starred in In Time.
+<user> The Return of a Man Called Horse is starring William Lucking right?
+<assistant> Yes, Steve Kloves also wrote Harry Potter and the Philosopher's Stone.
+<assistant> Sure! Kiera Cass wrote The Siren. Have you read it?
+<user> No, I haven't read What Alice Forgot. Can you tell me more about it?
+<user> I love Club Can't Handle Me.
+<assistant> Sure, she starred in American Beauty and The Girl with the Dragon Tattoo.
+<assistant> Halle Berry is a great actress. She was also in Catwoman. Have you seen that one?
+<assistant> Dale Carnegie wrote How to Win Friends and Influence People.
+<user> I'm not a huge baseball fan, but I do know that Fred Wilpon is from Brooklyn.
+<assistant> Easy was written by Tammara Webber. Do you like her work?
+<assistant> She also wrote 13 Going on 30. Have you seen that one?
+<assistant> I know they are coached by Jason Garrett and owned by Jerry Jones. Do you like them?
+<assistant> Robert Ludlum wrote The Bourne Identity.
+<assistant> Lauren Oliver wrote Vanishing Girls.
+<assistant> Robin Buss wrote Thérèse Raquin.
+<assistant> Harper Lee wrote To Kill a Mockingbird. Do you like her work?
+<assistant> The Dictator is similar to The Secret Life of Walter Mitty
+<assistant> Sure, it stars Glenn Morshower and it is a Sci-Fi movie. Do you like Sci-fi?
+<assistant> Truly Madly Guilty is similar.
+<user> Robert D. Siegel also wrote Turbo, right?
+<user> Yes, I love Historical Novels.
+<assistant> Castle in the Air is the next in the series.
+<assistant> Ed Helms starred in Confessions of a Shopaholic.
+<assistant> Yes, he is a famous snowboarder. He was born in Honolulu.
+<assistant> Ryan Giggs is the coach.
+<assistant> I haven't, but I love his song What Goes Around... Comes Around.
+<user> I am not a big fan of tennis either, but I like Roger Federer
+<assistant> It was written by John le Carré and stars Donald Sumpter.
+<assistant> He also wrote Live Free or Die Hard 2.
+<assistant> Wes Anderson wrote The Royal Tenenbaums starring Luke Wilson.
+<assistant> Cheats is a comedy starring Mary Tyler Moore
+<user> Mel Gibson also wrote The Passion of the Christ, right?
+<assistant> L.M. Montgomery wrote The Blue Castle. Have you read it?
+<assistant> Night Road was released in 2011
+<user> Yes, he also starred in Under Siege 2: Dark Territory.
+<assistant> Yes, William Petersen starred in Skulls.
+<user> What genre is The Goldfinch?
+<assistant> He also starred in Outland.
+<assistant> He also wrote Let It Snow: Three Holiday Romances.
+<user> Did you know Ernest Hemingway was influenced by Raymond Carver?
+<user> I like her song Speak Now. Do you know any other songs by her?
+<assistant> Yes, I do like thrillers like Shark Night. Have you seen it?
+<assistant> Yes, he's from Ghaziabad, Uttar Pradesh.
+<assistant> Yes, Nona Gaye starred in The Matrix Reloaded. It is a thriller film. Do you like thrillers?
+<user> Yes, I like Zombieland.
+<assistant> Luis Suarez is a player on the Uruguay national football team.
+<assistant> Yes, The Fame Monster is a Synthpop song.
+<assistant> I know she composed The Edge of Glory.
+<assistant> Yes, Vicente del Bosque is a Midfielder and Forward.
+<user> What genre is The Bourne Identity?
+<assistant> Sure, Andrew Garfield starred in The Social Network and Inception. Have you seen either of those?
+<assistant> They're located in Jacksonville, right?
+<assistant> Yes, along with Tommy Lee Jones.
+<assistant> Hayden Christensen starred in Virgin Territory.
+<user> I like romantic Fantasy Martial Arts films. Do you know any other movies like that?
+<assistant> Hugh Jackman starred in X-Men: The Last Stand. He also starred in Les Misérables.
+<assistant> Yes, he was. He won Ring magazine Fighter of the Year.
+<assistant> Yes, she did. The Life Before Her Eyes was distributed by Magnolia Pictures.
+<user> Who else starred in the Guard?
+<assistant> I don't know much about them. I know they are owned by Wayne Weaver. Do you like them?
+<assistant> Life of Pi is starring Suraj Sharma. Do you like his movies?
+<user> Who wrote Game Change?
+<assistant> I think Gus Bradley is the current head coach. Do you like him?
+<assistant> Yes, it is. Maria Semple is also a screenwriter.
+<assistant> I don't know much about her other than she is a singer-songwriter, like Demi Lovato.
+<user> Is that the one with Hilary Swank?
+<assistant> George Lucas wrote Star Wars. Star Wars (Science Fiction Film) is starring Kenny Baker. Have you seen it?
+<assistant> Yes, he starred in The Good, the Bad and the Ugly. Have you seen it?
+<assistant> She did. Milk and Honey was released in 2014.
+<user> Is Armageddon a Sci-Fi movie?
+<assistant> Deep Impact is an action/adventure film starring Elijah Wood.
+<user> Allen Leech is a great actor
+<assistant> Moonrise Kingdom is written by Wes Anderson. Do you like his work?
+<assistant> Yes, Steven Erikson is also a writer.
+<assistant> That was directed by Cameron Crowe, right?
+<assistant> Alex Van Halen starred in RoboCop, right?
+<assistant> Yes, Nightcrawler stars Jake Gyllenhaal.
+<assistant> V for Vendetta is starring Stephen Fry. Stephen Fry also starred in Le Divorce.
+<assistant> Yes, Mel Gibson also starred in Braveheart.
+<user> I think he's done a good job with the team. He was drafted by the New York Giants.
+<assistant> He starred in The Chronicles of Riddick.
+<assistant> The Shadow of the Torturer was released in 1980.
+<assistant> Bob Peck starred in Slipstream (Science Fiction Film) #94.
+<assistant> Hitch was released in 2005 and stars Will Smith. Do you like Will Smith?
+<assistant> Fight Club is a psychological thriller. Do you like psychological thrillers?
+<assistant> Pride and Prejudice was written by Jane Austen. Do you like her work?
+<assistant> Randy Quaid and Lea Thompson are also in it.
+<assistant> I don't know much about him other than that he is a brother to Taylor Griffin. Do you like him?
+<user> I am not a huge soccer fan, but I like Shaun White. Do you like him?
+<user> Yes, I do like Clint Eastwood. He also starred in Unforgiven. Have you seen it?
+<assistant> Peter Cushing starred in The Man in the Iron Mask.
+<assistant> He plays for Manchester United F.C..
+<assistant> Mhairi Calvey starred in Braveheart. Braveheart has genre War film. Do you like War films?
+<assistant> Twilight was written by Stephenie Meyer and released in 2008.
+<assistant> Yes, The Houston Rockets play at the Toyota Center
+<assistant> Thomas M. Disch was born in Des Moines, Iowa. He also writes poetry.
+<assistant> I love the sitcom iCarly. Have you seen it?
+<user> No, I haven't. What genre is it?
+<assistant> Underworld: Evolution is a good one. Have you seen it?
+<user> Yes, it is a thriller
+<assistant> He also starred in The Devil's Double with Ludivine Sagnier.
+<user> Yes, he is a great tennis player. I like Marat Safin.
+<assistant> Bridge to Terabithia is an adventure film. The Incredible Journey is another adventure film you might enjoy.
+<assistant> X-Men Origins: Wolverine is another Sci-Fi movie.
+<user> He was also in Fast Five. Have you seen it?
+<user> Is Romeo and Juliet from England?
+<assistant> John Grisham wrote The Firm which is a thriller. Do you like thrillers?
+<user> What genre is Chasing Amy?
+<user> Who else is in Zoey 101?
+<assistant> Woody Allen directed Annie Hall, which is a Romance. Do you like Romance?
+<assistant> Yes, it was written by Frances Mayes.
+<assistant> Anita Diamant wrote The Red Tent. Have you read it?
+<user> What do you know about Robert Lewandowski?
+<assistant> The Tragicall Historie of Hamlet, Prince of Denmark was written by Richard Andrews.
+<user> Yes, I love him. Can you tell me more about Good Will Hunting?
+<user> What year was Northanger Abbey released?
+<assistant> Yes, Senna is a documentary film.
+<user> Yes, I liked her in Why Do Fools Fall in Love.
+<user> Yes, I love adventure films. Who else starred in Three Kings?
+<assistant> Yes, he wrote The Lowland. Have you read it?
+<assistant> He also wrote The Princess and the Frog.
+<user> I like Tommy Lee Jones too. He produced Hitch with Kevin James.
+<user> Sue Bird is from Seattle right?
+<user> I did not know that. I love John Krasinski.
+<assistant> Albert Camus wrote L’Étranger.
+<user> what other historical fiction books can you recommend?
+<assistant> The Perks of Being a Wallflower is written by Stephen Chbosky.
+<assistant> Do you like Fantasy movies?
+<assistant> Greg Heffley's Journal was written by Jeff Kinney. He also wrote Old School.
+<user> Yes, I love thrillers. Can you recommend any other thrillers?
+<assistant> Yes Please is written by Amy Poehler. Do you like her work?
+<assistant> What Lies Beneath is a Psychological Thriller. Do you like psychological thrillers?
+<assistant> Richard J. Dunn wrote Wuthering Heights. Have you read it?
+<assistant> The Red Pyramid was written by Rick Riordan and released in 2006.
+<user> Yes, I love that movie. Keira Knightley is one of my favorite actors. Do you like her?
+<assistant> Yes he did and Simon Callow also starred in Thunderpants.
+<assistant> Where the Red Fern Grows is written by Wilson Rawls.
+<assistant> I think he's a great basketball player. Do you like him?
+<assistant> I agree. He wrote Yellow Submarine with John Lennon.
+<assistant> Riley Smith starred in New York Minute. He also starred in Not Another Teen Movie.
+<assistant> The Sandman was written by Neil Gaiman and was released in 2009.
+<assistant> Sure, she starred in X-Men: First Class and X-men: Apocalypse Now.
+<assistant> The Maze Runner is part of a series. The next in the series is The Scorch Trials.
+<assistant> The Raven was released in 1844.
+<assistant> Yes, they are a basketball team in the National Basketball Association. Do you like basketball?
+<user> Who else stars in The Wolfman?
+<assistant> The Lorax was released in 1996
+<user> I didn't know that. I know Sia Furler composed Titanium (Composition) #39.
+<assistant> Yes, he wrote Harry Potter and the Cursed Child, Parts One and Two.
+<assistant> George R. R. Martin also wrote A Dance with Dragons.
+<assistant> Richard Gant also starred in Waiting for Forever.
+<user> Who wrote The Island?
+<assistant> Greg Mottola directed Superbad. Have you seen it?
+<assistant> Yes, World of Tomorrow is a Sci-Fi movie directed by Angelina Jolie.
+<assistant> Paper Towns was written by John Green and released in 2010.
+<user> I don't know much about him other than he's a forward.
+<assistant> Charles Dickens wrote Oliver Twist.
+<assistant> Shawn Levy directed Real Steel. Real Steel is written by Richard Matheson.
+<assistant> Yes, she wrote Outlander. Have you read it?
+<assistant> Eternal Sunshine of the Spotless Mind was written by Pierre Bismuth. Are you interested in his work?
+<user> I think Venus Williams is also an athlethe.
+<assistant> He also wrote Us. Have you read it?
+<user> Yes, I love crime fiction. Who else starred in Goodfellas?
+<assistant> They are owned by Wayne Weaver
+<assistant> Throne of Glass was released in 2012 and is a thriller. Do you like thrillers?
+<assistant> Ralph Fiennes also starred in The Hurt Locker. Have you seen that one?
+<assistant> Sure! Kiera Cass wrote The Siren. Have you read it?
+<assistant> Scream 4 is considered a parody. Do you like that genre?
+<user> What year was it released?
+<assistant> Yes, it is. Other horror films include World War Z starring Brad Pitt. Have you seen it?
+<assistant> Emilia Fox starred in Shooting the Past.
+<user> Yes I do. can you tell me more about The Last Dragon?
+<assistant> In Her Shoes is written by Susannah Grant
+<assistant> Pierre Morel directed Taken. Have you seen it?
+<user> Yes he is. He also coached S.L. Benfica.
+<assistant> Yes, it takes place in Great Britain.
+<user> Yes, he plays point guard.
+<assistant> I agree! He's a great actor.
+<user> Who else starred in Deadpool?
+<assistant> Betty  Smith wrote A Tree Grows In Brooklyn which was released in 1943.
+<assistant> Yes, it was directed by Richard Linklater.
+<assistant> I'm not sure. I know they played in the Super Bowl XXXVIII.
+<assistant> If you like Young-adult fiction, you might also enjoy Wicked Lovely.
+<assistant> Pulp Fiction was written by Roger Avary.
+<user> No, I haven't. What else has she been in?
+<assistant> The Omega Code is another fantasy film you might enjoy.
+<user> Wasn't that written by Leo Tolstoy?
+<assistant> Luenell also starred in that movie.
+<user> Yes, I like drama. I also like The Manchurian Candidate.
+<user> Yes, I do like Novel's like We Are Water.
+<assistant> Roger Bart also starred in The Stepford Wives. Have you seen that one?
+<assistant> It's a Wonderful Life is written by Philip Van Doren Stern.
+<user> Yes, he is a cricket player. Do you like cricket?
+<assistant> Star Wars: Episode II - Attack of the Clones stars Natalie Portman.
+<user> Did he also compose Country Girl?
+<assistant> Crown of Midnight
+<user> Can you tell me more about Huckleberry Finn?
+<assistant> He also wrote Monsters, Inc.
+<assistant> Yes, he wrote Artemis Fowl. Have you read it?
+<assistant> The Hunger Games is a similar movie to Divergent.
+<assistant> Robin Hobb wrote Dragon Haven. He also wrote The Mad Ship.
+<user> I don't know much about Zimmer. I think he drafted Teddy Bridgewater.
+<assistant> I'm not a huge baseball fan, but I do know they are coached by John Farrell. Do you like baseball?
+<user> I like Comedy and adventure movies. I also like The Sorcerer's Apprentice (Fantasy Film) #11.
+<assistant> He was also in Two Hands. Have you seen it?
+<assistant> You might also enjoy xXx: State of the Union.
+<assistant> One Day is a film. It was released in 2006.
+<assistant> Yes, Mira Sorvino starred in The Replacement Killers.
+<assistant> Marley & Me: Life and Love with the World's Worst Dog is similar to I Know This Much Is True.
+<assistant> It is a Western. Do you like Westerns?
+<assistant> Yes, she did. She also starred in The Hurt Locker. Have you seen it?
+<user> No I haven't but I heard Sholay is a Bollywood film and Javed Akhtar is in it.
+<assistant> I don't know much about him. Is he an athlete?
+<assistant> Ted Markland also starred in The Hired Hand.
+<user> I'm not a huge basketball fan, but I like Mo Williams. Do you like him?
+<assistant> Sure, she wrote The Mortal Instruments Boxed Set: City of Bones; City of Ashes, City of Glass. Have you read any of these?
+<assistant> A Confederacy of Dunces was written by Walker Percy and released in 1947.
+<assistant> 2005 was the year Undead and Unreturnable was released.
+<user> Who else starred in White Nights?
+<user> Yes. Go Ask Alice was released in 1971.
+<assistant> The Catcher in the Rye has genre Literary realism. Do you like that genre?
+<assistant> Joseph Gordon-Levitt starred in Looper. Looper also starred Bruce Willis.
+<assistant> Yes, he directed The Constant Gardener. Have you seen it?
+<user> I did not know that. Did he also star in Zig Zag?
+<assistant> Yes, it was written by Alexandre Dumas.
+<assistant> Have you seen The Big Bang? It's also a thriller.
+<assistant> Jenifer Lewis was also in Panther.
+<assistant> Lemony Snicket wrote The Reptile Room. Have you read it?
+<assistant> Men in Black 3 was released in 2012 and starred Stephen McHattie.
+<assistant> Yes, he did direct My Sister's Keeper.
+<assistant> The Godfather stars Sofia Coppola. Do you like her movies?
+<assistant> A Wind in the Door is the next book in the series.
+<assistant> 1963 was the year that The Cross and the Switchblade was released
+<assistant> The Martian was written by Andy Weir and released in 2003.
+<assistant> Yes it was produced by Tom Cruise. Do you like him?
+<assistant> The Others is a mystery. Do you like mystery movies?
+<assistant> Rebecca is written by Daphne du Maurier. Do you like her work?
+<assistant> I like Aloha because it is a comedy and Emma Stone is in it.
+<assistant> Dennis Hopper played for the Hoosiers. He was also a point guard.
+<assistant> The Tale of Peter Rabbit is another picture book you might enjoy.
+<assistant> Minute Maid Park is home venue for the Houston Astros.
+<assistant> I have not, but I know he has a Right-arm Off Spin.
+<assistant> Picture of Dorian Gray has genre Gothic fiction.
+<assistant> Yes, Jane Austen also wrote Pride and Prejudice.
+<assistant> Yes it is. It's a historical period drama.
+<assistant> Yes, it was written by Philip K. Dick. Do you like his work?
+<user> Virtuosity sounds interesting. Who else stars in it?
+<user> Who else was in Harvest of Fire?
+<assistant> Stephanie Perkins also wrote Lola and the Boy Next Door.
+<assistant> I like Calvin Harris and his song We Found Love.
+<user> I'm not a huge fan of Jim Carrey. Can you tell me more about him?
+<assistant> Dave McKean starred in Dreams with Sharp Teeth. Have you seen it?
+<assistant> The San Francisco Giants are owned by Bill Neukom.
+<user> I love Runaway Baby. Did you know he won the MTV Video Music Award for Best Choreography?
+<assistant> Yes, Mos Def also starred in Next Day Air.
+<assistant> Jennifer Garner starred in Harvest of Fire, which also starred Sam Trammell.
+<user> No, I haven't. Who stars in it?
+<assistant> Yes, it was written by Maria Semple.
+<assistant> Yes, he was, along with Terrence Williams.
+<assistant> John Green wrote The Fault in Our Stars.
+<assistant> I've been to Thomasville (United States of America) #1. what about you?
+<assistant> Paulo Coelho is a writer, journalist and author. Do you like his work?
+<user> Cold Mountain is starring Renée Zellweger right?
+<assistant> Yes, he wrote Eraserhead starring Jack Nance.
+<assistant> Madagascar was directed by Eric Darnell. Do you like his work?
+<assistant> I'm not a huge football fan, but I do like the New York Jets.
+<user> I didn't know that. She was in the London 2012 Summer Olympics.
+<assistant> Yes, he did. Tracy Morgan was also in it.
+<assistant> The Shaggy Dog is also a Walt Disney movie.
+<assistant> Yes, he was a scientist. He also wrote A Brief History of Time.
+<user> I like Fiction. Can you recommend any other books by him?
+<user> She was in Valentine's Day. Have you seen that one?
+<user> When was that movie released?
+<user> Who else starred in The Rundown?
+<user> The road to el dorado is starring Rosie Perez right?
+<assistant> Yes, she did. It's a Variety show.
+<assistant> Ralph Steadman wrote Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American Dream.
+<assistant> Brian De Palma wrote Redacted. Redacted has genre Drama. Do you like Drama?
+<assistant> Yes, he is the owner of the Browns.
+<assistant> I think he is a good football player.
+<user> I think Tyrus Thomas is also a power forward.
+<assistant> Sure! Back to the Future was written by Robert Zemeckis. Do you like his work?
+<user> What other books did he write?
+<assistant> I am not familiar with Walt Whitman. I know he wrote Leaves of Grass.
+<user> I don't know much about him. I think Tim Hardaway is a good point guard.
+<assistant> Mel Gibson directed The Passion of the Christ.
+<assistant> Rebecca Wells wrote Ya-Yas in Bloom.
+<assistant> Yes, Rush is an action movie. Do you like action movies?
+<assistant> Dave Gibbons wrote Watchmen.
+<assistant> Calvin Harris is one of the best DJs in the world. He composed Dance wiv Me.
+<user> What genre is Wyrd Sisters?
+<assistant> Yes, he is. He also starred in The Mortal Instruments: City of Bones.
+<assistant> Young Sherlock Holmes also stars Nicholas Rowe.
+<assistant> I'm not sure, but Utterly Cold Blooded was written by Truman Capote.
+<assistant> I don't know much about him other than he's a cricket player.
+<assistant> The Terminal is starring Tom Hanks and is a thriller. Do you like thrillers?
+<assistant> Frances Mayes wrote Under the Tuscan Sun.
+<user> Not really, but I do like Yanina Wickmayer. Do you know her?
+<assistant> Jane Austen wrote Sense and Sensibility.
+<user> Did Robert Duvall write The Apostle?
+<assistant> Yes, it was a great movie. Keanu Reeves was also in it. Do you like him?
+<assistant> Do you like Donnie Brasco because it is a Thriller?
+<assistant> The Martian is starring Matt Damon. Do you like him?
+<assistant> Rene Russo starred in Thor.
+<assistant> Clint Eastwood also starred in True Crime.
+<user> I do like young adult fiction like Uglies.
+<user> When was Defending Jacob released?
+<assistant> The Witch of Blackbird Pond is a historical novel
+<user> Interesting, can you tell me more about the book?
+<assistant> It was written by Jane Austen and released in 1891.
+<user> Is Gustave Flaubert from Rouen?
+<assistant> Lost in Translation was directed by Sofia Coppola.
+<user> I love Children's literature. Can you tell me more about The Great Gilly Hopkins?
+<assistant> Christina Lamb wrote I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban.
+<user> Who else starred in The Skulls?
+<assistant> He starred in The Silence of the Lambs. Have you seen it?
+<assistant> Yes, Olga Fonda starred in Real Steel.
+<assistant> Pete Docter also wrote Toy Story 2.
+<assistant> A Thousand Years is one of her most popular songs.
+<assistant> Do you like Speculative fiction?
+<user> Do you have any other examples like Dime Store Magic?
+<user> I love Robert De Niro, what else has he been in?
+<user> Who wrote The Graveyard Book?
+<user> Yes, he is a Baseball Manager.
+<assistant> Yes, he is a cricket player from Delhi.
+<assistant> She is married to Antonio de la Rúa, right?
+<user> Didn't he also write Two By Two?
+<user> Who else starred in Along Came a Spider?
+<assistant> John Irving wrote it.
+<assistant> I think Doc Rivers is a great coach.
+<assistant> Robert Mark Kamen wrote The Fifth Element.
+<assistant> Yes, Charles Portis also wrote True Grit.
+<user> Karim Benzema is one of my favorite players. Do you like him?
+<user> I have not, but I like the Miami Dolphins. Do you like them?
+<assistant> It was released in 2012. Jeff Bridges also starred in TRON: Legacy.
+<assistant> Yes, it is starring Brad Pitt. Do you like Brad Pitt?
+<assistant> Cars 2 was a great movie. Lewis Hamilton also starred in Cars 3.
+<assistant> Wasim Akram plays for the Pakistan Natl. Cricket team.
+<user> The Beastmaster is a Sword and sorcery film. Do you know any other movies in that genre?
+<assistant> Reginald VelJohnson starred in You Again. Have you seen it?
+<assistant> I think Chelsea F.C. is located in London right?
+<assistant> Yes, it was released in 2008. It was written by Alison Weir.
+<assistant> Ken Burns also directed The Civil War. Have you seen it?
+<user> No, I haven't. Can you tell me more about The Rise of Nine?
+<user> I've heard of You've Got Mail. Who else starred in it?
+<assistant> The Voyage of the Dawn Treader was written by Pauline Baynes.
+<assistant> A Confederacy of Dunces is a historical period drama set in New Orleans. Do you like that genre?
+<assistant> Being John Malkovich is a comedy. Do you like comedies?
+<assistant> She wrote Воскресение.
+<assistant> I have not read it but I know it was written by Ernest Hemingway.
+<assistant> Dear John was released in 2012 and was written by Susannah Grant.
+<assistant> Yes, he is a boxer.
+<assistant> I don't know much about them. I know they are coached by Ken Whisenhunt. Do you like them?
+<assistant> yes he also coached the New York Giants.
+<user> Tom Hardy also starred in The Virgin Queen with Anne-Marie Duff.
+<assistant> I did not know that. She is also a tennis player.
+<assistant> He also starred in The Last Samurai. Have you seen it?
+<assistant> The Tale of Mrs. Tiggy-Winkle was released in 1905.
+<user> Yes, he does.
+<user> I did not know that. Did you know Serena lost to Victoria Azarenka?
+<user> I did not know that. M.C. Gainey also starred in that movie.
+<assistant> Avengers: Age of Ultron is another Sci-Fi movie you might enjoy.
+<user> Yes, Toby Mac is also an actor.
+<assistant> I did not know that. I know that Ernest Hemingway was born in Oak Park.
+<user> I love Sci-Fi movies. Do you have any other movies in that genre?
+<assistant> I'm not a huge fan of the Miami Dolphins, but I know they are owned by Jimmy Buffett.
+<user> I love The Incredible Hulk. What genre is it?
+<assistant> I don't think so. I think John Farrell is doing a good job.
+<assistant> Jason Statham starred in Wild Card and The Hurt Locker. Have you seen those?
+<assistant> The Blob is a science fiction film. Jeffrey DeMunn starred in Resurrection.
+<user> What genre is The Mad Ship?
+<user> I think I've heard of Wyrd Sisters, it's a good one.
+<user> I'm not a huge fan of tennis, but I do like James Blake. Do you like him?
+<assistant> Scarface is written by Oliver Stone. Do you like his work?
+<user> Not really, but I know Yuvraj Singh is a good player.
+<user> When was To The Lighthouse released?
+<assistant> Marcus Williams (Basketball Player) #2
+<user> Yes, he did play for the Sweden National Football team.
+<assistant> Sure! Isabelle Nanty starred in Les visiteurs and Les Miserables.
+<assistant> Alden Ehrenreich starred in Beautiful Creatures.
+<assistant> Jeff Kinney wrote The Wimpy Kid Movie Diary: How Greg Heffley Went Hollywood.
+<assistant> John Ratzenberger starred in Toy Story 3.
+<assistant> Wes Ball directed The Scorch Trials. Have you seen it?
+<assistant> I think I love my wife was written by Louis C.K.
+<user> Was The Wrestler written by Robert D. Siegel?
+<assistant> The Girl with the Dragon Tattoo stars Robin Wright
+<assistant> Much Ado About Nothing is a play written by Kylie Scott
+<assistant> Derek Jacobi starred in Unforgivable Blackness. Have you seen it?
+<user> I love Will Smith! Elpidia Carrillo is one of my favorite actors!
+<user> Wasn't Wang Leehom also in the Relay race?
+<user> What genre is Wonder Boys?
+<user> I love Fantasy movies. Do you have any other movies like that?
+<assistant> Yes, he wrote Scream 4. It's a Thriller.
+<user> I love Matthew McConaughey. Can you tell me more about The Newton Boys?
+<user> I'm not sure, but I like To Kill a Mockingbird starring Robert Duvall.
+<user> Who wrote it?
+<user> Ben Crenshaw is a great golpher. I think he won the PGA Championship a few years ago.
+<assistant> Robert Lewandowski plays on the Poland national football team.
+<assistant> Man of Steel is another great movie by Christopher Nolan.
+<assistant> Serena Williams is a great tennis player. She is married to Venus Williams. Do you like tennis?
+<user> No, I haven't. What else has Wood Harris been in?
+<user> Is it like ZMD: Zombies of Mass Destruction?
+<assistant> Hoodwinked! is a crime movie. Do you like crime movies?
+<assistant> I'm not a huge soccer fan, but I think Alex Ferguson used to coach that team too.
+<user> I do. I like The Maze Runner.
+<assistant> Yes, he starred in The Other Guys. Have you seen it?
+<assistant> Yes, she is a great writer. Did you know she starred in Madagascar?
+<assistant> It is. Xenocide is also speculative fiction
+<user> I have not read The Mad Ship, when was it released?
+<assistant> Yes, he did. He also coached the New York Jets.
+<assistant> La tía Julia y el escribidor is written by Mario Vargas Llosa.
+<user> Who starred in Final Destination 5?
+<assistant> Alexander McCall Smith wrote The Sunday Philosophy Club.
+<assistant> Ice Cold was written by Arthur C. Clarke and it was released in 2010.
+<user> I've heard of Rabbit is Rich. Can you tell me more about it?
+<user> The Dead Zone sounds good. What genre is it?
+<assistant> The Sun Also Rises was written by Ernest Hemingway and released in 1951.
+<assistant> Aidan Turner starred in The Hobbit: The Battle of the Five Armies.
+<user> Yes, I love Henning Koch. He also wrote Britt-Marie var här.
+<assistant> I'm not a huge fan of pop music, but I do like pop music.
+<assistant> Taking Woodstock is a slice of life film.
+<assistant> Yes, they are. Serena lost to Venus Williams in the 2012 Summer Olympics.
+<assistant> Yes, he starred in The Return of a Man Called Horse. Have you seen it?
+<user> 2003 was the year that İstanbul: Hatıralar ve Şehir was released.
+<user> Daniel Henney also starred in The Last Stand, right?
+<assistant> John Lennon wrote Yellow Submarine.
+<assistant> I'm not a huge fan of the National Football League, but I do like the Philadelphia Eagles.
+<assistant> Paul Pogba plays for Manchester United F.C..
+<assistant> Simon Beaufoy directed this movie.
+<user> I like Bradley Cooper. He was in Silver Linings Playbook with Jennifer Lawrence, right?
+<assistant> Yes she was. Emma Watson also starred in The Perks of Being a Wallflower.
+<assistant> He is playing for the Seattle Supersonics.
+<assistant> Psycho is starring Alfred Hitchcock and is a Thriller. Do you like Thrillers?
+<user> I love that song Makes Me Wonder.
+<assistant> Rufus Beck wrote Harry Potter and the Prisoner of Azkaban. Have you read it?
+<assistant> He also wrote Thirteen Moons.
+<user> what do you know about him?
+<assistant> The Tell-Tale Heart is a great one by Edgar Allan Poe.
+<assistant> Yes, he starred in Wam Bam Pac's The Man.
+<assistant> Ayush Mahesh Khedekar starred in Slumdog Millionaire.
+<assistant> He directed Battleship, which is a war film.
+<assistant> The Witch of Blackbird Pond is a Speculative fiction. It was released in 2006.
+<assistant> I think he is a good player. He won NBA Rookie of the Year Award and NBA Most Valuable Player Award.
+<assistant> That was written by Terry Pratchett. Are you familiar with his work?
+<assistant> Yes, he was, along with Clea DuVall.
+<user> Wasn't Shaun White a musician?
+<assistant> Oliver Reed starred in Gladiator. Gladiator is starring Russell Crowe.
+<assistant> I think LaDainian Tomlinson is doing a good job for the Chargers.
+<assistant> The Italian Job stars Mark Wahlberg. Do you like his work?
+<user> Who stars in Independence Day?
+<assistant> Tom Hardy starred in The Virgin Queen. Have you seen it?
+<assistant> Delroy Lindo starred in This Christmas. Have you seen it?
+<assistant> Yes, it is a great movie starring Tom Hanks. Do you like him?
+<user> I'm not a huge tennis fan. I'm more of a fan of Serena's sister, Venus. do you like her?
+<assistant> I have not read Words of Radiance.
+<user> No, I haven't. Can you tell me more about The Land Before Time?
+<user> Who wrote Shadow of the Hegemon?
+<user> Yes, I do. He also wrote Romeo and Juliet. Have you seen it?
+<user> I love Irish accents. I think Gerry McIlroy is from Northern Ireland too.
+<user> Was Sam Worthington in Wrath of the Titans?
+<assistant> He plays for FC Bayern Munich, right?
+<assistant> He wrote The Third Chimpanzee: The Evolution and Future of the Human Animal.
+<assistant> Gangs of New York is starring Tim Pigott-Smith. Tim also starred in Quantum of Solace.
+<assistant> Woody Allen wrote To Rome with Love.
+<user> Is that a time travel novel?
+<assistant> I think he's having a good year. He's married to Coleen Rooney.
+<assistant> Yes, Timbaland did compose Romeo Must Die.
+<assistant> Twilight is written by Meg Cabot.
+<user> Who else starred in All the Real Girls?
+<assistant> Yes, it was written by Cyrus Nowrasteh and released in 2013.
+<assistant> Yes it is. Daniel Craig also starred in The Girl with the Dragon Tattoo.
+<assistant> Barbara Kingsolver wrote The Poisonwood Bible. Have you read it?
+<assistant> Yes he is. He also starred in The Truman Show. Have you seen it?
+<user> What year was Winger released
+<user> 127 Hours sounds interesting. Can you tell me more about it?
+<assistant> Seth Gordon wrote Freakonomics.
+<assistant> Saw is a Thriller. Do you like Thrillers?
+<user> What else has Ryan Kavanaugh produced?
+<assistant> They are a National Football League team based in Charlotte, North Carolina.
+<assistant> Marcella Lentz-Pope starred in The Social Network. Have you seen it?
+<assistant> Jan de Bont starred in Lethal Weapon 3. Have you seen it?
+<assistant> Alfred MacAdam wrote The Time Machine and The Invisible Man.
+<user> Is Sara Shepard a female?
+<assistant> Amelie is a Romance novel. Do you like Romance novels?
+<assistant> He was also in Friends with Kids with Jennifer Westfeldt.
+<assistant> Terry Gilliam directed Fear and Loathing. He also directed Time Bandits.
+<assistant> He starred in Palo Alto, which is a drama.
+<assistant> Danny DeVito also starred in Space Jam.
+<user> What genre is Dredd?
+<user> Yes, I'm a fan of horror. Can you tell me more?
+<assistant> Breathing Lessons is another great novel by Anne Tyler.
+<user> I like Ron Underwood. Can you tell me more about him?
+<assistant> Kendrick Lamar is an artist who wrote Section.80. Have you heard of it?
+<assistant> I like watching the Olympics, but I prefer watching tennis.
+<assistant> Yes, he is from Warsaw and plays for the Poland national football team.
+<assistant> Shelley Duvall starred in The Shining.
+<assistant> Hitch is starring Will Smith. Do you like his movies?
+<assistant> Ahney Her starred in Gran Torino.
+<assistant> Lauren Weisberger wrote The Devil Wears Prada.
+<assistant> Yes, it is a children's literature. Do you like Children's literature?
+<user> I like Unknown
+<user> Timequake sounds interesting. Can you tell me more about it?
+<assistant> Lauren Oliver wrote Vanishing Girls. Have you read it?
+<user> Who else starred in this movie?
+<user> What genre is The Second Summer of the Sisterhood?
+<user> I have seen X-Men: First Class. It is a sci-fi movie. Do you like that genre?
+<assistant> Yes, he is a basketball player.
+<assistant> 엄마를 부탁해 is written by 신경숙
+<assistant> She was also in The Flintstones, which is a crime fiction film.
+<assistant> She was also in The Lorax (Animation Film) #10. Have you seen it?
+<assistant> It was written by Ally Condie.
+<assistant> Jeffery Deaver also wrote The Sleeping Doll. Have you read it?
+<user> What genre is A Midsummer Night's Dream?
+<assistant> Yes it was. Mark Duplass also starred in Zero Dark Thirty.
+<assistant> I'm not a huge basketball fan, but I do like their coach Steve Kerr.
+<assistant> Byron Scott is the point guard for the Lakers.
+<assistant> No, I haven't seen that one. I know Stellan Skarsgård was in it.
+<assistant> Larry Crowne is starring Tom Hanks and Gary Goetzman.
+<user> Who wrote Red Dragon?
+<assistant> Yes, Viggo Mortensen starred in Witness.
+<assistant> Michael Caine starred in Inception. Do you like him?
+<assistant> Seven Samurai is an adventure movie. Have you seen it?
+<user> Yes, I love Sci-Fi. Who else stars in V for Vendetta?
+<assistant> Brandon Sanderson wrote Warbreaker.
+<user> No, I haven't. What genre is Jumper?
+<assistant> Yes, it is. It was released in 1595.
+<assistant> Yes, along with the Philadelphia Phillies.
+<assistant> I think he is a great basketball player. He won the NBA Sportsmanship Award.
+<assistant> Toy Story 3 and Toy Story 4 are sequels.
+<user> Yes, I love non-fiction. Can you tell me more about Washington's Crossing?
+<assistant> It was written by Charlie Chaplin and stars Daniel von Bargen.
+<user> Yes, I love Hunter S. Thompson. He also wrote Hell's Angels.
+<assistant> It is a satire like The Return of the Living Dead.
+<assistant> Tim LaHaye also wrote Armageddon: The Cosmic Battle of the Ages.
+<assistant> Stan Lee also wrote The Incredible Hulk. Have you seen that one?
+<assistant> Yes, he was influenced by Mahatma Gandhi.
+<assistant> He's been in a lot of movies. He was in The Social Network.
+<assistant> It was written by Nicholas Sparks.
+<user> No, I haven't. Can you tell me more about The Stand?
+<assistant> Rosemary Wells wrote Charlotte's Web. Have you read it?
+<assistant> I don't know much about her other than she is a singer/songwriter.
+<user> I love pop rock. Jar of Hearts is one of my favorites. Do you know any of her songs?
+<assistant> Caroline Kepnes starred in that film. She also wrote You.
+<user> Yes, I like action movies like The Good, The Bad, the Bad and the Ugly. Have you seen it?
+<user> No, I haven't seen Toy Story 3. Who else is in it?
+<assistant> Gary Oldman
+<assistant> Yes, I do. It was written by J. K. Rowling. Do you like her work?
+<assistant> The Help was directed by Tate Taylor and stars Emma Stone.
+<assistant> I think she is dating Rory McIlroy.
+<assistant> Franz Kafka wrote Sämtliche Erzählungen.
+<user> I haven't read The Two Towers. Who wrote it?
+<assistant> The Sea of Monsters is similar to Thirteen Reasons Why.
+<assistant> I don't know much about him. I think he's a point guard.
+<assistant> I don't know much about him other than he is married to Mirka Federer.
+<assistant> That's right. Lisbon is the home of Sporting-soc Desportiva De.
+<assistant> Yes it is. She also starred in Pride & Prejudice. Have you seen it?
+<assistant> The Perks of Being a Wallflower was released in 2012 and produced by Mark Gordon.
+<user> Yes, I love Drama. Do you have any other recommendations?
+<user> Yes, I like Luke Grimes in Taken 2. Have you seen that one?
+<assistant> Sarah J. Maas also wrote The Assassin's Blade.
+<assistant> I did not know that, but I do like the Reds. Do you like them?
+<user> I like Michael Jackson too. Do you know him?
+<assistant> Yes, it was written by Greg Mortenson and released in 2001.
+<assistant> CCH Pounder starred in The Mortal Instruments: City of Bones. Have you seen it?
+<assistant> That is a great movie. It also stars Christian Bale and Emily Watson.
+<user> Kyla Pratt also starred in The Baby-Sitters Club.
+<assistant> I don't know much about her, but I know she is married to Serena Williams. Do you like her?
+<user> Yes, I do. Wuthering Heights is one of my favorites.
+<user> Yes, I love Lewis Carroll's work. What can you tell me about him?
+<assistant> Modern Family is a good one.
+<user> Yes, I have read True Believer. What genre is it?
+<user> Who wrote Oliver Twist?
+<user> Yes, it was written by James Cameron. He also directed True Lies.
+<user> Yes, I like Matthew McConaughey. What else has he been in?
+<user> is he also a musician?
+<assistant> Uma Thurman also starred in Batman & Robin. Have you seen that movie?
+<user> Yes, I like her music, but I'm more of a fan of dance pop.
+<assistant> Why We Broke Up is written by Maira Kalman.
+<user> No, I haven't seen Thunderball: You Only Live Twice. Who wrote it?
+<assistant> Freakonomics: A Rogue Economist Explores the Hidden Side of Everything is written by Steven D. Levitt.
+<user> Yes, I love biographical films like Into the Wild. Have you seen that one?
+<assistant> I'm not a huge football fan, but I do like Tom Brady.
+<assistant> The Ultimate Hitchhiker's Guide: Five Complete Novels and One Story is written by Douglas Adams.
+<assistant> She also starred in Walk the Line and The Time Machine
+<assistant> Brendon Urie wrote Ready to Go and I'm Not Your Mother. Do you like his music?
+<assistant> A Discovery of Witches is written by Deborah Harkness. Do you like her work?
+<user> Who else starred in The Words?
+<assistant> Nona Gaye also starred in The Polar Express.
+<assistant> Ian McDiarmid starred in The Awakening (Horror Film) #119. Have you seen it?
+<assistant> The next book in the series is A Son of the Circus.
+<assistant> Yes, Doc Rivers is the coach for the Los Angeles Clippers.
+<user> No, I haven't. Who else starred in We're the Millers?
+<assistant> Lindsey Vonn is married to Thomas Vonn. Do you like her?
+<user> What other television films has Nick Jonas starred in?
+<assistant> She recorded Safe & Sound (Musical Recording) #38
+<assistant> Yes! He is married to Gisele. She starred in The Devil Wears Prada.
+<user> Yes I do I also like Philip Seymour Hoffman
+<assistant> Yes, it was directed by Harold Ramis who also directed Ghostbusters III.
+<user> I do like War movies like Apocalypse Now. Have you seen that one?
+<assistant> 2013 was also the year Winger was released.
+<user> Thunderbirds sounds interesting. Can you tell me more about it?
+<assistant> The Lucky Ones is a similar movie to The Imitation Game.
+<user> Is Serving Sara a road movie?
+<assistant> I love dance music. Femme Fatale is one of my favorites. Do you like dance music?
+<assistant> Star Wars: Episode I - The Phantom Menace stars Liam Neeson. Do you like his movies?
+<user> What year was it released?
+<user> Who stars in Eraserhead?
+<user> No I haven't. Who else stars in Zoolander 2?
+<assistant> No, but I have seen Once Upon a Time in Mexico. Have you seen it?
+<assistant> Sean Penn wrote Into the Wild starring Zach Galifianakis.
+<assistant> Washington's Crossing was written by David Hackett Fischer and released in 1971.
+<user> Vin Diesel also starred in Pitch Black, right?
+<assistant> She also wrote Circling the Sun.
+<assistant> Yes, Randall Duk Kim also starred in The Matrix Reloaded.
+<assistant> Washington's Crossing is a great non-fiction book.
+<assistant> Deadpool is also in the Marvel Universe
+<user> Was Stephanie Meyer influenced by William Shakespeare?
+<assistant> Steven Spielberg starred in Jaws.
+<assistant> I have not seen Happy Gilmore, but I know Ben Crenshaw is an artist.
+<assistant> Dave McKean wrote Wizard and Glass.
+<user> What else has Russell Crowe been in?
+<user> No I haven't, who else stars in it?
+<assistant> The Virgin Suicides is about Memory.
+<assistant> Jason Derulo is from Miami.
+<assistant> I haven't, but I heard he starred in The Wash. Have you seen it?
+<assistant> The Firm was written by John Grisham who also wrote The Partner.
+<assistant> Yes, Fight Club is written by Jim Uhls.
+<user> No, I haven't. Can you tell me more about You Only Live Twice?
+<user> Who else starred in that movie?
+<assistant> Marc Anthony owns the Miami Dolphins, right?
+<assistant> The Three Musketeers is written by Andrew Davies.
+<assistant> Have you seen The Legend of Tarzan?
+<assistant> It's a comedy and Julia Roberts also starred in Flatliners.
+<assistant> Runaway Bride is a romantic comedy similar to Lost in Translation
+<user> Yes, I do like Sci-Fi. Volcano is a good one.
+<assistant> Three Burials is starring Levon Helm.
+<user> I like Fantasy movies like Wolverine and the X-Men.
+<assistant> It was released in 1946.
+<assistant> It's a drama. Do you like drama?
+<assistant> Yes, Antoine de Saint-Exupéry is French.
+<assistant> yes he also wrote The Age of Innocence.
+<assistant> Mervyn Peake wrote The Strange Case of Dr Jekyll and Mr Hyde.
+<assistant> I don't know much about them. I think they are coached by Pete Carroll. Do you like him?
+<assistant> That was a great year for swimming. The United States of America also competed in the 2004 Summer Olympics.
+<user> Is Thomas M. Disch also a poet?
+<assistant> Harry Potter and the Prisoner of Azkaban is starring Daniel Radcliffe.
+<assistant> Nicolas Cage also starred in Kick-Ass.
+<assistant> Erich Maria Remarque is a German born in Munich.
+<user> Is Lindsay Sloane in it?
+<user> I'm not a huge fan of Beyoncé Knowles, but I like her in The Pink Panther.
+<user> What other movies did Tom Berenger star in?
+<assistant> yes she also recorded Tip of My Tongue
+<assistant> He directed There Will Be Blood starring Paul Dano.
+<user> I'm not familiar with Ernest & Celestine. Who else starred in it?
+<user> Who wrote Pineapple Express?
+<assistant> Sure, Scarecrow is written by Matthew Reilly. Have you read it?
+<assistant> I know that they are a sports team. Are you a fan?
+<assistant> West Side Story is adapted from Romeo and Juliet.
+<assistant> Yes, he also wrote Incident at Loch Ness
+<assistant> He also won the Grammy Award for Best Latin Pop Album.
+<user> Salma Hayek also starred in Frida with Edward Norton.
+<assistant> Stacy Keach starred in The Pathfinder. Have you seen it?
+<assistant> He's on the Portugal national football team.
+<assistant> Mean Girls. it was produced by Lorne Michaels. anything else I can answer for you?
+<assistant> Salem's Lot has genre Vampire. Vampire is similar to 30 Days of Night.
+<user> Can you tell me more about Shanghai Girls?
+<assistant> Yes, he did.
+<assistant> Yes, he was great in Space Jam.
+<assistant> Yes, he starred in Tombstone. Have you seen it?
+<assistant> Stir of Echoes is a thriller similar to Prisoners.
+<user> When was Frankenstein; or, The Modern Prometheus released?
+<assistant> Snow Crash is a science fiction book. Do you like science fiction?
+<user> I think he was also in Happy Gilmore, have you seen that one?
+<assistant> Yes he did. Charlie and the Chocolate Factory was released in 1929.
+<assistant> The New England Patriots are owned by Robert Kraft.
+<assistant> Yes, it is. It's a crime thriller. Do you like that genre?
+<assistant> The Ultimate Hitchhiker's Guide: Five Complete Novels and One Story is written by Douglas Adams. Do you like his work?
+<assistant> Mission: Impossible - Ghost Protocol stars Tom Cruise. Do you like him?
+<user> I did not know that. Did you know she composed Part of Me?
+<user> Did William Shakespeare also write Romeo and Juliet?
+<assistant> Cedric the Entertainer is also in that movie.
+<assistant> United 93 is a drama.
+<assistant> Michael O'Neill starred in Transformers. Have you seen it?
+<assistant> Shanghai Girls is written by Lisa See. It was released in 2012.
+<user> No I haven't. When was it released?
+<user> I did not know that. I will have to check it out. Thank you for your help.
+<assistant> I don't really follow soccer either, but I do know that Thomas Müller plays for FC Bayern Munich.
+<user> Yes I do I like Tina Fey
+<assistant> Simon McBurney.
+<assistant> Eleanor Roosevelt is a writer, author, and politician. Do you like her?
+<user> I did not know that, who else starred in Scream 4?
+<assistant> Rohit Sharma is a cricket player from Delhi. Do you like cricket?
+<user> Who else starred in Zoom?
+<user> No, I haven't. I'm more of a Baltimore Ravens fan.
+<assistant> Mike Shinoda played the Drums (Musical instrument) #38
+<assistant> Yes, she was. To The Lighthouse is one of her most famous works.
+<assistant> Tom Clancy wrote The Sum of All Fears, which is a political thriller.
+<assistant> Yes, it is a great movie starring Tom Hardy. Do you like him?
+<assistant> Yes, it's a Romance novel like The Mark of Athena.
+<user> Yes, I love The Hunger Games: Mockingjay - Part 1, Part 2, and Part 3. Philip Seymour Hoffman was also in Doubt.
+<assistant> She wrote The Lost Prince.
+<user> That's right, Jamel was also in the film. Did you know that he was also a producer?
+<user> He was influenced by William Shakespeare, right?
+<assistant> The Day After Tomorrow is a Thriller. Do you like Thrillers?
+<assistant> Alexandra Breckenridge also starred in She's the Man. It was directed by Andy Fickman.
+<assistant> It was released in 2006 and is a Biography.
+<assistant> It is written by John Scalzi
+<assistant> Sam Raimi wrote The Evil Dead. Have you seen it?
+<assistant> William Shakespeare wrote The tragedie of King Richard the second.
+<assistant> The Adventures of Tom Sawyer was written by Mark Twain. Are you interested in other books by Twain?
+<assistant> Thirteen is a Biographical Film starring Sarah Clarke.
+<assistant> Kevin Durant is a basketball player from Oakland, California.
+<assistant> Josh Hutcherson starred in The Hunger Games: Mockingjay - Part 1.
+<assistant> I'm not a huge fan of the Steelers, but I do like the Black and Yellow colors.
+<assistant> Young-adult fiction is similar to The Chocolate War.
+<assistant> Yes she did and it was produced by Harald Kloser
+<assistant> Franz Kafka wrote Sämtliche Erzählungen.
+<assistant> I don't know much about her other than she is a tennis player.
+<assistant> Kick-Ass was directed by Matthew Vaughn.
+<assistant> He wrote Le Petit Prince.
+<user> I like Diana Gabaldon. Did she also write Outlander?
+<assistant> Aladdin is written by Terry Rossio.
+<user> 2011 was also the year ‎You Are Not So Smart‎ was released.
+<assistant> It was directed by James Franco. He also directed 2012.
+<user> Whoopi Goldberg was also in Toy Story 3?
+<user> No, I haven't read Black Powder War. I will check it out. Thank you for your help.
+<user> Yes, I am. What genre is it?
+<assistant> The Dark Knight was written by Christopher Nolan. He also wrote The Prestige.
+<user> Steven spielberg also starred in Jaws
+<assistant> Armageddon stars Bruce Willis and is a thriller. Do you like thrillers?
+<assistant> Paul Kalanithi wrote When Breath Becomes Air.
+<user> I'm more interested in the drama genre.
+<assistant> The Polar Express was directed by Robert Zemeckis and stars Tom Hanks. Have you seen it?
+<assistant> I'm not a huge football fan, but I do know that Mike Pettine is their coach.
+<assistant> Shane Black also wrote The Long Kiss Goodnight.
+<user> I didn't know that. Is Tyga a rapper?
+<assistant> The Fast and the Furious was written by Gary Scott Thompson who also wrote Fast Five.
+<user> Fantasy is my favorite genre. I also like The Golden Compass starring Freddie Highmore.
+<assistant> Yes, he was influenced by Usher as well.
+<assistant> Sure, he starred in The Social Network and The Man in the High Castle.
+<user> Do you know of any other children's literature?
+<assistant> Yes, Stephen Hawking also made a regular appearance in Alien Planet.
+<assistant> Yes, Nicola Kraus wrote The Nanny Diaries.
+<assistant> Éric Rohmer is an author as well as Mark Bowden do you like him?
+<assistant> Tombstone is an action/adventure film starring Billy Bob Thornton.
+<user> Richard Castle wrote Naked Heat, right?
+<assistant> I don't know much about her other than she is a singer. Do you like her music?
+<assistant> Robert Duvall starred in The Godfather.
+<assistant> Correct, but lost a few games. Are you a fan of tennis?
+<assistant> William Gibson wrote Neuromancer.
+<user> I love Sci-Fi movies. Any other movies in that genre?
+<user> yes. Lord of Misrule was written by Jaimy Gordon. what other books do you have?
+<assistant> Ruth Rendell is also from Suffolk
+<assistant> Margery Williams Bianco wrote The Velveteen Rabbit. Have you read it?
+<assistant> I'm not a huge fan of the Denver Broncos, but I do like their coach John Fox.
+<user> Yes, I'm a fan of fantasy. Can you recommend any other books in that genre?
+<assistant> Yes, it was. It was a drama.
+<assistant> I love her song Tik Tok. Do you like her music?
+<assistant> Magnolia stars Patton Oswalt.
+<assistant> Spencer Johnson wrote Who Moved My Cheese?
+<user> Yes, he plays for the Mexico national football team. Do you know any other players on that team?
+<user> I like Malcolm Gladwell. What other books did he write?
+<assistant> He also wrote Van Helsing.
+<assistant> The Constant Gardener was released in 2005
+<assistant> Margaret R. Higonnet wrote Tess of the d'Urbervilles: A Pure Woman Faithfully Presented.
+<assistant> I like her in Battleship. Have you seen it?
+<user> What genre is Xenocide?
+<assistant> Yes, he did. Randy Pausch also starred in Star Trek.
+<assistant> I love her song Titanium (Composition) #39.
+<user> What else has Temuera Morrison been in?
+<user> What genre is The Life Aquatic?
+<assistant> The Silence of the Lambs was written by Thomas Harris who also wrote Red Dragon.
+<assistant> Josh Boone directed The Fault in Our Stars. Have you seen it?
+<user> I like Kevin McNally. He was also in Spice World.
+<assistant> Sapphique was written by Catherine Fisher and released in 1891.
+<assistant> The next in the series is The Sea of Monsters. Have you read it?
+<assistant> Taylor Lautner is one of the main actors.
+<user> No, I haven't. Can you tell me more about it?
+<assistant> It was released in 1847 and was written by Emily Bronte.
+<assistant> He also starred in The Cat in the Hat. Have you seen that one?
+<assistant> The Revenant is a Vampire Film starring Leonardo DiCaprio. Do you like Vampire movies?
+<assistant> Slaughterhouse-Five, or The Children's Crusade: A Duty-Dance with Death is written by Kurt Vonnegut Jr.
+<user> Do you know if they drafted Brock Osweiler?
+<assistant> Yes, he is a singer and songwriter.
+<assistant> Maggie Stiefvater wrote The Scorpio Races. Have you read it?
+<assistant> Yes, Queen Latifah was also in What Happens in Vegas.
+<assistant> Lev Grossman wrote The Magicians. Have you read it?
+<assistant> Yes, it was written by Steven Spielberg and released in 2003. Are you familiar with his work?
+<assistant> Samuel Hoffenstein.
+<assistant> Yes, it was a great romantic comedy.
+<assistant> Don Francks was also in Star Wars: Episode 5. Have you seen it?
+<assistant> Yes they did win Super Bowl XLII
+<assistant> Eric Darnell directed Antz.
+<assistant> I'm not a huge basketball fan, but I do know that Jerry Reinsdorf owns the team.
+<user> Who else starred in The Sisterhood of the Traveling Pants 2?
+<assistant> He directed Kung Fu Panda, which was written by Jonathan Aibel.
+<assistant> If you like Fantasy, you should check it out.
+<assistant> Burn After Reading is starring John Malkovich.
+<assistant> Zoë Kravitz is also a musician.
+<assistant> I'm not a huge baseball fan, but I do know that Fred Wilpon owns the team. Do you like baseball?
+<user> John York is a good owner. He was the runner-up in Super Bowl XLVII.
+<assistant> Sure, Sally Beauman wrote Rebecca. Have you read it?
+<assistant> Hugh Jackman starred in The Wolverine. It was written by Mark Bomback.
+<assistant> Murder by Death is a comedy starring Truman Capote
+<assistant> He is a cricket player from Delhi. Do you like cricket?
+<assistant> Yes it was. Kendra is a regular on that show.
+<assistant> The Night Circus was written by Erin Morgenstern and released in 2014.
+<user> I like Real Women Have Curves. Lupe Ontiveros also starred in Zoot Suit.
+<assistant> Island is a great one by Aldous Huxley. Have you read it?
+<user> What Lies Beneath sounds interesting. Who else starred in it?
+<assistant> Brian Thompson starred in The Terminator and The Terminator II: Judgement Day.
+<user> Who else starred in Silver Linings Playbook?
+<assistant> Casablanca is starring Humphrey Bogart. Do you like him?
+<assistant> He also wrote Eyes Wide Shut. Have you read that one?
+<user> I have read The Lost Hero, but not The Maze Runner.
+<assistant> Beatrix Potter wrote The Tale of Mrs. Tiggy-Winkle.
+<assistant> Hitch is a romantic comedy. Have you seen it?
+<assistant> Mesut Özil is a Midfielder and Forward.
+<assistant> Yes, it was. Y: The Last Man - The Deluxe Edition Book One was also released that year.
+<user> No, I didn't know that. What else has she written?
+<user> He also wrote The Wonderful Story of Henry Sugar And Six More.
+<assistant> They are owned by Arthur Blank, right?
+<user> Tony Hendra also starred in Life with Mikey, right?
+<assistant> Dustin Fitzsimons starred in The Social Network. Have you seen it?
+<user> I like Restoration. What genre is it?
+<user> Yes, I do. He wrote Hudson Hawk. Have you seen it?
+<user> Night of Your Life was written by David Guetta right?
+<assistant> Sure! Friends with Benefits is a Romance Film, similar to Mallrats.
+<assistant> The Tragedy of Julius Caesar is written by William Shakespeare.
+<user> The Cabin in the Woods was released in 2016 and was distributed by Universal Studios.
+<user> I love Liam Neeson. He was also in The Wildest Dream. Have you seen it?
+<assistant> Yes, he did write Days of Thunder.
+<assistant> Yes, he did. He also founded the Philadelphia Eagles.
+<assistant> sue monk was influenced by Kate Chopin
+<assistant> You might also like Wish You Well.
+<assistant> Yes Mila Kunis also starred in Date Night
+<assistant> Melinda Clarke also starred in this movie.
+<user> I like Ricky Martin too. Do you like him?
+<assistant> Ann Patchett wrote The Patron Saint of Liars.
+<assistant> The Short Second Life of Bree Tanner is part of a series.
+<user> Yes, I do. I like Reggie Williams. Do you like him?
+<user> I'm not into American football, but I do like Indie films.
+<assistant> I love Hugh Jackman in X-Men 2.
+<assistant> Robert Stromberg directed Maleficent.
+<assistant> Odyssey was written by Homer.
+<assistant> Yes, Rob Cohen starred in The Skulls. Have you seen it?
+<user> Bud Adams was in the United States Navy right?
+<assistant> The Matrix Revolutions was directed by Lana Wachowski who also directed Speed Racer.
+<assistant> One Summer: America 1927 was written by Bill Bryson.
+<assistant> The New York Yankees are a Major League Baseball team based in New York.
+<user> No, I haven't read Holidays on Ice. Is it a satire?
+<assistant> I don't know much about them other than they are coached by José Mourinho.
+<assistant> Yes, it was written by Chinua Achebe and released in 1958.
+<user> Did Louisa May Alcott write Little Men, or Life at Plumfield with Jo's Boys?
+<assistant> Simone Elkeles wrote Wild Cards. Have you read it?
+<assistant> Jeff Garlin starred in I Want Someone to Eat Cheese With with Amy Sedaris.
+<assistant> Yes, he is from Monmouth Beach. It's in New Jersey.
+<assistant> Yes, Robert Zemeckis wrote The Polar Express.
+<user> Wasn't Bill Hader in Pineapple Express as well?
+<assistant> Kiss the Girls was written by James Patterson and released in 1996.
+<assistant> The Voyages of Doctor Doolittle was released in 1922.
+<assistant> I'm not a huge basketball fan, but I do know that Mike D'Antoni is their coach.
+<user> I didn't know that. I know that Warpaint is the mascot for the Kansas City Chiefs.
+<user> Who wrote Towers of Midnight?
+<assistant> Virat Kohli is also a cricket player.
+<assistant> The Titan's Curse was written by Rick Riordan and released in 2012. Do you like his work?
+<assistant> It is a comedy, similar to What's Your Number?
+<user> Who else starred in Chain of Fools?
+<assistant> Inglourious Basterds is written by Quentin Tarantino. Do you like his work?
+<user> what genre is it?
+<assistant> Twilight was written by Stephenie Meyer and released in 2012.
+<assistant> Thomas E. Connolly wrote The Scarlet Letter.
+<assistant> Louise Lasser starred in Take the Money and Run. Have you seen it?
+<assistant> I don't follow him much, but I do know he is a Buddhist.
+<assistant> I'm not sure, but LL Cool J was also in Wildcats.
+<assistant> He was also in American Gangster.
+<user> yes he is a great basketball player. do you like him?
+<assistant> Straw Dogs was written by Rod Lurie. He also directed The Last Castle.
+<user> I think June Carter Cash was also in the Apostle, what else has he done?
+<user> Yes, I like Action-Adventure movies like The Day After Tomorrow.
+<assistant> Yes, he was also a Forward for the Seattle Sounders.
+<user> I don't know much about cricket. I heard Mahendra Singh Dhoni starred in Hook Ya Crook.
+<user> Yes, she was in that movie as well as Act of Contrition.
+<assistant> Sure, she starred in The Situation and The Ice Harvest.
+<user> I've heard of Zoe's Tale, but I haven't read it.
+<user> No, I did not. I did read You've Been Warned. Have you read that one?
+<user> Yes, I like The Color Purple. Can you tell me more about it?
+<assistant> The Deer Hunter was written by Quinn K. Redeker and released in 2014.
+<user> The Storyteller sounds interesting. Can you tell me more about it?
+<assistant> The Amazing Spider-Man was written by Steve Kloves
+<user> Yes, I do. The Real Mother Goose is one of my favorites.
+<user> Neon Hitch is hip hop, right?
+<user> I like Rhythm and blues. Do you like that genre?
+<assistant> Yes she did and it was released in 2013
+<assistant> Broken Silence is written by Natasha Preston. Do you like her work?
+<assistant> The Fault in Our Stars is a good one.
+<assistant> Call My Name is one of his best songs. Have you heard it?
+<assistant> I don't know much about him other than he is an athlete.
+<assistant> They are in the NFC West.
+<user> I like Magic realism, what else can you tell me about it?
+<assistant> Yes, he is a table tennis player from China.
+<assistant> The Witches was written by Quentin Blake. He also wrote The BFG.
+<user> Who Framed Roger Rabbit is United States of America
+<user> Tommy Haas and Stan Wawrinka are two of my favorite players.
+<assistant> Jet Li also wrote Kiss of the Dragon.
+<assistant> Yes, Treachery is a Thriller like Shark Night. Have you seen that one?
+<assistant> Yes, it was written by Ben Affleck and released in 2012.
+<user> Who wrote Wreck-it Ralph?
+<user> Who else starred in Titanic?
+<assistant> Yes, Relato de un náufrago was released in 1970, the same year as Love Story.
+<assistant> Alison Doody starred in Indiana Jones and the Last Crusade.
+<user> I think Shel Silverstein also wrote The Giving Tree, which is a children's literature.
+<user> When was it released?
+<user> Yes, I love action movies like xXx: State of the Union.
+<assistant> William Shakespeare wrote The Tragedy of Julius Caesar.
+<assistant> In Cold Blood is a crime fiction novel. Do you like crime fiction?
+<assistant> Yes, she wrote Memoria de mis putas tristes.
+<assistant> Orson Scott Card wrote Xenocide, which is speculative fiction.
+<user> Yes, I like Ryan Reynolds. Do you know any other movies he was in?
+<assistant> Michelle Rodriguez was also in Fast Five. Have you seen it?
+<assistant> The Roommate was written by Sonny Mallhi and released in 2012.
+<assistant> Mila Kunis starred in The Book of Eli.
+<user> I didn't know that. I think Clay Aiken is a celebrity friend of Kelly Clarkson.
+<assistant> So You Want to Be a Wizard is a good one.
+<assistant> The Hobbit was written by J.R. R. Tolkien. He also wrote There and Back Again. Have you seen it?
+<assistant> It's a novel, similar to Zoe's Tale.
+<assistant> I'm not a huge Patriots fan, but I do like the Pittsburgh Steelers.
+<assistant> Yes, it was written by Terry Pratchett.
+<assistant> Zookeeper is a good one. Have you seen it?
+<user> Jodie Foster also starred in The Dangerous Lives of Altar Boys. Have you seen that one?
+<assistant> She also starred in The Interpreter. Have you seen that one?
+<assistant> Sure, she wrote The Valley of Amazement. Have you read it?
+<user> Who wrote The Vow?
+<assistant> It was written by Spike Lee and stars John Turturro.
+<user> I didn't realize she was in that. Did you know it was written by Nicholas Stoller?
+<user> What genre is The Puppet Masters?
+<assistant> I like her too she starred in Valentine's Day
+<assistant> Jeff Garlin starred in I Want Someone to Eat Cheese With with Paul Mazursky.
+<assistant> Jim Carrey and Paul Giamatti starred in that one.
+<assistant> Douglas Adams wrote The Hitchhiker's Guide to the Galaxy: The Trilogy of Four.
+<user> Who else starred in Days of Thunder?
+<assistant> Michael Biehn starred in Tombstone which is an action/adventure film. Have you seen it?
+<user> Who starred in The Longest Yard?
+<assistant> Yes, it starred Steve Carell. Do you like his movies?
+<user> I don't know if he is into sports, but I do know that he is a quarterback for the Denver Broncos.
+<assistant> I think they are a good National Football League team.
+<assistant> He wrote Two By Two. Have you read that one?
+<assistant> I know she is an actor and singer. Do you like her?
+<assistant> I don't know much about them. I think they were the runner-up in Super Bowl XLIII.
+<user> I didn't know that. Joe Jonas starred in Camp Rock, right?
+<user> Who else starred in American Pie?
+<assistant> Robert Duvall starred in Gone in Sixty Seconds.
+<assistant> It was released in 2001.
+<assistant> Anthony Burgess wrote A Clockwork Orange.
+<user> I like Sia Furler. Do you like Pop music?
+<assistant> Yes, it's a romantic comedy, like The Love Guru.
+<user> Yes, I love Stephen King. He starred in The Stand. Have you seen it?
+<user> Who starred in Arthur and the Invisibles?
+<assistant> Yes, he wrote The Bluest Eye. Have you read it?
+<assistant> Yes, they also wrote The Princess and the Frog
+<assistant> Tyga is a celebrity friend to Nicki Minaj. Do you like her music?
+<user> What year was Little House in the Big Woods released?
+<user> What year was Il Principe released?
+<assistant> Star Wars is a science fiction film. Do you like science fiction?
+<assistant> Yes, he did. He also starred in Hancock with Jason Bateman.
+<assistant> Yes, Breathing Lessons has genre Fiction and Children's literature.
+<user> What genre is it?
+<assistant> She also wrote Then Came You. Have you seen that one?
+<assistant> Gregory Rabassa wrote Rayuela.
+<user> Interesting, what genre is Moo, Baa, La La La?
+<user> I agree. Louis van Gaal is a good coach.
+<assistant> Taylor Cole starred in it. He also starred in The Violent Kind.
+<assistant> Tom Shadyac wrote The Nutty Professor.
+<assistant> I did not know that. I think John York owns the team.
+<assistant> He directed The Tourist. Have you seen it?
+<assistant> John E. Woods wrote Der Zauberberg.
+<assistant> He directed Fool's Gold. Have you seen it?
+<user> Who wrote Runaway Bunny?
+<assistant> The Black Dahlia was directed by Brian De Palma. Do you like thrillers?
+<user> Did you know that she is married to Kevin Federline?
+<assistant> Adam McKay directed The Other Guys. Have you seen it?
+<user> The Hitchhiker's Guide to the Galaxy was written by Eoin Colfer, right?
+<user> I like Crime Fiction
+<assistant> Carrie was written by Stephen King. Do you like his work?
+<assistant> I don't know much about him other than he plays for FC Barcelona. Do you like him?
+<assistant> The Call of the Wild was written by Jack London and released in 1891.
+<assistant> Ben Stiller directed Zoolander. He also directed Tropic Thunder.
+<assistant> Jordin Sparks is from Phoenix (United States of America) #276
+<assistant> The Fugitive is starring Harrison Ford.
+<assistant> I have not, but I heard Barry Gibb is from Manchester.
+<assistant> I'm not a huge baseball fan, but I do know that Terry Collins is the leader.
+<user> Joseph Gordon-Levitt also starred in Don Jon.
+<user> I love Soul music. Toni Braxton is one of my favorites.
+<user> No I haven't. Who else starred in The Legend of Tarzan?
+<user> Art Spiegelman also wrote The New York Trilogy.
+<user> yes I do. Wonder Boys is a great comedy.
+<user> I like Dick Cavett. What genre is Annie Hall?
+<assistant> Yes, he directed The Legend of Tarzan. Have you seen it?
+<assistant> Yes, I love Meryl Streep.
+<assistant> It was released in 2007, the same year The Name of This Book Is Secret was released.
+<assistant> You might also enjoy Weeds, which is a drama.
+<assistant> He wrote When You Are Engulfed in Flames.
+<assistant> The Cotton Club stars Sofia Coppola.
+<user> I like Non-Fiction. Can you recommend any other non-fiction?
+<user> That sounds interesting, can you tell me more about it?
+<user> Did he also write Le Comte de Monte-Cristo?
+<assistant> Wilde is a good one.
+<assistant> He also wrote Tourist Season. Have you read that one?
+<assistant> Yes, he is a writer and a cartoonist. Do you like his work?
+<assistant> I know that Homer wrote The Odyssey.
+<user> Bill Murray also starred in The Royal Tenenbaums.
+<user> yes The Young Messiah
+<assistant> She was influenced by Sally Beauman.
+<assistant> James Coburn starred in The Mists of Avalon.
+<user> I have seen Subway Stories, but I haven't seen War Within. Can you tell me more?
+<user> I've heard of Scream 4. Can you tell me more about it?
+<assistant> Sure, Violets Are Blue is a mystery novel.
+<assistant> Jennifer Ehle starred in Zero Dark Thirty. Have you seen that one?
+<assistant> Brendan Fraser starred in Bedazzled. He also starred in Whole Lotta Sole.
+<user> No, but I have read The Bad Place by Dean Koontz.
+<assistant> Richard Howard is a Critic. He was born in London.
+<assistant> Selena Gomez starred in Princess Protection Program.
+<assistant> Why Did I Get Married? is written by Tyler Perry. Have you seen it?
+<user> I think I've heard of that one. What genre is it?
+<assistant> Seven Samurai is an action film. Do you like action films?
+<assistant> Garth Stein is a film producer and screenwriter. Are you familiar with his work?
+<user> Yes, The Return of the Living Dead is a good one.
+<assistant> I know he's a basketball player. Do you like basketball?
+<assistant> Lee Blessing wrote it.
+<user> I love Jada Pinkett Smith. What else has she been in?
+<assistant> Emily Bronte wrote Wuthering Heights.
+<user> I have not read Freakonomics: A Rogue Economist Explores the Hidden Side of Everything. Who wrote it?
+<assistant> Helen McCrory starred in The Queen. Have you seen it?
+<assistant> Do you like Crouching Tiger, Hidden Dragon because it is a Martial Arts Film?
+<user> What genre is The Wackness?
+<assistant> Robert Zemeckis wrote The Polar Express.
+<assistant> Yes, he did.
+<assistant> Taken is a suspense novel.
+<assistant> The Hobbit: The Battle of the Five Armies has genre Fantasy. Do you like Fantasy movies?
+<assistant> Justin Lin wrote Better Luck Tomorrow. Have you seen it?
+<assistant> Yes, he does have a brother, Wayne Rooney.
+<assistant> I'm not a huge baseball fan, but I do like the New York Mets.
+<assistant> The genre is Mystery and Mystery. Do you like Mystery movies?
+<assistant> Barbra Streisand is also a Film director.
+<assistant> George A. Romero also wrote The Dark Half. Have you seen it?
+<assistant> Jerry Maguire is a romantic comedy. Do you like romantic comedies?
+<user> Who stars in Shark Night?
+<assistant> He also wrote Red Dragon. Have you read it?
+<assistant> Do you like Keanu Reeves?
+<assistant> Chuck Russell directed The Scorpion King. Have you seen it?
+<assistant> Thomas Robinson is from Washington, D.C. and plays point guard for the Washington Wizards.
+<assistant> Indianapolis Colts is located in Indianapolis.
+<assistant> I think he's a great golfer.
+<assistant> Seven Pounds stars Will Smith. Do you like his movies?
+<user> do you like House music?
+<assistant> It was written by John Grogan and released in 2006.
+<assistant> John E. Woods also wrote Der Zauberberg.
+<assistant> The Lost World: Jurassic Park has genre Sci-Fi and Adventure. Do you like those genres?
+<assistant> Yes it is. The next book in the series is Seeing Redd.
+<assistant> Do you like crime fiction?
+<user> Spring Breakers is by Skrillex right?
+<assistant> Yes, it is a Sci-Fi movie. Do you like Sci-fi movies?
+<assistant> I think she's a great singer. She was in Spring Breakers. Have you seen it?
+<assistant> Choke is a black comedy film starring Bret Easton Ellis.
+<assistant> He also starred in Yours, Mine and Ours.
+<user> I am not sure about Andy Reid, but I know they were the runner-up in Super Bowl IV.
+<assistant> Lady Susan is a similar book by Jane Austen.
+<user> I like soft rock. I like Acoustic guitar.
+<assistant> I think she is a great singer and songwriter.
+<assistant> She also wrote The Shadowhunter's Codex.
+<assistant> He also wrote A Little Princess.
+<user> No I have not. Is Without Remorse a thriller?
+<assistant> Yes, she is. She wrote To The Lighthouse. Have you read it?
+<assistant> Martin Gardner wrote Alice's Adventures in Wonderland.
+<user> I love Kurt Vonnegut. Can you recommend any other books by him?
+<user> Yes, I do. Ziggy Marley is one of my favorites.
+<assistant> Yes, he wrote the Russian Language.
+<assistant> He also starred in Music and Lyrics.
+<assistant> Heart of Darkness is written by Joseph Conrad. Do you like his work?
+<assistant> Mahendra Singh Dhoni starred in Hook Ya Crook.
+<assistant> Due Date is written by Todd Phillips. He also wrote Old School.
+<assistant> Yes, it is. He also starred in The Bodyguard. Have you seen it?
+<user> Yes, he also wrote The Prestige.
+<user> What genre is Romeo and Juliet?
+<assistant> He plays Defender
+<assistant> She also starred in Women in Love.
+<assistant> Yann Martel wrote Life of Pi. It was released in 1929.
+<assistant> Yes, he also wrote Wild Ones. Have you heard it?
+<assistant> He starred in UFC 94.
+<user> Hugh Jackman also starred in Happy Feet.
+<user> No, I didn't know that. I know Nicholas Sparks wrote The Last Song, did you know that?
+<assistant> He's on the Germany national football team, right?
+<user> I think Jeff Bridges was also in The Little Prince. Can you tell me more about him?
+<assistant> She was in The Ring Two. It's a thriller.
+<user> I didn't know that. I think Michael Jackson also won the MTV Video Music Award for Best Choreography.
+<user> Oh, that's right. I think Peter Pan was released in 1904.
+<assistant> The Lego Movie is a fantasy movie. Do you like fantasy movies?
+<assistant> Yes, Scarlett Johansson starred in We Bought a Zoo. Matt Damon was also in it.
+<assistant> F. Murray Abraham starred in Thir13en Ghosts. Have you seen it?
+<assistant> Sam Taylor-Johnson directed Fifty Shades of Grey.
+<user> Cowbell is one of my favorite songs.
+<assistant> Yes Kristen Stewart starred in Jumper
+<assistant> Gabriel García Márquez also wrote Relato de un náufrago.
+<user> No, I haven't. Can you tell me more about Frankenstein; or, The Modern Prometheus?
+<assistant> Louis Sachar wrote Wayside School is Falling Down.
+<assistant> Badminton is one of my favorite sports.
+<user> I have heard of White Teeth. Can you tell me more about it?
+<assistant> I'm not a huge tennis fan, but I do like basketball.
+<user> Who wrote The Return of the Living Dead
+<assistant> I'm not a huge fan of pop rock but I love Get Him to the Greek.
+<user> No, I haven't. Who wrote The Hiding Place?
+<assistant> Yes, she is a writer and a tennis player. Do you like tennis?
+<assistant> The Dark Knight is a crime fiction movie. Do you like that genre?
+<assistant> CCH Pounder starred in The Mortal Instruments: City of Bones. Have you seen it?
+<assistant> The Time Traveler's Wife is written by Bruce Joel Rubin. Do you like his work?
+<assistant> Colleen Hoover wrote Ugly Love.
+<assistant> I love American Idol. It's a great talent show.
+<assistant> She also wrote Unbroken: A World War II Story of Survival, Resilience, and Redemption.
+<user> No I haven't. Who else was in Safe House?
+<assistant> Marco Reus is a forward. Do you like him?
+<assistant> It was directed by Stanley Kubrick.
+<assistant> Stardust was written by Neil Gaiman and released in 2001.
+<assistant> Goodfellas is written by Nicholas Pileggi. Do you like crime fiction?
+<assistant> Do you like Speculative fiction?
+<assistant> Telly Savalas starred in that film.
+<user> I love Jessica Chastain, she was in Zero Dark Thirty Wilde and The River King.
+<user> Yes, it is Comedy Central. Do you like Comedy Central?
+<assistant> I love her music. I think she is friends with Miley Cyrus.
+<assistant> He plays Midfielder
+<assistant> Unleashed is a similar movie.
+<user> What genre is Quantum of Solace?
+<assistant> Eric Bress wrote The Butterfly Effect starring William Lee Scott.
+<assistant> Fannie Flagg wrote I Still Dream About You. Have you read it?
+<assistant> He also starred in Carlos with Martha Higareda.
+<assistant> Josh Brolin is one of the main actors in Goonies.
+<user> Yes, he was. He was also a basketball player.
+<user> Shane Black wrote The Long Kiss Goodnight, right?
+<assistant> When the Wind Blows is a good one. Have you read it?
+<user> I haven't seen it, but I have seen The Princess Bride with André the Giant.
+<assistant> Sure! Zack Snyder wrote Sucker Punch, which is an action film. Have you seen it?
+<user> I'm not sure, but I do know she wrote A Thousand Years.
+<user> Who else starred in that movie?
+<user> No, I haven't. When was it released?
+<assistant> Under the Tuscan Sun is another Romance Film you might enjoy.
+<user> I would like to know who else was in it?
+<user> When was it released?
+<assistant> The Lord of the Rings has genre High Fantasy and Fantasy.
+<user> Anne Heche also starred in The Juror, right?
+<assistant> In Bruges was written by Martin McDonagh and released in 1994.
+<assistant> I'm not sure who he is, but I do know that Marcus Spears plays for the Cowboys.
+<user> I think Will Ferrell was in The Other Guys. I love him!
+<user> Who else starred in Saving Mr. Banks?
+<assistant> Undisputed is an action film.
+<user> What genre is Violets Are Blue?
+<assistant> I think they are a good team. They were the runner-up in the 1945 World Series.
+<assistant> Do you like Fantasy movies?
+<assistant> Yes, he also starred in Days of Thunder. Have you seen it?
+<assistant> Yes, he starred in Jumbo. Have you seen it?
+<assistant> John Tenniel wrote Alice's Adventures in Wonderland.
+<assistant> Gone Girl is written by Gillian Flynn. Do you like her work?
+<user> I didn't know he was sponsored by Birdhouse Skateboards.
+<user> Yes, he was great in Get Smart. Have you seen that one?
+<assistant> I know they are in the AFC South. Are you a fan?
+<assistant> The Voyage of the Dawn Treader is part of the series.
+<assistant> Rosemary Wells wrote Charlotte's Web. Have you read it?
+<assistant> Victoria Azarenka is a tennis player from Belarus.
+<assistant> Do you like Time travel movies?
+<user> I have not read Fifty Shades Freed. Can you tell me more about it?
+<assistant> Yes, he wrote Baudolino.
+<user> I would like to know more about The Rescue.
+<assistant> Yes he did and Salem's Lot is a horror novel.
+<user> What genre is The Temple of My Familiar?
+<assistant> Yes, Denzel Washington also starred in Antwone Fisher.
+<assistant> Pride and Prejudice was released in 1891.
+<user> I've seen Juno, but not Young Adult. Can you tell me more?
+<assistant> I don't know much about him other than he is married to Hayden Panettiere.
+<assistant> Do you like Mean Girls because it is a comedy?
+<assistant> It was released in 2011 and written by Marie Kondō.
+<assistant> I love Winnie-the-Pooh. It was written by A.A. Milne.
+<assistant> Leo Tolstoy is an author, poet and playwright. Do you like his work?
+<assistant> That's My Boy is similar to Borat: Cultural Learnings of America.
+<assistant> Tony Jay is one of the main actors in Time Bandits.
+<assistant> Groundhog Day was written by Harold Ramis. He also directed Year One.
+<assistant> District 9 is a Science Fiction movie. Do you like Science Fiction movies?
+<user> Who wrote Jaws?
+<assistant> Christopher Paolini wrote Eragon and The Last Samurai.
+<user> No I haven't. Who else starred in it?
+<assistant> No, I haven't. Is it a thriller?
+<assistant> Yes, he did. He also wrote Seveneves.
+<assistant> Robert Lewandowski is a Polish football player. He plays for the Poland national football team.
+<user> Let Me In has genre Vampire. Do you like Vampire movies?
+<assistant> He also wrote Nicholas Nickleby.
+<assistant> Yes, Katy Perry is Portuguese American as well as Taylor Swift.
+<assistant> Abraham Verghese wrote When Breath Becomes Air.
+<assistant> I don't know much about him other than he is an athlete.
+<assistant> Seth Rogen directed Pineapple Express. He also directed This is the End.
+<assistant> Yes, he was influenced by Flannery O'Connor.
+<assistant> Yes, he is a football player from Wales.
+<assistant> The Paris Wife was written by Paula McLain and released in 2012.
+<user> Zoolander is a Slapstick comedy, right?
+<assistant> Do you like Alien because it is a sci-fi movie?
+<user> What genre is Doctor Dolittle?
+<assistant> It was written by Kristin Cast and released in 2012. Do you like her work?
+<assistant> Yes, he starred in Cutthroat Island. Have you seen it?
+<assistant> Yes, he wrote Through the Looking-Glass, and What Alice Found There.
+<assistant> Sam Anderson starred in Water for Elephants.
+<assistant> Fallen is a mystery novel released in 2013. Do you like mystery?
+<assistant> Yes, it is. Johnny Depp also starred in Dark Shadows.
+<assistant> I'm not a huge football fan, but I do like the AFC West.
+<user> I like The Muppets too. Did Katy Perry star in any other movies?
+<assistant> I'm not familiar with them. I know they play in the National Football League in Charlotte.
+<user> Who wrote The Constant Gardener?
+<assistant> Yeardley Smith was one of the main actors in the movie.
+<assistant> It was written by Scott O'Dell.
+<assistant> Yes, he is a great coach. He also coached Manchester United F.C.
+<assistant> The Beastmaster is a fantasy film. It's also considered Sword and sorcery.
+<assistant> Rudy was filmed in Notre Dame Stadium.
+<assistant> The Silence of the Lambs is starring Anthony Heald. do you like thrillers?
+<assistant> I did not know that, but I did know that he was a writer as well.
+<assistant> I'm not a huge football fan, but I do know that they are coached by Mike Zimmer.
+<user> I don't know much about her. I like Venus Williams. Do you like her?
+<assistant> Give Your Heart a Break is one of her best songs
+<assistant> He was educated at Oriel College, Oxford.
+<user> Did Claudia Gray also write Stargazer?
+<assistant> The Shack: Where Tragedy Confronts Eternity is written by William Paul Young.
+<assistant> I'm not sure, but Reggie Bullock was drafted.
+<user> I like Tim McGraw, can you tell me more about The Kingdom?
+<assistant> Yes, he is. He also starred in that movie. Have you seen it?
+<user> I've heard of The Funhouse. It was written by Dean Koontz, right?
+<user> I love Quentin Tarantino. He wrote Grindhouse. Have you seen it?
+<assistant> Frank Herbert wrote Heretics of Dune. It's a science fiction novel. Do you like science fiction?
+<assistant> I don't know much about soccer but I do know that he plays for the Argentina national team
+<user> I didn't know that. Wasn't Wang Leehom in the Relay?
+<user> Yes, I love Superhero movies like X-Men 2.
+<user> yes they are White
+<assistant> The Adventures of Pluto Nash is another great Sci-Fi movie.
+<assistant> The House of the Seven Gables was released in 1851.
+<assistant> Yes it is. Anton Chekhov also wrote Чайка.
+<assistant> Yes, it is a sitcom
+<assistant> Yes, it is starring Tom Hardy. Do you like thrillers?
+<assistant> Adam Levine is married to Behati Prinsloo.
+<assistant> I'm not sure, but Emily Watson starred in The Theory of Everything. Have you seen that one?
+<assistant> I didn't know that. Rob Zombie also wrote House of 1000 Corpses. Have you seen it?
+<assistant> Marley & Me: Life and Love with the World's Worst Dog is in language English. The Wide Window is similar.
+<assistant> Ellen Burstyn starred in When a Man Loves a Woman.
+<assistant> Goldfinch was released in 2013.
+<user> I like Tip of My Tongue. Did you know that she is friends with Clay Aiken?
+<assistant> Harry Potter and the Order of the Phoenix is starring Daniel Radcliffe.
+<assistant> Yes, Little Lord Fauntleroy was also written by Frances Hodgson Burnett and is in the Fiction genre.
+<user> Tony Parker is also a point guard. Do you like him?
+<assistant> Kenneth Branagh directed Mary Shelley's Frankenstein starring Robert De Niro.
+<assistant> I'm not a huge basketball fan, but I do know they play at the Toyota Center.
+<assistant> What's Eating Gilbert Grape is a good one. It was released in 1991.
+<assistant> Yes, he wrote The Ruby in the Smoke. Have you read it?
+<assistant> I think she is a great artist. Do you like her music?
+<assistant> Yes, it is a mystery novel. Do you like that genre?
+<assistant> Shadow Kiss was written by David O. Russell.
+<assistant> Yes, Superman Returns was produced by Bryan Singer. He also directed X-Men.
+<assistant> The Maze Runner is the next in the series.
+<user> I like vampire movies, can you recommend any others?
+<assistant> He directed Water for Elephants. Have you seen it?
+<assistant> The Good Earth was released in 1931.
+<assistant> Yes it was. She also starred in Desperately Seeking Susan.
+<user> I like Rohit Sharma what do you know about him?
+<assistant> Yes, he is an athlete who plays football for the Carolina Panthers. Do you like football?
+<user> When was it released?
+<assistant> Yes, I do. I also like Cloverfield starring Chris Mulkey.
+<assistant> Yes, he did star in Star Trek.
+<assistant> The Lost Symbol was written by Dan Brown and released in 1971.
+<user> I have not read Vampire Academy: The Graphic Novel. Was it written by Leigh Dragoon?
+<assistant> He directed Star Wars: Episode VI - Return of the Jedi.
+<assistant> I'm not a huge football fan, but I do like Tom Brady. Do you like him?
+<assistant> The Phantom Tollbooth is written by Norton Juster and is a Speculative fiction book. Do you like that genre?
+<assistant> Christopher McQuarrie wrote Valkyrie, which is a political thriller.
+<assistant> The Wolf of Wall Street was released in 2007. Have you read that one?
+<assistant> Sure! Easy A was produced by Will Gluck and released in 2012.
+<user> Yes I have Lee Blessing wrote it
+<assistant> Yes it was written by Rakesh Roshan and it was released in Hindi Language
+<user> What is the Genre of that book?
+<user> Who is the current head coach?
+<assistant> Yes, he was. He also wrote The Portable Atheist: Essential Readings for the Non-believer.
+<assistant> Katharine McPhee is also in Contemporary R&B. Do you like that genre?
+<assistant> Emily Ratajkowski starred in We Are Your Friends.
+<user> Is it a Romance Film?
+<assistant> A Discovery of Witches was written by Deborah Harkness and released in 2012.
+<assistant> Reflected in You was written by Sylvia Day. She also wrote One With You.
+<user> I agree. Dwayne Johnson is a great actor. He was also in Fast Five.
+<assistant> Dark Lover was released in 2005.
+<user> Yes, like The Joshua Tree.
+<assistant> Bleak House is a similar book.
+<assistant> It was released in 2014
+<assistant> The Voyages of Doctor Dolittle is speculative fiction.
+<user> J. K. Rowling also wrote The Casual Vacancy.
+<assistant> The Dark World is starring Natalie Portman. Do you like her?
+<user> What genre is Three Cups of Tea?
+<assistant> You might also enjoy Riding Giants.
+<assistant> Tom Arnold starred in Mr. 3000.
+<user> I haven't seen Hoosiers, but I heard Gene Hackman was in it. Do you know him?
+<user> Falling Free is a good one. She's also a screenwriter.
+<assistant> Looper is written by Rian Johnson and stars Tom Hanks.
+<user> Who is the author of Red Queen?
+<user> I've heard of Polar Express. Can you tell me more about it?
+<assistant> Delroy Lindo starred in This Christmas. This Christmas is starring Lupe Ontiveros.
+<assistant> I think he's a good football player.
+<assistant> Will Grayson, Will Grayson was written by John Green and released in 2012.
+<assistant> It was released in 2016.
+<user> Is Peter Pan in English?
+<assistant> I'm more of a Snoop Dogg fan. He was in Baby Boy.
+<user> Who wrote Winter's Tale?
+<assistant> Marcus Chong starred in The Matrix. Do you like him?
+<user> The Prestige was written by Jonathan Nolan right?
+<assistant> Yes, he is a great player on the Poland national football team.
+<assistant> Little Women is written by Louisa May Alcott. Do you like her work?
+<assistant> Yes he did, along with Joey Lauren Adams.
+<assistant> Yes, he also won the Academy of Country Music Award for Entertainer of the Year.
+<assistant> Yes, it was written by Simon Pegg and stars Matt Damon.
+<user> Did she also write The Shadowhunter's Codex?
+<assistant> Denzel Washington is the main actor in that movie.
+<user> I have not but I will have to check it out. She also starred in He's Just Not That Into You. Have you seen it?
+<assistant> Dustin Fitzsimons starred in The Social Network. Have you seen it?
+<assistant> Yes it is, like Wreck-It Ralph. Have you seen it?
+<user> Who wrote The Goonies?
+<assistant> Someone Like You is similar to X-Men: The Last Stand.
+<assistant> Shackleton is an action/adventure film starring Embeth Davidtz.
+<user> Murray Hamilton also starred in The Way We Were with Sally Kirkland.
+<user> No I haven't
+<assistant> Yes, it was written by J.K. Rowling and released in 2013.
+<user> I didn't know that. Do you know any other players on that team?
+<assistant> He directed The Devil Wears Prada. Have you seen it?
+<user> What genre is Circling the Sun?
+<user> I haven't seen Taken 2. Who else stars in it?
+<assistant> Yes, he wrote Marina.
+<assistant> Jane Eyre was written by Michael Mason and released in 1891.
+<user> Yes it was. It also starred Frances Conroy.
+<assistant> Wolf Hall was released in 2009.
+<assistant> Do you like thrillers?
+<user> Interesting. Can you tell me more about The Age of Innocence?
+<assistant> Zoë Heller also wrote Notes on a Scandal which is a Melodrama.
+<assistant> It was written by C.S. Lewis.
+<user> Who else starred in The Avengers?
+<assistant> He directed Unstoppable, starring Rosario Dawson. Have you seen it?
+<assistant> Yes, it is part of a series called The Southern Vampire Mysteries.
+<user> He starred in Just Wright.
+<user> Who else starred in The Fast and the Furious?
+<user> yes he is also an athlete
+<assistant> Yes, she was. The Juror was written by Ted Tally, who also wrote The Silence of the Lambs.
+<assistant> Paul Haggis wrote The Next Three Days.
+<assistant> Harry Potter and the Prisoner of Azkaban has genre Fantasy. Do you like Fantasy?
+<user> do you like the Pittsburgh Pirates?
+<user> No I haven't. Who else stars in it?
+<user> Is that the one with Woody Harrelson?
+<user> I don't really follow soccer either. I'm more of a fan of American football.
+<user> I like her in Contact, too. Can you recommend any other movies with her?
+<user> When was Till We Have Faces released?
+<assistant> Simón Andreu starred in Die Another Day.
+<user> I like historical fiction. Can you tell me more about Lois Lowry?
+<assistant> Yes, Kiss the Girls is a Suspense movie. Do you like that genre?
+<assistant> Fiction. World Without End is fiction.
+<assistant> Coraline was written by Neil Gaiman. It was released in 2009.
+<user> I'm not a big tennis fan. I'm more of a fan of Serena Williams.
+<assistant> She wrote Mansfield Park which is a Romance novel.
+<assistant> No, I haven't. But I love her song Our Song.
+<assistant> The Green Mile is written by Stephen King right?
+<user> I've heard of War of the Worlds. Can you tell me more about it?
+<assistant> He also wrote The Virgin Suicides
+<assistant> Yes, he wrote The Tragicall Historie of Hamlet, Prince of Denmark.
+<user> Yes, he also owns the Tampa Bay Buccaneers.
+<assistant> The Incredible Hulk was produced by Stan Lee. Stan Lee also produced Spider-Man 2.
+<user> Who else starred in Surrogates?
+<user> I love country music. I love I Don't Want This Night to End.
+<assistant> Amelie is a Romance Film. Do you like Romance films?
+<assistant> Seven Years to Sin is similar to Reflected in You
+<user> Who else starred in These Old Broads
+<assistant> Jean M. Auel wrote The Valley of Horses.
+<assistant> Yes, he is married to Caroline Wozniack.
+<user> I've seen Braveheart, but I haven't seen The Passion of the Christ. What genre is it?
+<assistant> Do you like Fantasy movies?
+<assistant> Blood Diamond was directed by Edward Zwick.
+<assistant> Seven pounds is a drama and it was released in 2012
+<user> Who else starred in True Grit?
+<assistant> Yes, she also wrote The Long Second Life of Bree Tanner and The Key to Midnight.
+<user> I would like to know more about Sean Penn. He starred in The Tree of Life.
+<user> What year was The Painted Veil released?
+<assistant> No, I haven't seen Casino Royal but I have heard of True Believer. Have you seen that one?
+<assistant> Calvin Harris is a musician. He composed Where Have You Been. Have you heard it?
+<assistant> I'm not a huge football fan, but I do know they are in the NFC West.
+<assistant> The Secret of Moonacre is a drama. It was released in 2014.
+<user> Marlon Brando also starred in The Island of Dr. Moreau.
+<user> Is it a short story?
+<assistant> Robert DeMaria Jr. wrote Gulliver's Travels. Have you read it?
+<user> I prefer Romantic Comedy
+<assistant> Do you like Casino because it is a crime movie?
+<assistant> The Goonies was edited by Steven Spielberg. Do you like thrillers?
+<user> I love that movie. Do you know of any other movies he starred in?
+<assistant> Michael Caine starred in The Prestige.
+<user> Who else starred in Cadillac Records?
+<assistant> He wrote The Strange Case of Dr Jekyll and Mr Hyde.
+<user> Did he also write Franny and Zooey?
+<user> Who wrote Harry Potter and the Prisoner of Azkaban?
+<assistant> Yes, he is a very good player. He plays for the Argentina national team.
+<assistant> Inside Man is starring Jodie Foster. Do you like her work?
+<assistant> True Blood has genre Urban fantasy. Would you like to hear more about that?
+<user> The Scarlet Letter sounds interesting, what genre is it?
+<user> Yes she did. Embassytown is a science fiction novel. Do you like science fiction?
+<user> What genre is it?
+<assistant> She is an athlete from India.
+<assistant> Yes, he is a great Quarterback.
+<assistant> Yes, it was written by Philip Pullman and released in 2012.
+<assistant> The Book Thief was written by Markus Zusak and released in 2012. Do you like his work?
+<assistant> You mean Jerry Maguire starring Drake Bell?
+<user> Is that a suspense book?
+<assistant> No, I haven't. Is that the next book in the series?
+<assistant> 11/22/63 was released in 2011.
+<assistant> He was also in What I Like About You with Michael Tollin.
+<user> When was The Giver released?
+<assistant> Anita Diamant wrote The Red Tent. Have you read it?
+<user> Who wrote The Rosie Project?
+<assistant> Saurabh Shukla starred in Slumdog Millionaire.
+<assistant> Wilson Rawls wrote Where the Red Fern Grows.
+<assistant> Yes, he did. He also wrote The Nutty Professor. Have you seen it?
+<user> Who else starred in Seven Psychopaths?
+<user> What genre is Crescendo?
+<user> I have not. Who else is in Treasure Planet?
+<assistant> Yes, he was. He was also in Johns.
+<assistant> He starred in Win a Date with Tad Hamilton!
+<assistant> Pulp Fiction was written by Quentin Tarantino who also wrote Django Unchained.
+<user> Billy Connolly also starred in Brave, right?
+<assistant> I don't know much about her other than she is a singer. Do you like her?
+<assistant> Yes, he wrote My Friend Leonard. Have you read it?
+<user> I think he's married to Gisele. She was in The Devil Wears Prada.
+<user> Who wrote it?
+<assistant> Jeff Bridges starred in Crazy Heart with Maggie Gyllenhaal.
+<user> I like Liam Neeson he also starred in The Wildest Dream
+<user> What genre is Flash Gordon?
+<user> Zoe's Tale sounds interesting. Is it a novel?
+<assistant> David Gordon Green wrote All the Real Girls.
+<assistant> He wrote Flowers for Algernon. Have you read it?
+<user> White Night sounds interesting. Can you tell me more about it?
+<assistant> Yes, it stars Keith Allen and is a Thriller.
+<user> I like Doug Liman. He also directed Fair Game. Have you seen that one?
+<assistant> Rainbow Rowell also wrote Landline. Have you read that one?
+<assistant> It was released in 1989.
+<assistant> Neil Burger wrote The Illusionist. It's a thriller. Do you like thrillers?
+<assistant> It is Non-Fiction
+<assistant> I know she starred in Pauly Shore Is Dead.
+<assistant> Yes, he starred in Fight Club. Have you seen it?
+<user> I love Sci-Fi movies. Can you recommend any other movies in that genre?
+<assistant> Sure, Bob Peck starred in Slipstream (Science Fiction Film) #94. Have you seen it?
+<user> What genre is The Wide Window?
+<assistant> Atonement is a Romance Film. Do you like Romance films?
+<user> I like Luke Bryan. Do you know him?
+<user> Who wrote Beatrice and Virgil?
+<assistant> She wrote Wuthering Heights. Have you read it?
+<user> Did he play in the 2012 Summer Olympics?
+<assistant> Channing Tatum also starred in She's the Man. Have you seen it?
+<assistant> The sequel was released in 2012
+<assistant> I have not, but Zoë Kravitz is in it. Do you like her?
+<assistant> The Amber Spyglass is written by Philip Pullman. Are you a fan of his work?
+<assistant> Yes, he wrote Ὀδύσσεια.
+<assistant> I'm not sure, but it was written by Tad Williams.
+<assistant> Yes, Rosario Dawson starred in Zookeeper and was released in 2011.
+<assistant> Dave McKean wrote The Sandman: Endless Nights.
+<user> I like Adventure Film. I also like Fire and Ice.
+<assistant> yes he was. what else can I answer for you?
+<assistant> The Mask stars Reg E. Cathey.
+<assistant> I'm not a huge fan of her, but I know she's friends with Taylor Swift. Do you like her?
+<user> Yes, The Southern Vampire Mysteries is one of my favorites.
+<assistant> Craig Raine wrote Lolita.
+<assistant> Yes, Gabriele Muccino wrote Remember Me, My Love. Have you seen it?
+<assistant> I think Roberta Flack is soul music as well.
+<assistant> All My Sons is a play written by Arthur Miller.
+<user> When was Where we Belong released?
+<user> Who stars in Armageddon?
+<user> I like children's literature like The Witch of Blackbird Pond by Elizabeth George Speare.
+<assistant> He also wrote The Son of Sobek
+<user> Yes, she is married to Shoaib Malik.
+<user> What else has Lawrence Hauben written?
+<user> I love Caddyshack. Rodney Dangerfield is hilarious in that movie.
+<assistant> The Voyage of the Dawn Treader is part of the series.
+<assistant> The Secret History is a novel written by Anne Tyler.
+<user> Zombieland sounds interesting. Who stars in it?
+<user> I'm not a big fan of drama. Can you tell me more?
+<user> Yes, I would like to know more about The Swan Thieves.
+<user> I agree. I think Miranda Kerr is also a supermodel.
+<assistant> Derek Jacobi starred in Unforgivable Blackness.
+<assistant> Yes, they are both children's literature.
+<user> I don't know if they play Sunday, but I do know the Green Bay Packers are in the NFC North.
+<assistant> He was born in Holywood in Ireland
+<assistant> Yes, he also wrote The Fault in Our Stars.
+<assistant> Mahendra Singh Dhoni is married to Sakshi Dhoni.
+<assistant> Herman Melville wrote Moby-Dick; or, The Whale.
+<assistant> Seabiscuit was inducted into the National Museum of Racing and Hall of Fame.
+<assistant> It was released in 1867
+<assistant> Speak Now is one of her most popular songs.
+<assistant> I love her song Your Love Is My Drug. Have you heard it?
+<assistant> The Martian is starring Matt Damon. Do you like his movies?
+<assistant> Delirious (Romantic Comedy Film) #86 is a romantic comedy starring Zach Grenier.
+<assistant> Street Smart is a crime fiction film starring Morgan Freeman.
+<assistant> He was in The Matrix, directed by Lana Wachowski. Are you a fan of Sci-Fi?
+<user> Who else starred in Wild Target?
+<user> What genre is it?
+<assistant> Maggie Stiefvater wrote The Scorpio Races.
+<assistant> Yes, it was written by James Sallis and released in 2006.
+<user> I like the Seattle Seahawks, but I'm more of a Dallas Cowboys fan.
+<assistant> Howl's Moving Castle was written by Diana Wynne Jones and released in 1947.
+<assistant> Yes, The Crucible is a good one. It was written by Arthur Miller.
+<assistant> Yes, it was written by Max Brooks.
+<assistant> She also wrote Wedding Night.
+<assistant> Maria Semple wrote Where'd You Go, Bernadette. Do you like her work?
+<assistant> Will Grayson, Will Grayson has genre Young-adult fiction. Do you like young adult fiction?
+<assistant> The Bourne Supremacy was released in 2004. Do you like thrillers?
+<user> I think they won Super Bowl X.
+<assistant> I don't know much about them other than they are coached by José Mourinho.
+<assistant> Stephen R. Covey wrote The 7 Habits of Highly Effective People.
+<user> Yes, I like historical fiction like Wish You Well
+<assistant> Tyler Labine starred in Monsters University.
+<user> I didn't know that. Who else starred in Cars 2?
+<assistant> Yes, Requiem was written by Lauren Oliver.
+<user> Who else starred in Sin City?
+<user> What else did Rebecca Wells write?
+<assistant> Zoom is another action movie that you might enjoy.
+<user> No, I haven't. What genre is it?
+<assistant> I haven't heard of The Fault in Our Stars but I have seen Looking for Alaska.
+<assistant> I think she is a great singer. She starred in Evita, a musical drama film.
+<assistant> Yes, Nicola Kraus is a writer.
+<user> Michael Jordan also won the NBA Rookie of the Year Award.
+<user> What genre is Thirteen Moons?
+<assistant> It is a Romance Film, similar to The Curious Case of Benjamin Button.
+<assistant> Yes, Mario Puzo also wrote The Sicilian.
+<assistant> The Lucky One is written by Nicholas Sparks. Do you like his work?
+<assistant> Max Lucado is another great author.
+<user> I like Sci-Fi. I like comedies.
+<assistant> Zoo was released in 2012. It's a science fiction book.
+<assistant> The Tuxedo is another good one. Have you seen it?
+<assistant> Maya Angelou wrote I Know Why the Caged Bird Sings which is a Biography.
+<assistant> Stephanie Perkins starred in Anna and the French Kiss. Do you like her movies?
+<assistant> Quentin Tarantino wrote Grindhouse. Grindhouse is produced by Elizabeth Avellán.
+<assistant> Shia LaBeouf also starred in Transformers.
+<assistant> He also starred in Youngblood.
+<assistant> Stephen Baldwin also starred in Fled.
+<assistant> Oliver Reed starred in Gladiator. Gladiator was written by David Franzoni.
+<assistant> Yes he did, along with Jon Favreau filmography.
+<user> Jerome Harrison is a running back right?
+<assistant> She wrote Snow Flower and the Secret Fan. Have you read it?
+<assistant> Yes, he also wrote The Importance of Being Earnest.
+<user> Yes I do. I also like The Expendables 3. Have you seen it?
+<user> I don't know much about them. I think they are in the AFC North. Do you like them?
+<assistant> Yes, I love Heinz Field. It's one of my favorite stadiums.
+<assistant> Sullivan Stapleton starred in 300: Rise of an Empire.
+<assistant> Yes, he is from Warsaw and plays for the Poland national football team.
+<user> I love pop songs. Do you know any of her other songs?
+<assistant> Yes, he directed 300: Rise of an Empire. Have you seen it?
+<assistant> I don't know much about them. I know they are in the National League. Do you like them?
+<user> I'm not a huge fan of Kris Humphries, but I like the Minnesota Twins.
+<user> I love American Beauty. Who wrote it?
+<assistant> Yes, it starred Vanessa Lee Chester and was a great movie.
+<assistant> Jeffrey Zaslow wrote The Last Lecture. Have you read it?
+<assistant> It was released in 1950.
+<user> Yes, he plays for FC Barcelona.
+<user> Yes, he directed Mad Max: Fury Road starring Tom Hardy
+<assistant> He's on the Poland national football team, right?
+<user> Who else starred in Hot Fuzz?
+<user> What year was it released?
+<assistant> The Warrior's Way is another good action movie. Have you seen it?
+<assistant> I do! He starred in 8 Mile. Have you seen it?
+<assistant> It was released in 1987.
+<assistant> I agree! Tracy Chapman is one of my favorite Rhythm and Blues artists.
+<assistant> Harold Ramis wrote Groundhog Day. Have you seen it?
+<assistant> A Midsummer Night's Dream is written by William Shakespeare.
+<user> I like Kelly Rowland too. Did she star in Think Like A Man with Rasual Butler?
+<user> What genre is Till We Have Faces?
+<assistant> Sofia Coppola wrote Somewhere starring Eliza Coupe.
+<user> I agree. Mad TV has genre Satire. Do you like that genre?
+<user> Who wrote Monsters University?
+<assistant> Zoë Kravitz is from the United States of America, right?
+<user> Did Debra Hill also write Escape from L.A.?
+<assistant> Dead Poets Society stars Robin Williams. Do you like his movies?
+<user> He also starred in Star Trek, right?
+<user> Is Shackleton an action/adventure film?
+<user> I didn't know that. Wasn't The Muppets written by Jason Segel?
+<user> What genre is In Time?
+<assistant> Z for Zachariah
+<assistant> Kevin Spacey starred in Beyond the Sea, which is a biographical film. Do you like biographical films?
+<user> Who else starred in O Brother, Where Art Thou?
+<assistant> Como agua para chocolate is a thriller.
+<assistant> Defending Jacob is a novel written by William Landay.
+<user> I don't know much about him other than he is a quarterback like Tom Brady.
+<assistant> Wolf Brother is a fiction book
+<user> The Pillars of the Earth is a drama, right?
+<user> What else has Tom Waits been in?
+<user> No, I haven't. Can you tell me more about Al Pacino?
+<assistant> Yes, X-Men is an action packed movie. Do you like action movies?
+<assistant> Paul Verhoeven wrote Black Book.
+<user> Is he from Santa Marta?
+<user> What other movies did Matt Damon star in?
+<user> Can you tell me more about Wedding Night?
+<assistant> William Goldman wrote The Princess Bride. Have you read it?
+<assistant> Yes, she was influenced by William Faulkner.
+<assistant> Yes, he was. He also wrote Romeo and Juliet.
+<assistant> Art Spiegelman wrote The New York Trilogy.
+<user> What genre is Nowhere Boy?
+<assistant> Misery was directed by Rob Reiner who also directed This is Spinal Tap.
+<assistant> Alice Braga also starred in I Am Legend.
+<user> I've heard of that one. Can you tell me more about it?
+<assistant> City of Glass is the next book in the series.
+<user> Who else directed Once Upon a Time in America?
+<user> Who else starred in 10 Things I Hate About You?
+<assistant> Michael O'Neill starred in Transformers. Have you seen it?
+<assistant> John Lasseter directed Cars 2. Cars 2 is written by Brad Lewis
+<assistant> I don't follow too much soccer either. I know that the Prudential Center is a building in Paris.
+<user> I love Rupert Grint, what other movies has he been in?
+<assistant> Nightcrawler stars Michael Papajohn, who also starred in Spider-Man.
+<user> Is Fidel a drama?
+<user> The White Album is by The Beatles. I think I will check that one out.
+<user> Who starred in The Proposal?
+<user> I think Dwyane Wade won the NBA Rookie of the Year Award.
+<user> Shelley Duvall starred in Time Bandits, right?
+<assistant> Toni Morrison wrote The Bluest Eye.
+<user> I don't think so. I think they are coached by Pete Carroll.
+<user> Yes, I love Young-adult fiction like Will Grayson, Will Grayson.
+<assistant> I don't think so. I think she won the Juno Award for Album of the Year.
+<assistant> Maya Angelou wrote I Know Why the Caged Bird Sings which is an autobiography.
+<assistant> Rohit Sharma is an athlete who plays cricket. Do you like cricket?
+<assistant> He also plays for FC Barcelona.
+<user> Is Tomorrow, When the War Began similar to The Third Day, The Frost?
+<assistant> The Husband's Secret was written by Liane Moriarty and released in 2012. Do you like her work?
+<assistant> It's a crime drama. Do you like that genre?
+<user> I'm not a huge soccer fan but I do know that Ángel Di María plays Midfielder.
+<user> I think David Platt is one of the best coaches ever.
+<assistant> Danny Boyle directed 127 Hours, which is a biographical film.
+<user> I think he also starred in Catch Me If You Can.
+<user> When was it released?
+<assistant> Sure! She wrote Wicked Business and The Secret Life of Bees.
+<assistant> He also wrote Creepshow. Creepshow has genre Cult film.
+<assistant> John Carpenter wrote Escape from New York, starring Jamie Lee Curtis. Have you seen it?
+<user> Did he also write Once Upon a Time in Mexico?
+<assistant> In Cold Blood was written by Truman Capote.
+<assistant> I don't know much about them other than they are coached by José Mourinho.
+<assistant> Yes, he was born in Akron. That's where LeBron James was born.
+<assistant> The Princess Diaries is a Romance Film. Do you like Romance films?
+<assistant> I'm not a huge fan of the Panthers, but I do like the NFC South.
+<user> Where the Red Fern Grows sounds interesting. Can you tell me more about it?
+<assistant> Marsha Norman wrote The Color Purple.
+<assistant> The Last Olympian was written by Rick Riordan and released in 2003.
+<assistant> She also wrote White Teeth, which is about Great Britain.
+<assistant> The Ruby Circle is part of the Vampire Academy Collection.
+<assistant> Oh yes, she is a great tennis player, she also has a sibling named Serena Williams
+<user> Who else starred in Yes Man?
+<assistant> He wrote Jane Eyre.
+<assistant> Kim Edwards wrote The Memory Keeper's Daughter.
+<assistant> Where the Heart Is was written by Billie Letts and released in 1971.
+<assistant> He also directed Deconstructing Harry. Have you seen it?
+<assistant> Yes, it is part of the series Sherlock Holmes.
+<user> I will check it out. Thank you for the information.
+<assistant> Yes, it is starring Samuel L. Jackson.
+<user> I'm not familiar with him. I know he wrote The Old Curiosity Shop. Can you tell me more?
+<assistant> I'm not sure if Alonzo Mourning was in Space Jam, but Patrick Ewing was in it.
+<assistant> She also wrote Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination.
+<assistant> I'm not a huge baseball fan, but I do know that Fred Wilpon owns the team.
+<user> No, I haven't. Is it a film?
+<assistant> She wrote Charlotte's Web. Have you read it?
+<assistant> Somewhere in Time is similar
+<user> I love Mickey Rooney. What other movies did he star in?
+<user> Yes, she did.
+<user> Humphrey Bogart also starred in Thank Your Lucky Stars with Hattie McDaniel.
+<assistant> Yes, The Sea Inside is a Biographical film.
+<assistant> She wrote Reached. Have you read that one?
+<assistant> Whiplash is starring J.K. Simmons. Do you like thrillers?
+<assistant> Billy Elliot the Musical is a play.
+<user> Is that a comedy-drama?
+<assistant> Ed Sheeran is a songwriter. Do you like his work?
+<assistant> Milos Forman directed Amadeus.
+<user> Yes, I love Jerry Spinelli. He also wrote Milkweed.
+<assistant> Yes, he also starred in The Pursuit of Happyness. Have you seen it?
+<assistant> Yes, he wrote Il Principe.
+<assistant> I'm not a huge football fan, but I do know that John York owns the team.
+<user> No, I haven't seen it. Who else is in it?
+<assistant> Michael Gerard Bauer also wrote The Running Man. Have you seen it?
+<user> Zodiac sounds interesting. Can you tell me more about it?
+<assistant> Yes, The Story of Doctor Dolittle was written by Michael Hague.
+<user> Did Sophie Kinsella also write Wedding Night?
+<user> yes he is. I like Tito Vilanova. do you like him?
+<assistant> I don't know much about the Texans, but I do know they are in the National Football League.
+<assistant> Inglourious Basterds was written by Quentin Tarantino and released in 1994.
+<assistant> Hellboy is a Sci-Fi movie. The Wolverine is a similar movie.
+<user> I like Non-Fiction. I would also recommend The Wolf of Wall Street.
+<assistant> Yes, it was written by Kazuo Ishiguro and he also wrote When We Were Orphans.
+<assistant> Yes, it is a comedy-drama.
+<user> Yes, he is. I like Serena Williams. Do you like her?
+<assistant> J. K. Rowling also wrote Quidditch Through the Ages.
+<assistant> Stephen King also starred in The Stand. Have you seen it?
+<user> Can you tell me more about Circling the Sun?
+<assistant> Yes, Zooey Deschanel was also in it.
+<assistant> Edgar Wright wrote The World's End.
+<user> I'm not sure, but Gisele starred in The Devil Wears Prada.
+<assistant> Sure! Tony Goldwyn starred in Someone Like You. Have you seen it?
+<user> I love Turbulence. Who else starred in it?
+<assistant> I'm not sure, but I do know he is an Asian American.
+<assistant> I think Zooey Deschanel is also a model.
+<user> No, I haven't seen Beautiful Creatures. Can you tell me more about it?
+<assistant> I agree. I think Michael Chang is a great player.
+<assistant> Yes, I love that movie. Larry Miller was also in it. Have you seen it?
+<assistant> Thomas F. Wilson starred in Zoom. Have you seen it?
+<user> Yes, I have read Timequake. Have you read it?
+<assistant> I don't know much about him other than he is a writer.
+<assistant> Laura Joffe Numeroff wrote If You Take a Mouse to the Movies.
+<user> I am not a fan of the Buffalo Bills. I am more of a Dallas Cowboys fan.
+<user> Do you know of any other books written by Jared Diamond?
+<assistant> Beautiful Creatures is a good one.
+<assistant> It stars Xzibit and Jada Pinkett Smith.
+<assistant> Magical Thinking: True Stories
+<assistant> Yes, Morgan Freeman was also in Along Came a Spider.
+<assistant> Monty Python and the Holy Grail has genre Parody. Do you like parodies?
+<assistant> Jurassic Park III stars Téa Leoni and is a thriller. Do you like thrillers?
+<user> Yes he did, along with Sia Furler.
+<user> Who wrote The Matrix Reloaded?
+<assistant> Emma McLaughlin wrote The Nanny Diaries.
+<assistant> Yes, it is starring Jim Carrey. Do you like him?
+<assistant> Michael Hague.
+<user> Who else was in The Painted Veil?
+<assistant> It was written by John Scalzi.
+<assistant> H.G. Wells wrote The Time Machine and The Invisible Man. Have you read any of these?
+<assistant> He's on the England national football team right?
+<assistant> Sure! Chris Penn starred in True Romance and The Secret Life of Bees. Have you seen those?
+<assistant> He was great. He was also on the NBA All-Rookie Team.
+<assistant> Yes he did he also starred in Wonderland which is a crime thriller film
+<user> I'm not a huge tennis fan, but I've seen him in The Expendables 2.
+<assistant> Yes, it is an action film.
+<assistant> Have you seen Zombieland? It's a sci-fi movie.
+<assistant> He directed The Simpsons Movie. Have you seen it?
+<assistant> Frostbite was written by Richelle Mead and released in 2014.
+<user> Is Four Blind MIce a mystery?
+<assistant> He plays for Real Madrid C.F..
+<assistant> Yes, she also wrote The Swan Thieves and The Historian.
+<assistant> Rafael Benítez is one of the players.
+<assistant> William Paul Young wrote The Shack: Where Tragedy Confronts Eternity.
+<assistant> Pocahontas (Animation Film) #61 is a good one.
+<assistant> Édith Piaf is also a songwriter.
+<assistant> Yes, he wrote These Happy Golden Years. Have you read it?
+<user> What genre is Breathing Lessons?
+<user> what genre is Independence Day?
+<user> Yes, I do like Natalie Portman. She starred in No Strings Attached. Have you seen it?
+<assistant> Der Tod in Venedig was released in 1912.
+<assistant> The Machinist is a Thriller and Drama.
+<assistant> Yes she did. She also wrote Dreamland.
+<user> A Beautiful Wedding sounds interesting. Can you tell me more about it?
+<assistant> Jason Derulo is a country singer. He is dating Jordin Sparks. Do you like her?
+<assistant> Yes, Simon McBurney also wrote Mr. Bean's Holiday.
+<user> The Postman is an adventure movie. Do you like that genre?
+<assistant> Fifty Shades Darker was written by E.L. James and released in 2014.
+<user> No, I did not know that. I know that he plays for the Pune Warriors India.
+<user> I'm not sure, but I do like football movies like Remember the Titans.
+<assistant> Tom Hooper directed The King's Speech. Have you seen it?
+<assistant> Yes, she did. She was also in the 2012 Summer Olympics.
+<user> I have not read Thirteen Moons. Can you tell me more about it?
+<user> I'm not familiar with The Mists of Avalon. Is it a fantasy?
+<assistant> She was also in The House Bunny. Have you seen it?
+<user> I think I've heard of The Sneetches and Other Stories. Can you tell me more about that one?
+<assistant> Yes, she starred in Taken. Have you seen it?
+<assistant> Brave New World was written by Aldous Huxley. Do you like his work?
+<user> Who else starred in that movie?
+<assistant> Hugo was directed by Martin Scorsese.
+<assistant> Stephen J. Dubner wrote Freakonomics: A Rogue Economist Explores the Hidden Side of Everything, in language English
+<assistant> Neuromancer has genre Speculative fiction. Do you like speculative fiction?
+<user> Wasn't Wladimir Klitschko married to Hayden Panettiere?
+<assistant> Ara Celi starred in American Beauty. Have you seen it?
+<assistant> Alexander McCall Smith wrote The No. 1 Ladies' Detective Agency.
+<assistant> The Battle of the Labyrinth is part of a series. The next book in the series is The Titan's Curse.
+<user> I love Monsters, Inc. I also like America's Sweethearts.
+<assistant> Jada Pinkett Smith starred in The Nutty Professor.
+<assistant> Ella Enchanted is written by Gail Carson Levine.
+<assistant> World War Z is a good one.
+<assistant> Minority Report is written by Philip K. Dick and stars Tom Cruise. Do you like Tom Cruise?
+<assistant> I'm not a huge baseball fan, but I do like Mr. Met.
+<user> Yes, I love Robert De Niro. He was also in Wag the Dog.
+<assistant> Yes, Scream of the Banshee stars Lauren Holly.
+<assistant> The genre is Music and Drama.
+<user> Who else is in Witness?
+<assistant> Yes, it was written by John Higgins and is a thriller. Do you like thrillers?
+<user> Who else wrote The Golden Compass?
+<user> No, I haven't. Who else starred in Cars 2?
+<user> No I haven't. When was The Great Dune Trilogy released?
+<assistant> He plays for the Chile national football team.
+<user> I think Laurence Fishburne was also in that movie. What else can you tell me about it?
+<assistant> Glen David Gold.
+<user> Yes, he won the MTV Video Music Award for Best Rap Video.
+<user> No I did not. Mexico City is also the birthplace of Under the Volcano.
+<assistant> Yes, it was. Matt Damon starred in it.
+<user> What else has J.D. Salinger written?
+<user> Who else starred in Hitch?
+<assistant> Yes, he did.
+<assistant> Hotel on the Corner of Bitter and Sweet is Historical fiction.
+<assistant> Green Lantern is an action movie. Do you like action movies?
+<assistant> I'm not a huge Bears fan but I do like Tom Brady.
+<user> No, I haven't. What genre is Where Rainbows End?
+<assistant> Yes, she was in Good Deeds with Tyler Perry.
+<user> Was that written by Isaac Asimov?
+<user> Yes they did.
+<assistant> Yes, it is. The Giver is also considered children's literature. Have you read it?
+<assistant> I know they are owned by Jay-Z.
+<user> I like Adam Levine. He starred in Begin Again. Have you seen it?
+<assistant> I know that they are coached by Radomir Antić and Cristiano Ronaldo.
+<user> Who else starred in that movie?
+<user> What genre is The Devil Wears Prada?
+<assistant> Leonard Peikoff wrote We the Living. Have you read it?
+<assistant> The Green Mile stars Tom Hanks and is a Thriller.
+<assistant> Argo was written by Tony Mendez. He also wrote the screenplay.
+<assistant> The Notebook was written by Nicholas Sparks and released in 1891.
+<user> Tom Petty is one of my favorite guitar players. Have you heard of him?
+<user> I like Horror, can you recommend any other Horror books?
+<user> The Fame Monster sounds familiar. I like Lady Gaga. Do you know her?
+<assistant> Stargate Universe is another good one.
+<user> That's right, I like crime movies like Z Storm. Have you seen it?
+<assistant> Anita Diamant wrote The Red Tent.
+<assistant> I did not know that. Did you know that Marty Robbins died in Nashville?
+<user> Yes. He also wrote Starter for Ten.
+<assistant> I'm not familiar with her work, but I know she wrote I Know Why the Caged Bird Sings.
+<user> Tika Sumpter also starred in Ride Along, right?
+<assistant> Michael Shannon starred in Groundhog Day.
+<assistant> Do you like Speculative fiction?
+<assistant> I think he's a good point guard. Do you like him?
+<user> No, I haven't seen it. Can you tell me more about it?
+<assistant> Yes, he was. Adam Sandler also wrote Happy Gilmore.
+<assistant> Vivica A. Fox starred in Kill Bill: Vol. 2. She also starred in Motives.
+<user> Did he also star in Flyboys?
+<user> Yes, he is a great point guard.
+<assistant> Yes, he starred in The Civil War. Have you seen it?
+<assistant> The Art of Racing in the Rain was written by Garth Stein and released in 1971.
+<assistant> Have you seen Zodiac? It's a crime fiction film.
+<assistant> Michelle Wie is a golfer from Honolulu. Do you like her?
+<user> I think Marco Reus is also on that team. Do you know him?
+<assistant> Yes, she wrote Call Me Maybe. Do you like her music?
+<assistant> I think they are a good team. Louis van Gaal is their coach.
+<user> Zodiac is starring Robert Downey Jr. right?
+<assistant> I like Justin Timberlake, but I'm more into his wife Cameron Diaz.
+<assistant> Adam Brown starred in The Hobbit: An Unexpected Journey. Have you seen it?
+<user> I think she was born in Riverside County.
+<assistant> It was released in 2001.
+<assistant> He also starred in Return With Honor. Have you seen that one?
+<assistant> He wrote The Wide Window. Have you read it?
+<assistant> I don't know much about him other than he is a boxer. Do you like boxing?
+<assistant> Spencer Johnson also wrote Who Moved My Cheese?
+<assistant> Fantasy
+<assistant> TRON: Legacy is a Sci-Fi movie. Do you like sci-fi movies?
+<assistant> Wladimir Klitschko is married to Hayden Panettiere.
+<assistant> Yes, he wrote Moby-Dick and The Whale.
+<user> Mike Sellers coached the Washington Redskins right?
+<assistant> It was directed by Oliver Hirschbiegel.
+<user> Virat Kohli is also a popular athlete.
+<assistant> He directed Surf's Up, which is an animated film.
+<assistant> Yes she was. Ashton Kutcher was also in it.
+<assistant> Yes, she did. Big Little Lies was released in 2014.
+<user> Is that a romantic comedy?
+<assistant> Pulp Fiction was directed by Quentin Tarantino.
+<assistant> Inside Man is a Thriller. Do you like Thrillers?
+<assistant> They are a baseball team coached by John Farrell. Do you like baseball?
+<assistant> Sure, Peter Boyle starred in Young Frankenstein. Have you seen it?
+<user> Is Welcome to Mooseport a comedy?
+<assistant> Yes, he also wrote Tess of the d'Urbervilles: A Pure Woman Faithfully Presented.
+<assistant> Iron Man is an action movie. Do you like action movies?
+<user> I haven't, but I heard he founded the AIDS Foundation.
+<user> I did not know that. Did he also write Arc de Triomphe?
+<assistant> The horse and his boy is written by C.S. Lewis. Do you like his work?
+<assistant> Tyler Mane starred in it
+<user> What genre is The Bourne Identity?
+<assistant> He also starred in The Croods. Have you seen that one?
+<assistant> She also wrote Crystal Singer
+<user> No, I haven't. Is it an action film?
+<assistant> Viggo Mortensen starred in Prison. Do you like him?
+<user> Did Jessica Alba also star in Valentine's Day?
+<user> No, I haven't. What genre is The Boy in the Striped Pyjamas?
+<user> I think so. I think Michael Bloomberg is also a politician.
+<assistant> The Talented Mr. Ripley is a similar movie to Pirates of the Caribbean.
+<assistant> Rush is an action film. Do you like action movies?
+<assistant> Shackleton is an action/adventure film starring Kevin McNally.
+<assistant> The Cat in the Hat is written by Dr. Seuss. Do you like his books?
+<user> Wasn't David and Goliath directed by Orson Welles?
+<assistant> The Virgin Suicides was released in 1993.
+<assistant> Did you know she also starred in The Smurts 2 and the Muppets?
+<user> Is that from England?
+<assistant> I love it! Matt Damon is one of my favorite actors.
+<assistant> I don't know much about him other than he's friends with Taylor Swift. Do you like her?
+<assistant> What Alice Forgot is in language English. Do you like that language?
+<user> He also wrote Corpse Bride
+<assistant> Anne-Marie
+<assistant> It was released in 1929 and written by Jan Brett.
+<assistant> The Mist is a great sci fi book. It was released in 2005. Have you read it?
+<assistant> I'm not a huge fan of the Texans, but I do like their mascot Toro.
+<user> Gladiator sounds interesting. Can you tell me more about it?
+<user> I like Paul McCartney, but I'm not familiar with his music.
+<assistant> Sure, Antoine Fuqua directed Olympus Has Fallen. Have you seen it?
+<assistant> Voltaire wrote Candide.
+<user> No, I haven't. Can you tell me more about it?
+<user> Emma Stone is one of the main actors.
+<user> Did he date Anna Kournikova?
+<assistant> Yes, he also wrote The Call of the Wild, White Fang and Other Stories.
+<assistant> Yes, he is a great actor. Do you like him?
+<user> I've been a fan of the New York Rangers since I was a kid.
+<assistant> Terry Jones and Kenneth Colley starred in Life of Brian
+<assistant> Yes, she is a singer like Beyoncé Knowles.
+<assistant> Up is a fantasy film.
+<assistant> Yes, he also wrote The Restaurant at the End of the Universe
+<assistant> Phil LaMarr starred in The Adventures of Brer Rabbit.
+<assistant> Yes, she is a scientist.
+<user> Who stars in Eraserhead?
+<user> What genre is Tourist Season?
+<user> I love Kyla Pratt, what other movies has she been in?
+<assistant> Yes, Shark Night is a thriller and suspense movie.
+<assistant> The Old Man and the Sea was written by Ernest Hemingway.
+<user> Did she also write The First Man in Rome?
+<assistant> I agree. I like Todd Walker. Do you like him?
+<assistant> Christopher Bigsby is a writer. He also wrote The Crucible.
+<assistant> She directed American Psycho starring Samantha Mathis.
+<user> Shannen Doherty also starred in Beverly Hills, 90210.
+<assistant> Yes, Woody Allen was influenced by Joan Rivers and Rita Rudner.
+<user> No I haven't. Who else is in it?
+<user> It's a thriller, right?
+<assistant> I don't know much about him other than he plays for the Brazil national football team.
+<assistant> Michael Parks starred in Death Proof.
+<assistant> Yes, I love that movie. Taylor Lautner is one of my favorite actors.
+<assistant> Judy Davis also starred in The Ref.
+<assistant> Mike Colter starred in Zero Dark Thirty. Have you seen it?
+<user> No I haven't. Who wrote The 13th Warrior?
+<assistant> Michelle Wie is a golfer from Honolulu.
+<user> I like Autobiographies. Can you tell me more?
+<assistant> The Collected Poems was released in 1981.
+<user> I'm not a huge baseball fan, but I like the movie Field of Dreams starring Ray Liotta.
+<assistant> The Witch of Blackbird Pond
+<assistant> Rob Lowe and Tom Holland starred in The Stand.
+<assistant> The Ruby in the Smoke is a Speculative Fiction book.
+<assistant> Margaret Stohl wrote Dream Dark. Have you read it?
+<assistant> Yes, she also starred in Strangers with Candy
+<assistant> I don't know much about Chelsea. I know John Fraser died there.
+<assistant> Thor was also written by Stan Lee, who also wrote X-Men 2.
+<assistant> In the Woods was written by Tana French.
+<assistant> He is a player on the Spain national football team.
+<user> Radamel Falcao is a midfielder right?
+<assistant> Windtalkers is a thriller starring Nicolas Cage. Do you like thrillers?
+<assistant> Sure! Fred Willard starred in Youth in Revolt. Have you seen it?
+<user> What genre is Harry Potter and the Half-Blood Prince?
+<user> Yes, I like action movies. Do you know anything else about The Bodyguard?
+<user> What genre is Wag the Dog?
+<assistant> Greg Mottola directed Superbad. Have you seen it?
+<assistant> Sia Furler is a celebrity. Do you like her work?
+<assistant> The Hunt for Red October and Patriot Games are both political thrillers.
+<user> Bob Newhart also starred in Horrible Bosses.
+<assistant> Yes, he was hilarious in that movie.
+<assistant> He also starred in Wrath of the Titans
+<user> Maria Semple starred in I Heart Huckabees right?
+<assistant> Are you a Dr. Seuss fan?
+<user> Wasn't Jane Austen also the author of Pride and Prejudice?
+<assistant> Yes he did.
+<user> No, I haven't. Can you tell me more about Troy?
+<assistant> Walk the Line is a biography. Another biography is Journals.
+<user> I am not a huge fan of the Tennessee Titans. I am more of a Dallas Cowboys fan.
+<assistant> Kung Fu Panda stars Seth Rogan and is a comedy. Do you like comedies?
+<assistant> Yes, Hayley Atwell starred in The Pillars of the Earth.
+<assistant> Ernest Hemingway wrote A Farewell to Arms.
+<assistant> He also starred in Charlie and the Chocolate Factory.
+<user> No, I haven't. Who else was in that movie?
+<user> Who else starred in that movie?
+<assistant> I didn't know that. I think he lost to Rafael Nadal in the 2008 Summer Olympics.
+<assistant> I agree. did you know that the Vikings were the runner-up in Super Bowl XI?
+<assistant> You might also like Shark Night starring Katharine McPhee.
+<assistant> Unbreakable is a Thriller. Do you like Thrillers?
+<assistant> He directed Colombiana. Have you seen it?
+<assistant> One from the Heart is similar to Dumb & Dumber
+<user> I like Celesta. Can you tell me more about Celesta?
+<user> Yes, I agree. The Green Mile is a great movie about racism. Have you seen it?
+<user> I'm not a huge Kate Winslet fan, but I do like her in Titanic.
+<user> Yes, I love John Grisham books. Have you read Violets Are Blue by James Patterson?
+<user> Cool, when was Shark Night released?
+<user> I don't know much about basketball. I like the Utah Jazz. Do you like them?
+<assistant> Martin Gardner wrote The Portable Atheist: Essential Readings for the Non-believer.
+<assistant> I'm not a huge baseball fan, but I do know they are owned by Mark Steinbrenner.
+<user> The Last Templar sounds interesting. Is it speculative fiction?
+<user> When was it released?
+<user> Who wrote Mansfield Park?
+<assistant> Sure! Thomas F. Wilson starred in Zoom. Have you seen it?
+<assistant> Yes, he is a great actor. He was born in London.
+<user> I like Sci-Fi. I like Zombieland.
+<user> I have read Jane Eyre but not Wuthering Heights.
+<assistant> Sure, Sam Rockwell also starred in Galaxy Quest. Have you seen it?
+<user> Do you like comedy?
+<assistant> The Godfather has genre Drama. Do you like that genre?
+<user> I haven't seen that one, what genre is it?
+<user> Yes, it was written by James Patterson. Do you know any other books by him?
+<user> Zookeeper is a romantic comedy starring Sylvester Stallone right?
+<assistant> A Song of Ice and Fire is the next book in the series.
+<assistant> Yes, The Westing Game is a great book. It was released in 1994.
+<assistant> He also produced War, Inc.
+<assistant> Brad Pitt starred in Troy with Tyler Mane.
+<assistant> Yes, I love Matt Damon. Do you like him?
+<assistant> 12 Angry Men is a crime movie. Do you like crime movies?
+<assistant> He directed Star Wars: Episode V - The Empire Strikes Back.
+<assistant> She is a golfer from Honolulu.
+<user> The Chocolate War sounds interesting. Can you tell me more about it?
+<user> I love Crime Fiction. I think Gone, Baby, Gone is a good one.
+<user> I like the Minnesota Vikings, but I don't like the New Orleans Saints.
+<assistant> I don't know much about him other than he's a cricket player.
+<assistant> He wrote The Tragicall Historie of Hamlet, Prince of Denmark.
+<assistant> It was written by Terry Jones and is a great comedy.
+<assistant> He also starred in The Dirty Dozen. Have you seen it?
+<assistant> Carrie is a horror film. It was produced by Stephen King.
+<assistant> Have you seen Wild Things 2? It stars Susan Ward.
+<assistant> Watership Down was written by Richard Adams.
+<assistant> Yes, they are an alternative rock band. Do you like them?
+<user> I didn't know that. I think Demi Lovato is also a dancer.
+<assistant> Yes they have participated in the 2012 Summer Olympics.
+<user> I think he is related to Wayne Rooney. Do you know anything about him?
+<user> What year was it released?
+<assistant> Leonardo DiCaprio starred in The Aviator (Biographical Film) #6. Have you seen it?
+<assistant> Sure! He starred in Unlawful Entry and The Last Samurai. Have you seen either of those?
+<assistant> Yes, it was written by Andy Wachowski and starred Keanu Reeves.
+<assistant> Éric-Emmanuel Schmitt is also a writer. what else can I answer for you?
+<assistant> It was written by Art Spiegelman.
+<assistant> Yes, it was written by Ally Condie and released in 2014.
+<user> Is he on the Wales national football team?
+<user> Is that the one with Sam Elliott?
+<user> Yes, I love post apocalyptic fiction. Can you tell me more about The Stand?
+<assistant> Gil Junger directed Black Knight. Have you seen it?
+<user> Yes, he is a boxer. Do you like him?
+<assistant> Kick-Ass stars Xander Berkeley.
+<assistant> Beverly D'Angela starred in Eye for an Eye, which was written by Erika Holzer.
+<user> Yes they are they are a National Football League team
+<user> Who wrote The Next Three Days?
+<user> I like Max Brooks. What other books has he written?
+<assistant> Harper Lee wrote To Kill a Mockingbird. Have you read it?
+<user> Yes, I love Bram Stoker. What other books has he written?
+<assistant> Sachin Tendulkar and Shoaib Malik.
+<assistant> Bobby Farrelly starred in Stuck on You.
+<user> Cool, can you tell me more about it?
+<user> Yes, I do like adventure films.
+<assistant> Coyote Ugly was a great movie. LeAnn Rimes was also in it.
+<assistant> Frank Herbert wrote The Great Dune Trilogy. Have you read it?
+<user> I did not know that. Renée Zellweger was also in Jerry Maguire.
+<assistant> Xander Berkeley starred in Nikita.
+<assistant> Yes, he did. He also starred in The Island.
+<user> When was Carry On released?
+<assistant> He's been in The Divide. It's a western.
+<assistant> He also wrote Inland Empire.
+<assistant> Sure, The Sky Crawlers is a Thriller and the Battle Royale is a Crime Fiction.
+<assistant> It was released in 1989
+<assistant> Titan A.E. was written by Joss Whedon. I love his movies!
+<user> I think so. I think Tyra Banks is also a model.
+<assistant> Yes, Zoe's Tale is a great Speculative fiction.
+<assistant> Yes, he is a good running back.
+<assistant> Yes, he was. He also starred in The Rugrats Movie. Have you seen it?
+<user> Pale Fire sounds interesting. Can you tell me more about it?
+<user> I did not know that. Did you know that Bruce Willis also starred in Armageddon?
+<assistant> Yes, it's a Sci-Fi movie. Do you like sci-fi movies?
+<assistant> Yes, he also wrote THX 1138.
+<assistant> The Running Man is a young adult fiction book.
+<user> Isn't Radamel Falcao on that team?
+<assistant> Dwayne Johnson also starred in The Scorpion King.
+<assistant> It was written by Andrew Davies
+<assistant> Fast & Furious is a crime fiction movie. Do you like that genre?
+<assistant> He is a quarterback for the Green Bay Packers. Do you like football?
+<user> I like Comedy and Drama. Do you have any other movies in that genre?
+<assistant> Kathryn Stockett is a writer and screenwriter. Do you like her work?
+<assistant> Do you like movies starring Orlando Bloom?
+<assistant> Shrek 2 was written by William Steig. Do you like his work?
+<user> No, I haven't. Can you tell me more about it?
+<user> I haven't seen X-Men or World War Z. Who else stars in it?
+<assistant> Wes Anderson wrote The Royal Tenenbaums.
+<assistant> Robert C. O'Brien wrote Z for Zachariah.
+<user> I have not. Is World War Z a Sci-Fi movie?
+<assistant> I think Mike Tomlin is a good coach.
+<assistant> Erin Morgenstern wrote The Night Circus. Have you read it?
+<assistant> Patsy Kensit also starred in The Great Gatsby. Have you seen that one?
+<assistant> Yes, it is. Have you seen Shark Night? It's a horror film.
+<assistant> Yes, I have. She also wrote Twenties Girl.
+<assistant> WALL·E stars John Ratzenberger, Kevin Spacey, and James Franco.
+<user> Yes, I like Moby Dick. What is the subject of the book?
+<assistant> Maggie Stiefvater wrote Shiver. Have you read it?
+<assistant> Yes, Denzel Washington directed Antwone Fisher.
+<assistant> The Simpsons Movie is starring Minnie Driver. Do you like her?
+<user> Yes, she also wrote The Book of Life.
+<assistant> You might enjoy Out of the Dust by Karen Hesse.
+<assistant> Transporter stars François Berléand. He also starred in A Girl Cut in Two.
+<assistant> Yes, it is a great movie starring Frances McDormand. Do you like her?
+<assistant> Yes, it was written by Sara Gruen and released in 2012.
+<assistant> Super 8 was written by J.J. Abrams. Do you like his work?
+<assistant> It was written by Emma McLaughlin. She also wrote The Nanny Diaries.
+<assistant> The Expendables 2 is an adventure film. Do you like adventure films?
+<user> I like comedy adventure. Was Marsha Thomason in it?
+<user> Yes, he also wrote Treasure Island.
+<assistant> Back to the Future Part II is a sequel to the original. Do you like sci-fi?
+<user> I'm not a huge basketball fan, but I did like Space Jam with Danny Ainge.
+<user> What genre is We Were Soldiers?
+<assistant> I don't know much about it. I know it was written by Charlaine Harris and released in 2002.
+<user> I didn't know that. She's friends with Selena Gomez, right?
+<assistant> In Cold Blood was written by Truman Capote. Do you like his work?
+<assistant> Yes she did. She also starred in Soul Surfer with Helen Hunt.
+<assistant> Yes, he starred in The O.C. with Tate Donovan.
+<assistant> Yes, he is a golfer from Dallas. Do you like him?
+<assistant> I have not, but I know she is a tennis player. Do you like tennis?
+<user> No I haven't. Is Candlestick Park an arena/Stadium?
+<user> When was Go, Dog, Go! released?
+<assistant> The Interview is a Thriller. Do you like Thrillers?
+<user> I love her in Snow White and the Huntsman. Do you know any other movies she was in?
+<assistant> Green Lantern is starring Ryan Reynolds, right?
+<assistant> Yes, Aida Turturro also starred in What About Bob?
+<assistant> Yes, Zookeeper is starring Rosario Dawson and Kevin James.
+<user> Who else was in The Wicker Man?
+<user> Yes, I remember Zoey 101. It was hilarious.
+<assistant> Yes, I love Indiana Jones and the Last Crusade. George Lucas also directed Star Wars: Episode III - Revenge of the Sith.
+<user> Can you tell me more about Stargazer?
+<assistant> Yes, it is a great novel. Do you like fiction?
+<user> I am not a huge baseball fan, but I know they were runner-up in the 1973 World Series.
+<assistant> I love his music. He composed Gnomeo & Juliet. Have you seen it?
+<assistant> She starred in White Squall. Have you seen that one?
+<assistant> Xanadu is a children's entertainment film and Olivia Newton-John is in it.
+<assistant> In Time is starring Olivia Wilde. Do you like her?
+<user> Who wrote Young Frankenstein?
+<user> I like comedies. I like Zoolander. Who else is in it?
+<user> I've heard of Breathing Lessons. Can you tell me more about it?
+<assistant> The Lucky One is written by Nicholas Sparks. Do you like his work?
+<assistant> He was inducted into the Naismith Memorial Basketball Hall of Fame
+<user> I think Udo Lattek and Tito Vilanova are also on the team. Do you know if they are any good?
+<assistant> The Giving Tree is a picture book. Do you like picture books?
+<user> Yes, I do like historical fiction. Can you tell me more about Troy?
+<user> I didn't know that. Did you know he plays for FC Groningen?
+<assistant> I love her song Listen. I also like her sister Solange Knowles.
+<user> I love Mexico. Can you recommend any other historical period dramas?
+<user> Yes, I do. He also wrote The Strange Case of Dr Jekyll and Mr Hyde.
+<user> I like Dystopia. Can you tell me more?
+<assistant> Dead Poets Society stars Robin Williams. Do you like his movies?
+<user> yes I am very interested in her
+<assistant> Into the Wild was written by Jon Krakauer and released in 2006.
+<user> I've heard of Walking Tall. Can you tell me more about it?
+<assistant> Robert Duvall starred in Days of Thunder. Do you like him?
+<assistant> Kami Garcia wrote Dream Dark. Have you read it?
+<assistant> William Shakespeare wrote A Midsummer Night's Dream.
+<assistant> I think Manny Ramirez is one of the best coaches out there.
+<user> I didn't know that. What about the San Francisco Giants?
+<user> I think Wayne Rooney is a forward too.
+<assistant> He is a cricket player from India.
+<user> I haven't seen Zookeeper. Is it a romantic comedy?
+<assistant> Skeleton Crew was released in 1985, the same year The Wishsong of Shannara was released.
+<assistant> I'm not a huge tennis fan, but I did like him in The Expendables 2.
+<user> Yes, he plays for Real Madrid C.F. and is coached by José Mourinho.
+<assistant> Have you read Something Borrowed?
+<assistant> Zack and Miri Make a Porno is a Romance Film.
+<user> No I haven't. Is it a war film?
+<user> What genre is it?
+<assistant> The Hobbit: An Unexpected Journey stars Aidan Turner. Do you like him?
+<user> Yes, I love Kyla Pratt. Can you tell me more about Shark Night?
+<assistant> David Gordon Green wrote Snow Angels starring Nicky Katt.
+<assistant> Yes, he also wrote Where Eagles Dare. Have you read that one?
+<assistant> Inception was written by Christopher Nolan and released in 2001.
+<assistant> Spike Lee wrote School Daze, starring Kasi Lemmons.
+<user> Untraceable sounds interesting. Can you tell me more about it?
+<assistant> Emma McLaughlin wrote The Nanny Diaries.
+<assistant> Yes, Holden Scott is from Massachusetts.
+<assistant> Alice Walker wrote The Temple of My Familiar. Have you read it?
+<user> Yes, I love the movie Karate Kid. It's a Romance Film, right?
+<assistant> Yes, he is. He also starred in Larry Crowne. Have you seen it?
+<assistant> Yes, she wrote Peony in Love.
+<assistant> Stargirl was written by Jerry Spinelli, who also wrote Loser.
+<assistant> Ernest H. Shepard wrote Now We Are Six.
+<assistant> It was written by John Steinbeck and released in 1943.
+<assistant> Yes, he also wrote Law Abiding Citizen.
+<assistant> JoJo Moyes wrote The Ship of Brides which was released in 2005.
+<assistant> Paula Hawkins wrote The Girl on the Train. Have you read it?
+<assistant> Mike McCarthy is the coach of the Green Bay Packers right?
+<assistant> Queen Latifah is also in that movie.
+<assistant> Paul Sorvino starred in The Stuff. Have you seen it?
+<user> Yes, I do like Tim Allen. Do you know any other movies he was in?
+<assistant> Sure! Michael Mann wrote Public Enemies, which is a Romance. Do you like Romance movies?
+<user> Yes, he starred in Star Trek. What else has he been in?
+<assistant> Maurice Sendak also wrote Chicken Soup with Rice: A Book of Months.
+<assistant> One Flew Over the Cuckoo's Nest has genre Drama. Another drama is Stone.
+<assistant> Ned Beatty starred in Shooter. He also starred in White Lightning.
+<user> Vanilla Sky is starring Penélope Cruz right?
+<assistant> War and Remembrance is a war novel. Would you like to hear more?
+<user> When was Candide released?
+<assistant> He wrote The Wise Man's Fear, which is speculative fiction.
+<assistant> Yes, it was. Steve Harvey also starred in Rhythm and blues.
+<assistant> Yes they are. The 7 Habits of Highly Effective People is written by Stephen R. Covey.
+<assistant> Gregor and the Marks of Secret is a similar book.
+<user> When was The Picture of Dorian Gray released?
+<user> I did not know that, but I know that Rafael Benítez is a midfielder as well.
+<assistant> Mahendra Singh Dhoni is a cricket player from India. Do you like cricket?
+<user> Wasn't that produced by Ron Howard?
+<user> Yes, I do. Can you tell me more about The Virgin Suicides?
+<assistant> Milo Addica wrote The King. It is an Indie film.
+<assistant> It was released in 2007
+<assistant> He starred in The Sky Crawlers and The Last Samurai. Have you seen either of those?
+<assistant> Wuthering Heights was written by Richard J. Dunn and released in 1954.
+<assistant> He starred in A Waste of Shame. Have you seen it?
+<assistant> Sure, Home Alone is a comedy. It was released in 2001.
+<assistant> Just Like Heaven is similar to Easy.
+<user> Scarlett Johansson was also in We Bought a Zoo.
+<assistant> Albus Dumbledore wrote Fantastic Beasts and Where to Find Them.
+<user> Shrek the Third sounds familiar. I think he also starred in Dreamgirls.
+<assistant> True Grit was released in 1968.
+<assistant> Yes, it is. Similar Young-adult fiction novels are Wicked Lovely, and The Time Machine.
+<user> What genre is Island of the Blue Dolphins?
+<user> Did he also write Travels with Charley: In Search of America?
+<user> Did Roger Avary also write The Rules of Attraction?
+<user> Was that directed by Lasse Hallström?
+<user> I'm not familiar with either of them, but I do know that Nicholas Sparks wrote True Believer.
+<assistant> Yes, it's a great game show.
+<assistant> Minnie Driver starred in Princess Mononoke.
+<assistant> Kill Bill: Vol. 1 has genre Action. Action movies like The World Is Not Enough are also in that genre.
+<assistant> Yes, it is. Cloverfield is a sci-fi movie.
+<assistant> I don't know much about him other than he lost to Rafael Nadal.
+<assistant> Vanessa Ferlito starred in Stand Up Guys. Have you seen that one?
+<assistant> Yes, he did. He was friends with Mac Miller.
+<assistant> Yes, it was released in 1966.
+<assistant> Fantastic Beasts and Where to Find Them is written by Newt Scamander. Are you familiar with his work?
+<assistant> Laini Taylor wrote My True Love Gave to Me: Twelve Holiday Stories.
+<user> Who else starred in A Serious Man?
+<assistant> Yes, Doc Rivers is the current coach of the Los Angeles Clippers.
+<assistant> Do you like X-Men movies?
+<user> I have not seen My Girl 2. Can you tell me more about it?
+<assistant> Safe Haven is a drama. Do you like drama?
+<assistant> Guy Ritchie directed Snatch.
+<assistant> Frankenweenie starring Robert Capron
+<user> I love Science Fiction. What other books has she written?
+<assistant> Akira Kurosawa directed Seven Samurai. Have you seen it?
+<user> Is Zombieland a Zombie movie?
+<assistant> Yes, she does. Do you like her movies?
+<assistant> Yes, he did. He also played as a linebacker.
+<assistant> Robert Ludlum wrote The Bourne Identity.
+<assistant> I agree. She was in The Muppets. Have you seen it?
+<user> I love Stephen King. He also wrote Under the Dome. Have you seen that one?
+<user> Who else starred in Taken 3?
+<assistant> Yes, Candide was released in 1759. Candide also composed the Overture.
+<assistant> Yes, it was written by Oscar Wilde.
+<assistant> I know that Jennifer Lopez owns the Miami Dolphins
+<assistant> Émile Zola wrote Thérèse Raquin.
+<user> Is it a thriller?
+<assistant> When You Are Engulfed in Flames was released in 2008.
+<assistant> Alejandro Amenábar directed The Sea Inside.
+<user> Michael Jordan owns the Charlotte Hornets right?
+<user> What's Eating Gilbert Grape sounds good. Can you tell me more about it?
+<assistant> Tom Cruise starred in Mission Impossible - Rogue Nation. Do you like him?
+<assistant> Yes, he wrote Yellow Submarine with John Lennon.
+<assistant> Marina is written by Carlos Ruiz Zafón
+<user> Is he from Dortmund?
+<user> I think Paulo Coelho also wrote Veronika decide morrer.
+<assistant> That's a great one! Have you seen The Road with Viggo Mortensen?
+<assistant> La sombra del viento was written by Lucia Graves.
+<assistant> She wrote Harry Potter and the Half-Blood Prince.
+<user> I like adventure movies like World War Z.
+<user> Is Shailene Woodley in that?
+<user> No, I have not. Can you tell me more about Will Smith?
+<assistant> Kristin Hannah wrote The Nightingale.
+<assistant> Don Cheadle starred in The Guard, which is a thriller. Do you like thrillers?
+<assistant> Station Eleven is written by Emily St. John Mandel.
+<assistant> She also wrote The Casual Vacancy.
+<user> What else has H.G. Wells written?
+<assistant> Yes, Relato de un náufrago won the Nobel Prize in Literature.
+<assistant> The Valley of Horses is part of a series. The Clan of the Cave Bear is the next in the series.
+<user> No, I haven't. Can you tell me more about The Lost Hero?
+<assistant> Space Jam also starred Michael Jordan, right?
+<user> I love Science Fiction. Dreamcatcher is one of my favorites.
+<user> Yes, it's in Washington.
+<assistant> Yes it is. It is also a short story.
+<user> Yes it is. Who else starred in Van Helsing?
+<assistant> Yes he was in Frankenweenie. He also starred in Leroy & Stitch.
+<user> What genre is The Ugly Truth?
+<assistant> Yes, it was written by J.K. Rowling and released in 2013.
+<assistant> Physics of the Impossible: A Scientific Exploration of the World of Phasers, Force Fields, Teleportation, and Time Travel
+<user> Did he also write Bartleby, the Scrivener: A Story of Wall Street?
+<assistant> I think she is an amazing athlete. She was in the 2012 Winter Olympics.
+<assistant> She also starred in You and I. Have you seen that one?
+<assistant> Gideon's Daughter also starred Miranda Richardson. Have you seen it?
+<user> What genre is Water for Elephants?
+<assistant> Brave was directed by Roland Emmerich and released in 2012.
+<user> I love Country pop. Do you like country pop?
+<assistant> It was released in 1956.
+<assistant> Yes, it is a historical period drama.
+<assistant> Yes, it is written by Frances Hodgson Burnett who also wrote The Secret Garden.
+<assistant> Yes, it stars Katharine McPhee.
+<assistant> I think he is a great songwriter.
+<user> Mike McCarthy is from Pittsburgh right?
+<assistant> Total Recall was directed by Paul Verhoeven.
+<user> Who wrote that book?
+<assistant> He is a quarterback for the New England Patriots right?
+<assistant> She also wrote Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination.
+<user> No, I haven't. Can you tell me more about it?
+<assistant> She also wrote Much Ado About Nothing.
+<assistant> Yes, he wrote The Five People You Meet in Heaven. Have you read it?
+<assistant> Yes, I love Tip of My Tongue. Have you heard it?
+<assistant> Lost in Translation was written by Sofia Coppola. Do you like her work?
+<user> I didn't know that. I think Stephen Curry won the award too.
+<assistant> I like the National Football League and the Baltimore Ravens. Do you like them?
+<assistant> Will Gluck is a Screenwriter and Film Producer. Do you like his work?
+<user> Was Jean Simmons in any other movies?
+<assistant> It's written by John Green, who also wrote Looking for Alaska.
+<assistant> Jessica Alba was also in that movie as well.
+<assistant> Matching Jack was released in 2012.
+<assistant> Sean Astin is also a film director.
+<user> What genre is Gathering Blue?
+<user> I like TV shows. I like Veronica Mars. Can you recommend anything else?
+<user> No, I haven't read any of his books. Can you tell me more about James Mill?
+<user> Yes, I like In My Head. Do you know any of his other songs?
+<assistant> Ahney Her starred in Gran Torino. Have you seen it?
+<assistant> Old School is starring Andy Dick. Do you like him?
+<assistant> J.K. Rowling wrote Harry Potter and the Order of the Phoenix.
+<user> Yes, it was released in 2012 and is a thriller. Do you like thrillers?
+<assistant> Kevin Pollak starred in Wayne's World 2.
+<user> Who else stars in Die Another Day?
+<assistant> Yuvraj Singh is an athlete who plays cricket.
+<user> Yes, he also wrote Sonnets.
+<assistant> I agree. He's friends with Selena Gomez. Do you like her?
+<assistant> Kazuo Ishiguro wrote Never Let Me Go. Have you seen it?
+<assistant> Yes, Christoph Waltz also starred in Epic (Animation Film) #58.
+<assistant> Yes he did. He also starred in Ned Kelly.
+<user> No, I haven't. Is it a comedy-drama?
+<user> Yes, I do. Who produced it?
+<assistant> Frank Grillo starred in End of Watch. He also wrote and starred in The Time Machine. Have you seen it?
+<assistant> Mekhi Phifer also starred in Subway Stories.
+<assistant> Yes he was also in Remember the Titans with Donald Faison
+<user> I love comedies like Zombieland. Can you recommend any other comedies?
+<assistant> Joseph Conrad wrote The Secret Agent: A Simple Tale. Have you read it?
+<user> Who wrote My True Love Gave to Me?
+<user> Mindy Kaling also wrote Is Everyone Hanging Out Without Me? (And Other Concerns)?
+<user> Yes, he was in The Expendables 2. Have you seen it?
+<assistant> Pretty Woman stars Ralph Bellamy. He also starred in The Awful Truth.
+<assistant> I know they are friends with Selena Gomez. Do you like her?
+<user> What genre is David Copperfield?
+<user> Hugh Jackman was also in X-Men Origins: Wolverine, right?
+<assistant> J.J. Abrams wrote Super 8. Super 8 has genre Action Film. Have you seen it?
+<assistant> Tom Hardy was also in Warrior.
+<assistant> Yes, he is one of the greatest.
+<assistant> My Blood Approves is written by Amanda Hocking.
+<user> Who else starred in Walk the Line?
+<user> What else has Tobey Maguire been in?
+<user> Is he from China?
+<assistant> Michael Hague wrote The Voyages of Doctor Dolittle.
+<assistant> Yes, they were good during the 80s. They were the runner-up in Super Bowl XXXIX.
+<user> I'm not a huge football fan, but I do know that Lovie Smith is a linebacker.
+<assistant> Yes, he starred in This is England '86. Have you seen it?
+<assistant> Olivier Megaton directed Colombiana. Have you seen it?
+<assistant> You might also enjoy Unwind. It's a science fiction book.
+<assistant> The Blind Side is written by Michael Lewis. It is a drama. Do you like drama?
+<assistant> Ben Affleck also directed Good Will Hunting. Have you seen it?
+<user> Yes, Vincent Regan starred in Black Knight.
+<assistant> The Equalizer is starring James Wilcox.
+<assistant> Yes, he did. It's a drama. Do you like drama?
+<assistant> 300: Rise of an Empire stars Sullivan Stapleton. He also starred in The Hunter.
+<assistant> Yes, it is a great movie starring Morgan Freeman. Do you like thrillers?
+<assistant> Sure, he starred in Trixie, which is a comedy-drama Film.
+<user> I like X-Men 2. What else can you tell me about it?
+<assistant> Yes, Oprah Winfrey also starred in The Princess and the Frog.
+<assistant> Shark Night is a good one. Katharine McPhee starred in it.
+<assistant> Yes, they are. They are also the producer of The Dark Knight and The Avengers.
+<assistant> The Year of the Flood is post-Apocalyptic fiction.
+<user> No I haven't, what genre is Training Day?
+<assistant> Yes, it was written by Henry Selick.
+<assistant> Yes, I do like thrillers like Shark Night starring Dustin Milligan.
+<user> I agree. She starred in Machete Kills and Men in Black 3.
+<assistant> Titanic was written by James Cameron and stars Tom Cruise. Do you like Tom Cruise?
+<user> Yes she did. It is a reality television show.
+<assistant> Jon Turteltaub directed The Kid.
+<assistant> Fight Club is written by Jim Uhls. It's a thriller. Do you like thrillers?
+<assistant> Yes, he is. He is also a member of Maroon 5.
+<assistant> Yes Welcome to Temptation
+<assistant> He was also in Slumdog Millionaire which is an Indie film.
+<assistant> Gathering Blue is a good one. Have you read it?
+<assistant> Fantastic Beasts and Where to Find Them is written by Newt Scamander.
+<assistant> He also starred in The Doors, written by Oliver Stone
+<assistant> Sure, Joseph Sikora starred in Shutter Island and The Devil's Advocate. Have you seen either of those?
+<assistant> He directed The Simpsons Movie. Have you seen it?
+<assistant> Have you read Track of the Cat? It is written by Nevada Barr.
+<assistant> Michael O'Neill starred in Dreamcatcher. Have you seen it?
+<assistant> I think he's a good Quarterback. Do you like him?
+<user> Is The Cuckoo's Calling written in English?
+<assistant> The 7 Habits of Highly Effective People was written by Stephen R. Covey. Do you like his work?
+<user> I don't know much about her, but I do know that she composed Tik Tok.
+<assistant> Yes, it was released in 1927.
+<assistant> Yes, Dark Lover was written by J.R. Ward.
+<assistant> Rupert Everett starred in this movie. He also starred in Inspector Gadget.
+<assistant> Windtalkers was directed by John Woo. He also directed The Replacement Killers.
+<user> Wes Craven also wrote My Soul to Take. Have you read that one?
+<user> Is he a Television producer as well?
+<assistant> I'm not a huge tennis fan, but I do know that Serena Williams starred in a hair show.
+<assistant> No, I haven't. But I heard The Subterraneans was released in 1958.
+<assistant> It was released in 1904.
+<user> yes The Jungle Book 2 is starring Haley Joel Osment
+<assistant> The Secret Life of Bees was written by Sue Monk Kidd and released in 1971.
+<user> No, I haven't. Can you tell me more about it?
+<user> What else has he written?
+<assistant> Rocky is written by Sylvester Stallone. Do you like his movies?
+<assistant> Yes, it's a great family movie. Do you like family movies?
+<user> I have not heard her music, but I know she is an artist.
+<assistant> Jed Brophy starred in Tracker (Action/Adventure Film) #9.
+<assistant> Yes it is. France is also part of the Andalusian Dog.
+<assistant> I don't know much about her other than she is a celebrity.
+<assistant> Alice Braga starred in The Rite. Have you seen it?
+<assistant> Gone with the Wind has genre History. We Were Soldiers is similar.
+<assistant> I'm not a big basketball fan, but I do know that Dwyane Wade is married to Gabrielle Union.
