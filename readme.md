@@ -1,3 +1,4 @@
+This is the Source Code of Paper: [RHO: Reducing Hallucination in Open-domain Dialogues with Knowledge Grounding](https://aclanthology.org/2023.findings-acl.275/)
 
 # Environment settings
 ```
