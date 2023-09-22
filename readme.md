@@ -395,6 +395,14 @@ python ~/RHO/metrics/spacy_ner.py \
 We use HuggingFace [Datasets](https://github.com/huggingface/datasets) to calculate the BLEU and ROUGE scores.
 
 
-
-
+# Bib
+```
+@inproceedings{ji2023rho,
+  title={RHO: Reducing Hallucination in Open-domain Dialogues with Knowledge Grounding},
+  author={Ji, Ziwei and Liu, Zihan and Lee, Nayeon and Yu, Tiezheng and Wilie, Bryan and Zeng, Min and Fung, Pascale},
+  booktitle={Findings of the Association for Computational Linguistics: ACL 2023},
+  pages={4504--4522},
+  year={2023}
+}
+```
 
